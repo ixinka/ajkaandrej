@@ -1,0 +1,46 @@
+<header class="article-header">
+    <a href="{{ .Permalink }}">
+    <h1 class="article-title" itemprop="name">
+        {{ .Title }}
+    </h1>
+    </a>
+    <div class="article-meta">
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="{{ .Date }}" itemprop="datePublished">{{ .Date.Format .Site.Params.date_format }}</time>
+            &middot;
+            {{ .WordCount }}
+            {{ i18n "articles.words" }}
+            &middot;
+            {{ .ReadingTime }}
+            {{ i18n "articles.readingtime" }}
+        </div>
+
+        
+        {{ if isset .Params "categories" }}
+            {{ $categoriesLen := len .Params.categories }}
+            {{ if gt $categoriesLen 0 }}
+            <div class="article-category">
+                <i class="fa fa-folder"></i>
+                {{ range $k, $v := .Params.categories }}
+                <a class="article-category-link" href="{{ ( printf "categories/%s" . | urlize | lower ) | absLangURL }}">{{ i18n (printf "category_%s" .) }}</a>
+                {{ if lt $k (sub $categoriesLen 1) }}&middot;{{ end }}
+                {{ end }}
+            </div>
+            {{ end }}
+        {{ end }}
+
+        {{ if isset .Params "tags" }}
+            {{ $tagsLen := len .Params.tags }}
+            {{ if gt $tagsLen 0 }}
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                {{ range $k, $v := .Params.tags }}
+                <a class="article-category-link" href="{{ ( printf "tags/%s" . | urlize | lower ) | absLangURL }}">{{ i18n (printf "tag_%s" .) }}</a>
+                {{ if lt $k (sub $tagsLen 1) }}&middot;{{ end }}
+                {{ end }}
+            </div>
+            {{ end }}
+        {{ end }}
+    </div>
+</header>

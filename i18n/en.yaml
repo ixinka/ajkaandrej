@@ -1,0 +1,145 @@
+# CATEGORIES
+
+- id: category_travelling
+  translation: Travelling
+
+- id: category_recipes
+  translation: Recipes
+
+- id: category_projects
+  translation: Projects
+
+- id: category_technical
+  translation: Technical
+
+- id: category_dailylife
+  translation: Daily life
+
+- id: category_uncategorized
+  translation: Uncategorized
+
+#TAGS
+  
+- id: tag_spain
+  translation: Spain
+
+- id: tag_usa
+  translation: USA
+
+- id: tag_mountains
+  translation: mountains
+
+- id: tag_dominik
+  translation: Dominik
+
+- id: tag_newyork
+  translation: New York
+
+- id: tag_germany
+  translation: Germany
+
+- id: tag_portugal
+  translation: Portugal
+
+- id: tag_sea
+  translation: sea
+
+- id: tag_panoramas
+  translation: panoramas
+
+- id: tag_baking
+  translation: baking
+
+- id: tag_java
+  translation: java
+
+- id: tag_jboss
+  translation: JBoss
+
+- id: tag_cake
+  translation: cake
+
+- id: tag_waterfall
+  translation: waterfall
+
+- id: tag_pasta
+  translation: pasta
+
+- id: tag_france
+  translation: France
+
+- id: tag_cooking
+  translation: cooking
+
+- id: tag_wedding
+  translation: wedding
+
+- id: tag_slovakia
+  translation: Slovakia
+
+- id: tag_park
+  translation: park
+
+- id: tag_italy
+  translation: Italy
+
+- id: tag_england
+  translation: England
+
+- id: tag_skiing
+  translation: skiing
+
+- id: tag_island
+  translation: island
+
+- id: tag_maven
+  translation: maven
+
+- id: tag_switzerland
+  translation: Switzerland
+
+- id: tag_virtualbaby
+  translation: Virtual baby
+
+- id: tag_birt
+  translation: BIRT
+
+- id: tag_hiking
+  translation: hiking
+
+- id: tag_bandicoot
+  translation: bandicoot
+
+- id: tag_munich
+  translation: Munich
+
+- id: tag_olivia
+  translation: Olivia
+
+- id: tag_savoury
+  translation: savoury
+
+- id: tag_mbean
+  translation: MBean
+
+- id: tag_ruins
+  translation: ruins
+
+- id: tag_beach
+  translation: beach
+
+- id: tag_meat
+  translation: meat
+
+- id: tag_austria
+  translation: Austria
+
+- id: tag_sweet
+  translation: sweet
+
+- id: tag_lake
+  translation: lake
+
+- id: tag_cerova
+  translation: Cerova
+

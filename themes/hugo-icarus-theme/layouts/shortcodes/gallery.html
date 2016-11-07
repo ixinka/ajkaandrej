@@ -1,0 +1,19 @@
+
+    <div class="article-gallery-photos2">
+        {{ range .Params }}
+        <a style="display:inline-block;" class="fancybox" href="{{ . }}" rel="group1">
+            <img src="{{ replace . ".jpg" "_thumb.jpg" | absURL }}" itemprop="image" width="100" height="75">
+        </a>
+        {{ end }}
+   </div>
+
+
+<!-- <div class="article-gallery">
+    <div class="article-gallery-photos2">
+        {{ range .Params }}
+        <a class="article-gallery-img fancybox" href="{{ . }}" rel="group1">
+            <img src="{{ . | absURL }}" itemprop="image">
+        </a>
+        {{ end }}
+    </div>
+</div> -->

@@ -1,0 +1,110 @@
+baseurl = "http://www.ajka-andrej.com"
+languageCode = "en-us"
+title = "Ajka+Andrej"
+
+# Enable comments by entering your Disqus shortname
+disqusShortname = "ajkaandrej"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-6865320-1"
+# Define the number of posts per page
+paginate = 10
+footnotereturnlinkcontents = "↩"
+theme = "hugo-icarus-theme"
+
+# Preserve special characters in taxonomy names ("Gérard Depardieu" vs "Gerard Depardieu")
+preserveTaxonomyNames = false
+# Missing translations will default to this content languag
+DefaultContentLanguage = "en"
+# Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
+DefaultContentLanguageInSubdir = false
+
+[permalinks]
+    post = "/:year/:month/:day/:slug"
+
+[Taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+    # Tell me who you are
+    author = "Ajka"
+    bio = "live love lough"
+    location = "Munich"
+    site_description = ""
+    copyright  = "ajka-andrej.com powered by [Hugo](//gohugo.io). Theme inspired by [PPOffice](http://github.com/ppoffice)."
+    avatar = "css/images/avatar.png"
+    logo = "css/images/logo.png"
+
+    # Format dates with Go's time formatting
+    date_format = "2006-01-02"
+    
+# Create custom menu entries by defining a label and a link for
+# them. Since you can also link posts, you've the option the
+# place the links before or after them.
+
+[[params.menu]]
+    before = true
+    label  = "tags"
+    link   = "tags/"
+
+[[params.menu]]
+    before = false
+    label  = "categories"
+    link   = "categories/"
+    
+    
+# Enter a link for the follow button on the left
+[params.profile]
+    follow_button = ""
+
+
+[social]
+# Add your social network accounts to the profile section on the left
+# by entering your username. The links to your account will be
+# created automatically.
+    github          = ""
+    gitlab          = ""
+    bitbucket       = ""
+    jsfiddle        = ""
+    codepen         = ""
+    foursquare      = ""
+    dribbble        = ""
+    deviantart      = ""
+    behance         = ""
+    flickr          = ""
+    instagram       = ""
+    youtube         = "ajka04"
+    vimeo           = ""
+    vine            = ""
+    medium          = ""
+    wordpress       = ""
+    tumblr          = ""
+    xing            = "Alena_Petrasova"
+    linkedin        = "alena-petrasova-phd-27aa2432"
+    slideshare      = ""
+    stackoverflow   = ""
+    reddit          = ""
+    pinterest       = ""
+    googleplus      = ""
+    facebook        = "alena.petrasova.3"
+    facebook_admin  = ""
+    twitter_domain  = ""
+    twitter         = ""
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    recent_articles = true
+    categories = true
+    tags = false
+    tag_cloud = true
+	
+#Languages 
+[languages]
+
+[languages.en]
+languageName = "English"
+weight = 2
+
+[languages.sk]
+languageName = "Slovenčina"
+weight = 1

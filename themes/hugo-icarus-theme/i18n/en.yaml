@@ -1,0 +1,75 @@
+ 
+- id: category
+  translation: "Category"
+    
+- id: tag
+  translation: "Tag"
+  
+- id: categories
+  translation: "Categories"
+  
+- id: tags
+  translation: "Tags"
+  
+- id: profile.location
+  translation: "Munich"
+  
+- id: profile.bio
+  translation: "live love lough"
+  
+- id: profile.follow_button
+  translation: "Follow" 
+  
+- id: profile.tags
+  translation: "Tags"  
+  
+- id: profile.posts
+  translation: "Posts"
+  
+- id: articles.read_more
+  translation: "Read more"  
+  
+- id: articles.words
+  translation: "words"
+  
+- id: articles.readingtime
+  translation: "minute read" 
+  
+- id: articles.share
+  translation: "Share"  
+    
+- id: articles.comments
+  translation: "Comments"
+  
+- id: articles.linked_posts.older
+  translation: "Older"
+  
+- id: articles.linked_posts.newer
+  translation: "Newer"
+  
+- id: pagination.previous
+  translation: "Prev" 
+  
+- id: pagination.next
+  translation: "Next"  
+  
+- id: widgets.categories
+  translation: "Categories"
+  
+- id: widgets.recent_articles
+  translation: "Recents"
+
+- id: widgets.tag_cloud
+  translation: "Tag cloud"
+
+- id: widgets.tags
+  translation: "Tags"
+  
+- id: search.placeholder
+  translation: "Search"
+  
+- id: page_not_found.title
+  translation: "404 - page not found"  
+  
+- id: page_not_found.subtitle
+  translation: "The content you're looking for doesn't seem to exist."

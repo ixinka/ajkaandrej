@@ -1,0 +1,145 @@
+# CATEGORIES
+
+- id: category_travelling
+  translation: Cestovanie
+
+- id: category_recipes
+  translation: Recepty
+
+- id: category_projects
+  translation: Projekty
+
+- id: category_technical
+  translation: Technické
+
+- id: category_dailylife
+  translation: Zo života
+
+- id: category_uncategorized
+  translation: Uncategorized
+
+# TAGS
+
+- id: tag_spain
+  translation: Spain
+
+- id: tag_usa
+  translation: USA
+
+- id: tag_mountains
+  translation: hory
+
+- id: tag_dominik
+  translation: Dominik
+
+- id: tag_newyork
+  translation: New York
+
+- id: tag_germany
+  translation: Nemecko
+
+- id: tag_portugal
+  translation: Portugálsko
+
+- id: tag_sea
+  translation: more
+
+- id: tag_panoramas
+  translation: panorámy
+
+- id: tag_baking
+  translation: pečenie
+
+- id: tag_java
+  translation: java
+
+- id: tag_jboss
+  translation: JBoss
+
+- id: tag_cake
+  translation: koláč
+
+- id: tag_waterfall
+  translation: vodopád
+
+- id: tag_pasta
+  translation: cestovina
+
+- id: tag_france
+  translation: Francúzsko
+
+- id: tag_cooking
+  translation: varenie
+
+- id: tag_wedding
+  translation: svadba
+
+- id: tag_slovakia
+  translation: Slovensko
+
+- id: tag_park
+  translation: park
+
+- id: tag_italy
+  translation: Taliansko
+
+- id: tag_england
+  translation: Anglicko
+
+- id: tag_skiing
+  translation: lyžovanie
+
+- id: tag_island
+  translation: ostrov
+
+- id: tag_maven
+  translation: maven
+
+- id: tag_switzerland
+  translation: Švajčiarsko
+
+- id: tag_virtualbaby
+  translation: Virtuálne dieťa
+
+- id: tag_birt
+  translation: BIRT
+
+- id: tag_hiking
+  translation: turistika
+
+- id: tag_bandicoot
+  translation: bandicoot
+
+- id: tag_munich
+  translation: Mníchov
+
+- id: tag_olivia
+  translation: Olivia
+
+- id: tag_savoury
+  translation: slané
+
+- id: tag_mbean
+  translation: MBean
+
+- id: tag_ruins
+  translation: zrúcanina
+
+- id: tag_beach
+  translation: pláž
+
+- id: tag_meat
+  translation: mäsové
+
+- id: tag_austria
+  translation: Rakúsko
+
+- id: tag_sweet
+  translation: sladké
+
+- id: tag_lake
+  translation: jazero
+
+- id: tag_cerova
+  translation: Cerová
+

@@ -1,0 +1,24 @@
+<aside id="profile">
+  <div class="inner profile-inner">
+    <div class="base-info profile-block">
+      <img id="avatar" src="{{ .Site.Params.avatar | absURL }}">
+      {{ with .Site.Params.author}}<h2 id="name">{{ . }}</h2>{{ end }}
+      <h3 id="title">{{ i18n "profile.bio" }}</h3>
+      <span id="location"><i class="fa fa-map-marker"></i>{{ i18n "profile.location" }}</span>
+      {{ with .Site.Params.profile.follow_button }}
+          <a id="follow" href="{{ . }}">
+              {{ i18n "profile.follow_button" }}
+          </a>
+      {{ end }}
+    </div>
+    <div class="profile-block social-links">
+      <table>
+        <tr>
+          {{ partial "social" . }}
+		  
+          <td><a href="{{ "index.xml" | absLangURL }}" target="_blank" title="RSS"><i class="fa fa-rss"></i></a></td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</aside>
