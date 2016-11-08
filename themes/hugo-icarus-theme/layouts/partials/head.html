@@ -46,9 +46,13 @@
 		var disqus_config = function () { 
 			this.language = {{ .Lang }};
 		};
-	</script>
+		if (window.location.pathname == "/" && window.navigator.language == 'sk') {
+			window.location.href = "/sk"
+		}
+	</script>	
     <!-- needs to be loaded first for following scripts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 </head>
 <body>
+
 <div class="container">
