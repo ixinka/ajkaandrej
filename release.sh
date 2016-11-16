@@ -60,7 +60,7 @@ then
 	echo $CHANGES
 	echo ""
 	echo "Solution: Use the commit script to commit all changes in the repostiry."
-	#exit 0;
+	exit 0;
 fi
 echo "----------------------------------------------------------"
 
