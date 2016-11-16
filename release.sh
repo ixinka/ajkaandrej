@@ -19,18 +19,22 @@ PUBLIC_IMAGE_DIR=$PUBLIC_DIR/$IMAGE_DIR
 VERSION_FILE=version
 RELEASE_DATE_FILE=release_date
 SCRIPT_FILE=install.php
-INSTALL_SCRIPT_FILE=$RELEASE_DIR/$SCRIPT_FILE
-INSTALL_SCRIPT_KEY=#123##999#
-INSTALL_SCRIPT_URL=http://www.ajka-andrej.com/$FTP_RELEASE_DIR/$SCRIPT_FILE?key=$INSTALL_SCRIPT_KEY
+
 
 THIS_MONTH_DIR=$(date +"%Y/%m")
 LAST_MONTH_DIR=$(date --date='-1 month' +"%Y/%m")
 
-RELEASE_DATE=$(date +"%Y%m%d%H%M")
-RELEASE_FILE=$RELEASE_DIR/release_$RELEASE_DATE.zip
+RELEASE_DATE=$(date +"%Y%m%d%H%M%S")
+RELEASE_FILE=release_$RELEASE_DATE.zip
+
+INSTALL_SCRIPT_URL=http://www.ajka-andrej.com/$FTP_RELEASE_DIR/$SCRIPT_FILE?key=$RELEASE_DATE
 
 VERSION=$(git rev-parse HEAD)
 
+# STATUS:
+echo "----------------------------------------------------------"
+echo " Status "
+echo "----------------------------------------------------------"
 echo "Current version: $(curl -s http://www.ajka-andrej.com/$VERSION_FILE)"
 echo "Current release date: $(curl -s http://www.ajka-andrej.com/$RELEASE_DATE_FILE)"
 echo "New version: $VERSION"
@@ -42,50 +46,90 @@ if [[ ! $REPLY =~ ^[Yy]$ ]]
 then
     [[ "$0" = "$BASH_SOURCE" ]] && exit 1 || return 1
 fi
+echo "----------------------------------------------------------"
 
+# CHECK CHANGES
+echo ""
+echo "----------------------------------------------------------"
+echo " Check changes in the working directory "
+echo "----------------------------------------------------------"
+CHANGES=$(git status -s)
+if [[ ! -z $CHANGES ]]
+then
+	echo "Cahnged files:"
+	echo $CHANGES
+	echo ""
+	echo "Solution: Use the commit script to commit all changes in the repostiry."
+	#exit 0;
+fi
+echo "----------------------------------------------------------"
 
-echo "0. Create public directory"
+# BUILD PAGE
+echo ""
+echo "----------------------------------------------------------"
+echo " Create public directory "
+echo "----------------------------------------------------------"
 rm -rf $PUBLIC_DIR
-hugo --theme=hugo-icarus-theme --i18n-warnings
+hugo --theme=hugo-icarus-theme --i18n-warnings --ignoreCache
 
-echo "1. Create the $PUBLIC_DIR/$VERSION_FILE info file"
+echo " The public directory was created "
+echo "----------------------------------------------------------"
+
+# CREATE THE VERSION AND RELEASE FILE
+echo ""
+echo "----------------------------------------------------------"
+echo " Create the $PUBLIC_DIR/$VERSION_FILE and $PUBLIC_DIR/$RELEASE_DATE_FILE info file"
+echo "----------------------------------------------------------"
 echo $VERSION > $PUBLIC_DIR/$VERSION_FILE
-
-echo "2. Create the $PUBLIC_DIR/$RELEASE_DATE_FILE info file"
+echo " The new version info file: $VERSION"
 echo $RELEASE_DATE > $PUBLIC_DIR/$RELEASE_DATE_FILE
+echo " The new release info file: $RELEASE_DATE"
+echo "----------------------------------------------------------"
 
-echo "3. Remove the $RELEASE_DIR directory"
+# CREATE RELEASE FILE
+echo ""
+echo "----------------------------------------------------------"
+echo " Create the release $RELEASE_FILE file in the $RELEASE_DIR directory"
+echo "----------------------------------------------------------"
 rm -rf $RELEASE_DIR
-
-echo "4. Create the $RELEASE_DIR directory"
 mkdir $RELEASE_DIR
-
-echo "5. Start creating the release package $RELEASE_FILE"
 cd $PUBLIC_DIR
-zip -r ../$RELEASE_FILE ./* -x ./wp-content\* ./images\* ./video\* > $RELEASE_FILE.log
+zip -r ../$RELEASE_DIR/$RELEASE_FILE ./* -x ./wp-content\* ./images\* ./video\* > zip.log
 cd ..
-echo "6. The release package was created $RELEASE_FILE"
+echo " The release package was created $RELEASE_FILE"
+echo "----------------------------------------------------------"
 
-echo "7. Create the instalation script"
-echo "<?php" \
-"\$key = \$_GET['key'];" \
-"if (\$key == '$INSTALL_SCRIPT_KEY') {" \
-"    \$path = getcwd();" \
-"    \$zip = new ZipArchive;" \
-"    \$res = \$zip->open('$FILE');" \
-"    if (\$res === TRUE) { echo $path.'/../test';" \
-"         //\$zip->extractTo(\$path.'/../test');" \
-"         //\$zip->close();" \	
-"         echo 'OK';" \
-"    } else {" \
-"        echo 'ERROR';" \
-"    }" \
-"} else {" \
-"    echo 'ERROR';" \
-"}" \
-"?>" > $INSTALL_SCRIPT_FILE
+# CREATE SCRIPT FILE
+echo ""
+echo "----------------------------------------------------------"
+echo " Create the instalation script $RELEASE_DIR/$SCRIPT_FILE file"
+echo "----------------------------------------------------------"
+echo "<?php
+\$key = \$_GET['key'];
+if (\$key == '$RELEASE_DATE') {
+    \$path = getcwd();
+    \$zip = new ZipArchive;
+    \$res = \$zip->open('$RELEASE_FILE');
+    if (\$res === TRUE) { 
+         \$zip->extractTo(\$path.'/../');
+         \$zip->close();
+         echo 'OK';
+    } else {
+        echo 'ERROR';
+    }
+} else {
+    echo 'ERROR';
+}
+?>
+" > $RELEASE_DIR/$SCRIPT_FILE
+echo " The script file $RELEASE_DIR/$SCRIPT_FILE was created."
+echo "----------------------------------------------------------"
 
-echo "8. Synchronize last two months of the videos and images"
+# SYNCHRONIZE VIDEO AND IMAGES
+echo ""
+echo "----------------------------------------------------------"
+echo " Synchronize last two months of the videos and images"
+echo "----------------------------------------------------------"
 if [ -d "$PUBLIC_DIR/$IIMAGE_DIR/$THIS_MONTH_DIR" ]; then
   duck --username $FTP_USER --password $FTP_PASSWORD --existing upload --synchronize $FTP_SERVER/$IMAGE_DIR/$THIS_MONTH_DIR
 else
@@ -109,23 +153,43 @@ if [ -d "$PUBLIC_DIR/$VIDEO_DIR/$LAST_MONTH_DIR" ]; then
 else
  echo "The $VIDEO_DIR/$LAST_MONTH_DIR directory does not exists. No need to synchronize $PUBLIC_DIR/$IMAGE_DIR/$LAST_MONTH_DIR"
 fi
+echo "----------------------------------------------------------"
 
-echo "9. Upload release to FTP $RELEASE_FILE -> $FTP_SERVER"
-duck --username $FTP_USER --password $FTP_PASSWORD --upload $FTP_SERVER/$FTP_RELEASE_DIR $RELEASE_FILE
+# UPLOAD FILES
+echo ""
+echo "----------------------------------------------------------"
+echo " Upload release file and script"
+echo "----------------------------------------------------------"
+echo " Upload release to FTP $RELEASE_DIR/$RELEASE_FILE -> $FTP_SERVER"
+duck --username $FTP_USER --password $FTP_PASSWORD --upload $FTP_SERVER/$FTP_RELEASE_DIR/$RELEASE_FILE $RELEASE_DIR/$RELEASE_FILE
+echo " Upload install script to FTP $RELEASE_DIR/$SCRIPT_FILE -> $FTP_SERVER"
+duck --username $FTP_USER --password $FTP_PASSWORD --upload $FTP_SERVER/$FTP_RELEASE_DIR/$SCRIPT_FILE $RELEASE_DIR/$SCRIPT_FILE
 
-echo "10. Upload install script to FTP $INSTALL_SCRIPT_FILE -> $FTP_SERVER"
-duck --username $FTP_USER --password $FTP_PASSWORD --upload $FTP_SERVER/$FTP_RELEASE_DIR $INSTALL_SCRIPT_FILE
-
-echo "11. Execute the installation script $INSTALL_SCRIPT_FILE"
+# EXECUTE THE INSTALLATION SCRIPT
+echo ""
+echo "----------------------------------------------------------"
+echo " Execute the installation script $RELEASE_DIR/$SCRIPT_FILE"
 SCRIPT_STATUS=$(curl -s $INSTALL_SCRIPT_URL)
 echo "Execution status: $SCRIPT_STATUS"
+echo "----------------------------------------------------------"
 
-echo "12. Delete the installation script $INSTALL_SCRIPT_FILE"
-duck --username $FTP_USER --password $FTP_PASSWORD --upload $FTP_SERVER/$FTP_RELEASE_DIR/*.php
+# DELETE FILES
+echo ""
+echo "----------------------------------------------------------"
+echo " Delete the files from server."
+echo "----------------------------------------------------------"
+duck --username $FTP_USER --password $FTP_PASSWORD --delete $FTP_SERVER/$FTP_RELEASE_DIR/$RELEASE_FILE
+echo " The release file $RELEASE_FILE was deleted."
+duck --username $FTP_USER --password $FTP_PASSWORD --delete $FTP_SERVER/$FTP_RELEASE_DIR/$SCRIPT_FILE
+echo " The instalation script $RELEASE_DIR/$SCRIPT_FILE was deleted."
+echo "----------------------------------------------------------"
 
-echo "13. The new version successfully installed"
+# INFO
+echo ""
+echo "----------------------------------------------------------"
+echo " The instalation status"
 echo "------------------------------------------"
-echo "New version: $(curl -s http://www.ajka-andrej.com/$VERSION_FILE)"
-echo "New release date: $(curl -s http://www.ajka-andrej.com/$RELEASE_DATE_FILE)"
+echo " Current version: $(curl -s http://www.ajka-andrej.com/$VERSION_FILE)"
+echo " Current release date: $(curl -s http://www.ajka-andrej.com/$RELEASE_DATE_FILE)"
+echo " Instalation status: $SCRIPT_STATUS"
 echo "------------------------------------------"
-
