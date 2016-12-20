@@ -2,6 +2,7 @@
 title = "Birds and ladybugs"
 description = ""
 categories = ["dailylife"]
+tags = ["olivia", "dominik"]
 date = "2016-10-11T20:32:42"
 banner = "/wp-content/uploads/2016/10/20160923_150903t.jpg"
 +++
