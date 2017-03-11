@@ -1,0 +1,15 @@
+#!/bin/bash
+
+
+for f in *_thumb.*
+do
+ rm $f
+done
+
+for f in *.*
+do
+  jhead -autorot $f
+  n=${f%.*}_thumb.${f##*.}
+  echo "[$f -> $n]"
+  convert $f -resize '100x' -gravity center -crop 100x75+0+0 $n
+done
