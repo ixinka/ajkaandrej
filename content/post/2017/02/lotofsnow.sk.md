@@ -10,7 +10,7 @@ banner = "/images/2017/02/20170110_150055t.jpg"
 Pôvodne sme plánovali ísť niekam na zimnú dovolenku, ale napadlo u nás toľko snehu, že sme si to rozmysleli.
 V podstate sme každý deň na sánkach alebo v záhrade s lopatkami. A popri tom som s Oliviou začala trošku skúšať 
 jazdiť na lyžiach. Najprv len tak v záhrade kvôli rovnováhe a potom na svahoch pri nás, ale tie sa ukázali byť 
-príliš strmé. A potom mi jedna známa odporúčila také male detské <a title="Hirschberglifte" href="http://hirschberglifte.de/">lyžiarske stredisko</a>, kde sme boli dvakrát a Olivia 
+príliš strmé. A potom mi jedna známa odporúčila také male detské <a title="Hirschberglifte" href="http://hirschberglifte.de/" target="_blank">lyžiarske stredisko</a>, kde sme boli dvakrát a Olivia 
 odtiaľ odišla zakaždým nadšená a vysvetľovala Dominikovi ako treba lyžovať. Odpozerala všetko, čo sa dalo od detí 
 z lyžiarskej škôlky, ktoré sa lyžovali s ňou. Na druhýkrát bol už čarovný koberec (pásový vlek) príliš pomalý, už 
 nemala strach ani z jazdenia lanovým vlekom, lyžovala cez bránky a okolo klobúčikov. Bránky sa zapáčili aj Dominikovi, 

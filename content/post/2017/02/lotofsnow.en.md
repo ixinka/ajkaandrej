@@ -11,7 +11,7 @@ We planned to go somewhere for the winter holidays, but it snowed so much that w
 our minds. We are every day in our garden playing with shovels or sledding on the nearby hill.
 And I started introducing Olivia to skiing. First, in the garden just to learn balance on her
 own and then on the nearby slopes, but they seemed to be too steep. Then my friend recommended
-me a small <a title="Hirschberglifte" href="http://hirschberglifte.de/">ski resort</a> for children. We were there twice and Olivia was very excited and wanted
+me a small <a title="Hirschberglifte" href="http://hirschberglifte.de/" target="_blank">ski resort</a> for children. We were there twice and Olivia was very excited and wanted
 to ski again and also explained Dominik how to ski. She watches everything what other kids did
 in the ski school there and she tried to do it as well. For the second time, the magic carpet
 was already too slow and she had no more fear to drive a rope tow ski lift and she skied through gates.
