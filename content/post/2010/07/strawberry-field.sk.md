@@ -1,5 +1,6 @@
 +++
 title = "Jahodové pole"
+slug = "jahodove-pole"
 description = ""
 categories = ["dailylife"]
 date = "2010-07-05T12:31:16"

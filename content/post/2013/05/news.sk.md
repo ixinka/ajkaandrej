@@ -1,5 +1,6 @@
 +++
 title = "Novinky"
+slug = "novinky"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

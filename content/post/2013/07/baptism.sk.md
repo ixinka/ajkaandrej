@@ -1,5 +1,6 @@
 +++
 title = "Krstiny"
+slug = "krstiny"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

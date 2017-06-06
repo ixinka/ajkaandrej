@@ -1,5 +1,6 @@
 +++
 title = "Some photos"
+slug = "some-photos"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

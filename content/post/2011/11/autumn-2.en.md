@@ -1,5 +1,6 @@
 +++
 title = "Autumn"
+slug = "autumn"
 description = ""
 tags = ["germany"]
 categories = ["dailylife"]

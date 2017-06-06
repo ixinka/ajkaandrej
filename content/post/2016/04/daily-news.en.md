@@ -1,5 +1,6 @@
 +++
 title = "Daily news"
+slug = "daily-news"
 description = ""
 categories = ["dailylife"]
 date = "2016-04-19T20:45:13"

@@ -1,5 +1,6 @@
 +++
 title = "Vrátna valley"
+slug = "vratna-valley"
 description = ""
 tags = ["hiking","slovakia"]
 categories = ["travelling"]

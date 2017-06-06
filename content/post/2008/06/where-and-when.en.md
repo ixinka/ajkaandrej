@@ -1,5 +1,6 @@
 +++
 title = "Where and when?"
+slug = "where-and-when"
 description = ""
 categories = ["dailylife"]
 date = "2008-06-20T19:47:55"

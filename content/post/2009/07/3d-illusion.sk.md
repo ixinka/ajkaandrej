@@ -1,5 +1,6 @@
 +++
 title = "3D ilúzia"
+slug = "3d-iluzia"
 description = ""
 tags = ["virtualbaby"]
 categories = ["dailylife"]

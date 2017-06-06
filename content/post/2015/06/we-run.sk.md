@@ -1,5 +1,6 @@
 +++
 title = "Utekáme"
+slug = "utekame"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

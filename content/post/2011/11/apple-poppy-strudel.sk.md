@@ -1,5 +1,6 @@
 +++
 title = "Jablkovo maková štrúdľa"
+slug = "jablkovo-makova-strudla"
 description = ""
 tags = ["baking","cake","sweet"]
 categories = ["recipes"]

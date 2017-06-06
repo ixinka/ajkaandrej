@@ -1,5 +1,6 @@
 +++
 title = "Evergreen island - Ischia"
+slug = "evergreen-island-ischia"
 description = ""
 tags = ["island","italy","sea"]
 categories = ["travelling"]

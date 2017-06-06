@@ -1,5 +1,6 @@
 +++
 title = "Makaróny s cukyňou a paradajkami"
+slug = "makarony-s-cukynou-a-paradajkami"
 description = ""
 tags = ["pasta","cooking"]
 categories = ["recipes"]

@@ -1,5 +1,6 @@
 +++
 title = "Hovorila som s princom"
+slug = "hovorila-som-s-princom"
 description = ""
 tags = ["england","virtualbaby"]
 categories = ["dailylife"]

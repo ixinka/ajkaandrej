@@ -1,5 +1,6 @@
 +++
 title = "Chocolate-banana muffins"
+slug = "chocolate-banana-muffins"
 description = ""
 tags = ["baking","cake","sweet"]
 categories = ["recipes"]

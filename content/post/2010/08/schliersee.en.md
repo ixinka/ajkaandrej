@@ -1,5 +1,6 @@
 +++
 title = "Schliersee"
+slug = "schliersee"
 description = ""
 tags = ["panoramas","mountains","ruins","germany","lake"]
 categories = ["travelling"]

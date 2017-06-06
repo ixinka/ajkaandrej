@@ -1,5 +1,6 @@
 +++
 title = "Októberfest"
+slug = "oktoberfest"
 description = ""
 tags = ["panoramas","germany","munich"]
 categories = ["dailylife"]

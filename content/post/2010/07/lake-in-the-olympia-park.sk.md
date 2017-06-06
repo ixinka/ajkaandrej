@@ -1,5 +1,6 @@
 +++
 title = "Jazero v Olympia parku"
+slug = "jazero-v-olympia-parku"
 description = ""
 tags = ["germany","munich","lake"]
 categories = ["travelling","dailylife"]

@@ -1,5 +1,6 @@
 +++
 title = "Cavallino"
+slug = "cavallino"
 description = ""
 tags = ["italy","sea"]
 categories = ["travelling"]

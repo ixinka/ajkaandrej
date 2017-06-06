@@ -1,5 +1,6 @@
 +++
 title = "London expo"
+slug = "london-expo"
 description = ""
 tags = ["england","virtualbaby"]
 categories = ["travelling","dailylife"]

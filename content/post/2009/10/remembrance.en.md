@@ -1,5 +1,6 @@
 +++
 title = "Remembrance"
+slug = "remembrance"
 description = ""
 categories = ["dailylife"]
 date = "2009-10-23T13:37:46"

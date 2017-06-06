@@ -1,5 +1,6 @@
 +++
 title = "Tehotenstvo"
+slug = "tehotenstvo"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

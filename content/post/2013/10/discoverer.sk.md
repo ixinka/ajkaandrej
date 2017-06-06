@@ -1,5 +1,6 @@
 +++
 title = "Výskumník"
+slug = "vyskumnik"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

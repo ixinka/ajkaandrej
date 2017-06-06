@@ -1,5 +1,6 @@
 +++
 title = "Sweater"
+slug = "sweater"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

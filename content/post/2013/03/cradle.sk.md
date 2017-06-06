@@ -1,5 +1,6 @@
 +++
 title = "Kolíska"
+slug = "koliska"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

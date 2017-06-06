@@ -1,5 +1,6 @@
 +++
 title = "3 roky"
+slug = "3-roky"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

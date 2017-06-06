@@ -1,5 +1,6 @@
 +++
 title = "Detská izba"
+slug = "detska-izba"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

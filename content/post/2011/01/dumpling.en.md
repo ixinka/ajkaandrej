@@ -1,5 +1,6 @@
 +++
 title = "A dumpling"
+slug = "a-dumpling"
 description = ""
 tags = ["cooking"]
 categories = ["dailylife"]

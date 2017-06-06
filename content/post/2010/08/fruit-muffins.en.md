@@ -1,5 +1,6 @@
 +++
 title = "Fruit muffins"
+slug = "fruit-muffins"
 description = ""
 tags = ["baking","cake","sweet"]
 categories = ["recipes"]

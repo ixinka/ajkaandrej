@@ -1,5 +1,6 @@
 +++
 title = "A trip toward lakes"
+slug = "a-trip-toward-lakes"
 description = ""
 tags = ["mountains","germany","lake"]
 categories = ["travelling"]

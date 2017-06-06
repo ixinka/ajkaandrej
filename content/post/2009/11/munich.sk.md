@@ -1,5 +1,6 @@
 +++
 title = "Mníchov"
+slug = "mnichov"
 description = ""
 tags = ["germany","munich"]
 categories = ["travelling","dailylife"]

@@ -1,5 +1,6 @@
 +++
 title = "Name day"
+slug = "name-day"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

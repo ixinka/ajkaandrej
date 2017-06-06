@@ -1,5 +1,6 @@
 +++
 title = "Zubatý týždeň"
+slug = "zubaty-tyzden"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

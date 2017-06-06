@@ -1,5 +1,6 @@
 +++
 title = "Box"
+slug = "box"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

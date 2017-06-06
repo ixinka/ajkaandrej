@@ -1,5 +1,6 @@
 +++
 title = "Autonomous"
+slug = "autonomous"
 description = ""
 categories = ["dailylife"]
 date = "2015-04-17T12:47:35"

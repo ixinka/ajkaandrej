@@ -1,5 +1,6 @@
 +++
 title = "Christmas markets"
+slug = "christmas-markets"
 description = ""
 tags = ["germany","munich"]
 categories = ["dailylife"]

@@ -1,5 +1,6 @@
 +++
 title = "Keď napadne veľa snehu"
+slug = "ked-napadne-vela-snehu"
 description = ""
 categories = ["dailylife"]
 tags = ["olivia", "dominik"]

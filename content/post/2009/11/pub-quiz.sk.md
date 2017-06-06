@@ -1,5 +1,6 @@
 +++
 title = "Krčmový kvíz"
+slug = "krcmovy-kviz"
 description = ""
 tags = ["england"]
 categories = ["dailylife"]

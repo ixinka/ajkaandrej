@@ -1,5 +1,6 @@
 +++
 title = "Nature trip"
+slug = "nature-trip"
 description = ""
 tags = ["panoramas","mountains","germany","hiking"]
 categories = ["travelling","dailylife"]

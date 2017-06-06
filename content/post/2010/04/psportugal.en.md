@@ -1,5 +1,6 @@
 +++
 title = "PS Portugal"
+slug = "ps-portugal"
 description = ""
 categories = ["dailylife"]
 date = "2010-04-18T11:46:20"

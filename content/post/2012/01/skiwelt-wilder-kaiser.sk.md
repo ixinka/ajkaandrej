@@ -1,5 +1,6 @@
 +++
 title = "Lyžovačka na Wilder Kaiser"
+slug = "lyzovacka-na-wilder-kaiser"
 description = ""
 tags = ["skiing","austria"]
 categories = ["travelling"]

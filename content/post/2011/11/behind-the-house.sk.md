@@ -1,5 +1,6 @@
 +++
 title = "Za domom"
+slug = "za-domom"
 description = ""
 tags = ["germany","park"]
 categories = ["dailylife"]

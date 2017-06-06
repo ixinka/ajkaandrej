@@ -1,5 +1,6 @@
 +++
 title = "Walking in the park"
+slug = "walking-in-the-park"
 description = ""
 tags = ["germany","munich","park"]
 categories = ["dailylife"]

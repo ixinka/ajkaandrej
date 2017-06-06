@@ -1,5 +1,6 @@
 +++
 title = "Mushrooms"
+slug = "mushrooms"
 description = ""
 tags = ["slovakia","cerova"]
 categories = ["dailylife"]

@@ -1,5 +1,6 @@
 +++
 title = "Vošky"
+slug = "vosky"
 description = ""
 categories = ["dailylife"]
 date = "2010-08-20T12:34:31"

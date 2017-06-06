@@ -1,5 +1,6 @@
 +++
 title = "Balkónová pohoda"
+slug = "balkonova-pohoda"
 description = ""
 categories = ["dailylife"]
 date = "2011-04-30T16:24:27"

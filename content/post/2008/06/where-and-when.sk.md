@@ -1,5 +1,6 @@
 +++
 title = "Kde a kedy?"
+slug = "kde-a-kedy"
 description = ""
 categories = ["dailylife"]
 date = "2008-06-20T19:47:55"

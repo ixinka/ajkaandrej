@@ -1,5 +1,6 @@
 +++
 title = "Discoverer"
+slug = "discovever"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

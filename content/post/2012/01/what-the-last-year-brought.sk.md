@@ -1,5 +1,6 @@
 +++
 title = "Čo priniesol minulý rok"
+slug = "co-priniesol-minuly-rok"
 description = ""
 categories = ["dailylife"]
 date = "2012-01-17T22:20:08"

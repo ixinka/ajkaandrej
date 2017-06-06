@@ -1,5 +1,6 @@
 +++
 title = "Vždy zelený ostrov - Ischia"
+slug = "vzdy-zeleny-ostrov-ischia"
 description = ""
 tags = ["island","italy","sea"]
 categories = ["travelling"]

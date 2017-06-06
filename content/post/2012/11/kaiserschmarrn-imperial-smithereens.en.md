@@ -1,5 +1,6 @@
 +++
 title = "Kaiserschmarrn (imperial smithereens)"
+slug = "kaiserschmarrn"
 description = ""
 tags = ["baking","sweet"]
 categories = ["recipes"]

@@ -1,5 +1,6 @@
 +++
 title = "The Christmas holiday"
+slug = "the-christmas-holiday"
 description = ""
 tags = ["slovakia"]
 categories = ["dailylife"]

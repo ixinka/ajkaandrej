@@ -1,5 +1,6 @@
 +++
 title = "To read"
+slug = "to-read"
 description = ""
 categories = ["dailylife"]
 date = "2014-02-28T14:47:34"

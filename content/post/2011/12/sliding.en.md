@@ -1,5 +1,6 @@
 +++
 title = "Sledding"
+slug = "tehotenstvo"
 description = ""
 tags = ["panoramas","mountains","germany"]
 categories = ["travelling","dailylife"]

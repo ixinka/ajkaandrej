@@ -1,5 +1,6 @@
 +++
 title = "Každý iný"
+slug = "kazdy-iny"
 description = ""
 categories = ["dailylife"]
 date = "2016-02-24T12:24:33"

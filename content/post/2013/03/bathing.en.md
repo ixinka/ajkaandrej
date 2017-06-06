@@ -1,5 +1,6 @@
 +++
 title = "Bathing"
+slug = "bathing"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

@@ -1,5 +1,6 @@
 +++
 title = "Aktívna"
+slug = "aktivna"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

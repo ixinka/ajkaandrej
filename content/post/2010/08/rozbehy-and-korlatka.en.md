@@ -1,5 +1,6 @@
 +++
 title = "Rozbehy and Korlátka"
+slug = "rozbehy-and-korlatka"
 description = ""
 tags = ["slovakia","cerova"]
 categories = ["travelling"]

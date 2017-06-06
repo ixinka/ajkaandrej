@@ -1,5 +1,6 @@
 +++
 title = "Poseidon gardens"
+slug = "poseidon-gardens"
 description = ""
 tags = ["island","beach","italy","sea"]
 categories = ["travelling"]

@@ -1,5 +1,6 @@
 +++
 title = "English garden"
+slug = "english-garden"
 description = ""
 tags = ["germany","munich","park"]
 categories = ["travelling"]

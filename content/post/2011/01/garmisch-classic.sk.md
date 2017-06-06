@@ -1,5 +1,6 @@
 +++
-title = "Garmisch-Classic "
+title = "Garmisch-Classic"
+slug = "garmisch-classic"
 description = ""
 tags = ["panoramas","mountains","skiing","germany"]
 categories = ["travelling"]

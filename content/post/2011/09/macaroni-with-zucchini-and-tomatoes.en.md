@@ -1,5 +1,6 @@
 +++
 title = "Macaroni with zucchini and tomatoes"
+slug = "macaroni-with-zucchini-and-tomatoes"
 description = ""
 tags = ["pasta","cooking"]
 categories = ["recipes"]

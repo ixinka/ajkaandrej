@@ -1,5 +1,6 @@
 +++
 title = "Skiwelt Wilder Kaiser"
+slug = "skiwelt-wilder-kaiser"
 description = ""
 tags = ["skiing","austria"]
 categories = ["travelling"]

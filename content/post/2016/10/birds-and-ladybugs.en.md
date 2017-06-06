@@ -1,5 +1,6 @@
 +++
 title = "Birds and ladybugs"
+slug = "birds-and-ladybugs"
 description = ""
 categories = ["dailylife"]
 tags = ["olivia", "dominik"]

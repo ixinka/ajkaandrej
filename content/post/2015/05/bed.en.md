@@ -1,5 +1,6 @@
 +++
 title = "Bed"
+slug = "bed"
 description = ""
 categories = ["dailylife"]
 date = "2015-05-08T09:22:42"

@@ -1,5 +1,6 @@
 +++
 title = "Strawberry field"
+slug = "strawberry-field"
 description = ""
 categories = ["dailylife"]
 date = "2010-07-05T12:31:16"

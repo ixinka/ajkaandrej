@@ -1,5 +1,6 @@
 +++
 title = "Let's go"
+slug = "lets-go"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

@@ -1,5 +1,6 @@
 +++
 title = "Gym"
+slug = "gym"
 description = ""
 categories = ["dailylife"]
 tags = ["olivia", "dominik"]

@@ -1,5 +1,6 @@
 +++
 title = "Telocvičňa"
+slug = "telocvicna"
 description = ""
 categories = ["dailylife"]
 tags = ["olivia", "dominik"]

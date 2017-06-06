@@ -1,5 +1,6 @@
 +++
 title = "Pub quiz"
+slug = "pub-quiz"
 description = ""
 tags = ["england"]
 categories = ["dailylife"]

@@ -1,5 +1,6 @@
 +++
 title = "Jeden rok"
+slug = "jeden-rok"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

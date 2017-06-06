@@ -1,5 +1,6 @@
 +++
 title = "Dominik chodí"
+slug = "dominik-chodi"
 description = ""
 categories = ["dailylife"]
 date = "2016-08-06T09:07:33"

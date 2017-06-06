@@ -1,5 +1,6 @@
 +++
 title = "Olivia is 4 years old"
+slug = "Olivia-is-4-years-old"
 description = ""
 categories = ["dailylife"]
 tags = ["olivia"]

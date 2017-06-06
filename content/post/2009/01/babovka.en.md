@@ -1,5 +1,6 @@
 +++
 title = "bábovka (sponge cake)"
+slug = "babovka"
 description = ""
 tags = ["baking","cake","sweet"]
 categories = ["recipes"]

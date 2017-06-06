@@ -1,5 +1,6 @@
 +++
 title = "October snow"
+slug = "october-snow"
 description = ""
 tags = ["germany"]
 categories = ["dailylife"]

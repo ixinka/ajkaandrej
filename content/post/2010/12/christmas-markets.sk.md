@@ -1,5 +1,6 @@
 +++
 title = "Vianočné trhy"
+slug = "vianocne-trhy"
 description = ""
 tags = ["germany","munich"]
 categories = ["dailylife"]

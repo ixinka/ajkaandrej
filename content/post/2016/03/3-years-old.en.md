@@ -1,5 +1,6 @@
 +++
 title = "3 years old"
+slug = "3-years-old"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

@@ -1,5 +1,6 @@
 +++
 title = "Munich"
+slug = "munich"
 description = ""
 tags = ["germany","munich"]
 categories = ["travelling","dailylife"]

@@ -1,5 +1,6 @@
 +++
 title = "Walchensee"
+slug = "walchensee"
 description = ""
 tags = ["panoramas","mountains","germany","lake"]
 categories = ["travelling"]

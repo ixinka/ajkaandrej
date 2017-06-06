@@ -1,5 +1,6 @@
 +++
 title = "Month"
+slug = "month"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

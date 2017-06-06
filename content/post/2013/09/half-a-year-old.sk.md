@@ -1,5 +1,6 @@
 +++
 title = "Pol roka"
+slug = "pol-roka"
 description = ""
 tags = ["switzerland","olivia"]
 categories = ["travelling","dailylife"]

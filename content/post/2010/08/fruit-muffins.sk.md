@@ -1,5 +1,6 @@
 +++
 title = "Ovocné mafiny"
+slug = "ovocne-mafiny"
 description = ""
 tags = ["baking","cake","sweet"]
 categories = ["recipes"]

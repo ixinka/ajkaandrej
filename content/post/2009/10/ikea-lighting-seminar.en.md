@@ -1,5 +1,6 @@
 +++
 title = "IKEA lighting seminar"
+slug = "ikea-lighting-seminar"
 description = ""
 categories = ["dailylife"]
 date = "2009-10-25T15:50:05"

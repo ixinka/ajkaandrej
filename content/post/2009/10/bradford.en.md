@@ -1,5 +1,6 @@
 +++
 title = "Bradford"
+slug = "bradford"
 description = ""
 tags = ["england"]
 categories = ["travelling"]

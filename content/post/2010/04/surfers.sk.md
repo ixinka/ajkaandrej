@@ -1,5 +1,6 @@
 +++
 title = "Surféri"
+slug = "surferi"
 description = ""
 tags = ["munich"]
 categories = ["dailylife"]

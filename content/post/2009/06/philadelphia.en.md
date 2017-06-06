@@ -1,5 +1,6 @@
 +++
 title = "Philadelphia"
+slug = "philadelphia"
 description = ""
 tags = ["usa"]
 categories = ["travelling"]

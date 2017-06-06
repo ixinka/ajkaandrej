@@ -1,5 +1,6 @@
 +++
 title = "Veľkonočný výlet"
+slug = "velkonocny-vylet"
 description = ""
 tags = ["mountains","waterfall","germany","hiking","lake"]
 categories = ["travelling"]

@@ -1,5 +1,6 @@
 +++
 title = "Forest playground"
+slug = "forest-playground"
 description = ""
 categories = ["dailylife"]
 date = "2016-09-05T09:42:52"

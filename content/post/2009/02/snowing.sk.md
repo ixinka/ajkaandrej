@@ -1,5 +1,6 @@
 +++
 title = "Sneženie"
+slug = "snezenie"
 description = ""
 tags = ["england"]
 categories = ["dailylife"]

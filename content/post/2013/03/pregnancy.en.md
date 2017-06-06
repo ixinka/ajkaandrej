@@ -1,5 +1,6 @@
 +++
 title = "Pregnancy"
+slug = "pregnancy"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

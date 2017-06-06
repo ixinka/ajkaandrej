@@ -1,5 +1,6 @@
 +++
 title = "Zugspitzplatt"
+slug = "zugspitzplatt"
 description = ""
 tags = ["panoramas","mountains","skiing","germany"]
 categories = ["travelling"]

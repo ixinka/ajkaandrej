@@ -1,5 +1,6 @@
 +++
 title = "Posledné videá"
+slug = "posledne-videa"
 description = ""
 tags = ["virtualbaby"]
 categories = ["dailylife"]

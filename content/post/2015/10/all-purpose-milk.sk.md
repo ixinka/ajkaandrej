@@ -1,5 +1,6 @@
 +++
 title = "Mlieko na všetko"
+slug = "mlieko-na-vsetko"
 description = ""
 categories = ["dailylife"]
 date = "2015-10-27T21:58:52"

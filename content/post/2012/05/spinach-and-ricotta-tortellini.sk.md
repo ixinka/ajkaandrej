@@ -1,5 +1,6 @@
 +++
 title = "Tortellini so špenátom a ricotta syrom"
+slug = "tortellini-so-spenatom-a-ricotta-syrom"
 description = ""
 tags = ["savoury","pasta","cooking"]
 categories = ["recipes"]

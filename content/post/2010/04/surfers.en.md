@@ -1,5 +1,6 @@
 +++
 title = "Surfers"
+slug = "surfers"
 description = ""
 tags = ["munich"]
 categories = ["dailylife"]

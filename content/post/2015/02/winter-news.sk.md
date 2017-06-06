@@ -1,5 +1,6 @@
 +++
 title = "Zimné novinky"
+slug = "zimne-novinky"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

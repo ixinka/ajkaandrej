@@ -1,5 +1,6 @@
 +++
 title = "V meste"
+slug = "v-meste"
 description = ""
 tags = ["munich"]
 categories = ["dailylife"]

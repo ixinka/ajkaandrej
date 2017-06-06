@@ -1,5 +1,6 @@
 +++
 title = "Predtým a potom"
+slug = "predtym-a-potom"
 description = ""
 categories = ["dailylife"]
 date = "2010-02-08T15:47:19"

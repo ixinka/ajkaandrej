@@ -1,5 +1,6 @@
 +++
 title = "Grófkin koláč"
+slug = "grofkin-kolac"
 description = ""
 tags = ["baking","cake","sweet"]
 categories = ["recipes"]

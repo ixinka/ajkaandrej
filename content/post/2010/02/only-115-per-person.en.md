@@ -1,5 +1,6 @@
 +++
 title = "Only 1:15h per person!"
+slug = "only-115h-per-person"
 description = ""
 categories = ["dailylife"]
 date = "2010-02-09T13:09:50"

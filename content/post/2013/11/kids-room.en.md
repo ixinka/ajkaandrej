@@ -1,5 +1,6 @@
 +++
 title = "Kids room"
+slug = "kids-room"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

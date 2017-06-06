@@ -1,5 +1,6 @@
 +++
 title = "Vychylovka and Stará Bystrica"
+slug = "vychylovka-and-stara-bystrica"
 description = ""
 tags = ["slovakia"]
 categories = ["travelling"]

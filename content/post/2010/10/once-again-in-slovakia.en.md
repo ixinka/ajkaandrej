@@ -1,5 +1,6 @@
 +++
 title = "Once again in Slovakia"
+slug = "once-again-in-slovakia"
 description = ""
 tags = ["slovakia"]
 categories = ["dailylife"]

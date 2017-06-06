@@ -1,5 +1,6 @@
 +++
 title = "Vtáčiky a lienky"
+slug = "vtaciky-a-lienky"
 description = ""
 categories = ["dailylife"]
 tags = ["olivia", "dominik"]

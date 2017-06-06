@@ -1,5 +1,6 @@
 +++
 title = "Na nohách"
+slug = "na-nohach"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

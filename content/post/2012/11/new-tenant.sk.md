@@ -1,5 +1,6 @@
 +++
 title = "Nový nájomník"
+slug = "novy-najomnik"
 description = ""
 categories = ["dailylife"]
 date = "2012-11-10T18:22:30"

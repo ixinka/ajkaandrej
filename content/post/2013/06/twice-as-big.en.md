@@ -1,5 +1,6 @@
 +++
 title = "Twice as big"
+slug = "twice-as-big"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

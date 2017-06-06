@@ -1,5 +1,6 @@
 +++
 title = "When there is a lot of snow"
+slug = "when-there-is-alot-of-snow"
 description = ""
 categories = ["dailylife"]
 tags = ["olivia", "dominik"]

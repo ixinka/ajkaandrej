@@ -1,5 +1,6 @@
 +++
 title = "Výlety po Ischii"
+slug = "vylety-po-ischii"
 description = ""
 tags = ["mountains","island","hiking","italy","sea"]
 categories = ["travelling"]

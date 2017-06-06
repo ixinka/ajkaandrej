@@ -1,5 +1,6 @@
 +++
 title = "Skiing in Laax"
+slug = "skiing-in-laax"
 description = ""
 tags = ["mountains","skiing","switzerland"]
 categories = ["travelling"]

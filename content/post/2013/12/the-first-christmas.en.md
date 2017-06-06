@@ -1,5 +1,6 @@
 +++
 title = "The first Christmas"
+slug = "the-first-christmas"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

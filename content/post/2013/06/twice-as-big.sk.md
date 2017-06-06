@@ -1,5 +1,6 @@
 +++
 title = "Dvojnásobná"
+slug = "dvojnasobna"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

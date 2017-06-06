@@ -1,5 +1,6 @@
 +++
 title = "Bern"
+slug = "bern"
 description = ""
 tags = ["switzerland"]
 categories = ["travelling"]

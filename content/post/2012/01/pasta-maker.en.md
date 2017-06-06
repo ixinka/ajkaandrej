@@ -1,5 +1,6 @@
 +++
 title = "Pasta maker"
+slug = "pasta-maker"
 description = ""
 tags = ["pasta"]
 categories = ["recipes"]

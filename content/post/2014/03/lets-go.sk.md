@@ -1,5 +1,6 @@
 +++
 title = "Ideme"
+slug = "ideme"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

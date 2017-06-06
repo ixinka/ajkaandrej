@@ -1,5 +1,6 @@
 +++
 title = "Forio"
+slug = "forio"
 description = ""
 tags = ["panoramas","island","beach","italy","sea"]
 categories = ["travelling"]

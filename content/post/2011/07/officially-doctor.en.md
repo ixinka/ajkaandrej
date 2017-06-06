@@ -1,5 +1,6 @@
 +++
 title = "Officially Doctor"
+slug = "officialy doctor"
 description = ""
 categories = ["dailylife"]
 date = "2011-07-28T15:31:07"

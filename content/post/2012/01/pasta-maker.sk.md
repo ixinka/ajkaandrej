@@ -1,5 +1,6 @@
 +++
 title = "Mlynček na cestovinu"
+slug = "mlyncek-na-cestovinu"
 description = ""
 tags = ["pasta"]
 categories = ["recipes"]

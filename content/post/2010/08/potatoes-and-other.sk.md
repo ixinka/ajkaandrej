@@ -1,5 +1,6 @@
 +++
 title = "Zemiaky a tak"
+slug = "zemiaky-a-tak"
 description = ""
 tags = ["slovakia","cerova"]
 categories = ["dailylife"]

@@ -1,5 +1,6 @@
 +++
 title = "Where to go with visitors"
+slug = "where-to-go-with-visitors"
 description = ""
 tags = ["panoramas","munich"]
 categories = ["dailylife"]

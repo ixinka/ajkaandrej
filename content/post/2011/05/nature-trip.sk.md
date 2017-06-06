@@ -1,5 +1,6 @@
 +++
 title = "Výlet do prírody"
+slug = "vylet-do-prirody"
 description = ""
 tags = ["panoramas","mountains","germany","hiking"]
 categories = ["travelling","dailylife"]

@@ -1,5 +1,6 @@
 +++
 title = "Ebersberg"
+slug = "ebersberg"
 description = ""
 tags = ["panoramas","germany","lake"]
 categories = ["travelling","dailylife"]

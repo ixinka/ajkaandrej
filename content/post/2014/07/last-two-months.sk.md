@@ -1,5 +1,6 @@
 +++
 title = "Posledné dva mesiace"
+slug = "posledne-dva-mesiace"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

@@ -1,5 +1,6 @@
 +++
 title = "Prvé Vianoce"
+slug = "prve-vianoce"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

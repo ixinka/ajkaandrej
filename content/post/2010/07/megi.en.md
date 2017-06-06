@@ -1,5 +1,6 @@
 +++
 title = "Megi"
+slug = "megi"
 description = ""
 categories = ["dailylife"]
 date = "2010-07-25T15:51:32"

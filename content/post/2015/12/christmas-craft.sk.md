@@ -1,5 +1,6 @@
 +++
 title = "Vianočná tvorba"
+slug = "vianocna-tvorba"
 description = ""
 categories = ["dailylife"]
 date = "2015-12-26T23:16:41"

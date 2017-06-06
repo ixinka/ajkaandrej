@@ -1,5 +1,6 @@
 +++
 title = "Holiday in Grainau"
+slug = "holiday-in-grainau"
 description = ""
 tags = ["mountains","skiing","germany","lake"]
 categories = ["travelling"]

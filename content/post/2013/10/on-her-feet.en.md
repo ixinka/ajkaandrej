@@ -1,5 +1,6 @@
 +++
 title = "On her feet"
+slug = "on-her-feet"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

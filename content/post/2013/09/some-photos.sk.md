@@ -1,5 +1,6 @@
 +++
 title = "Pár fotiek"
+slug = "par-fotiek"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

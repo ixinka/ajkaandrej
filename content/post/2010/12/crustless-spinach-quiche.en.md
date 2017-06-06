@@ -1,5 +1,6 @@
 +++
 title = "Crustless spinach quiche"
+slug = "crustless-spinach-quiche"
 description = ""
 tags = ["savoury","baking"]
 categories = ["recipes"]

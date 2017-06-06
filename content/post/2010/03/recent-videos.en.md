@@ -1,5 +1,6 @@
 +++
 title = "Recent videos"
+slug = "recent-videos"
 description = ""
 tags = ["virtualbaby"]
 categories = ["dailylife"]

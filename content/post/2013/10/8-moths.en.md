@@ -1,5 +1,6 @@
 +++
 title = "8 moths"
+slug = "8-months"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

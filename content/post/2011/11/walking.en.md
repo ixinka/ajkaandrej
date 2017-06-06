@@ -1,5 +1,6 @@
 +++
 title = "Walking"
+slug = "walking"
 description = ""
 tags = ["germany","lake"]
 categories = ["dailylife"]

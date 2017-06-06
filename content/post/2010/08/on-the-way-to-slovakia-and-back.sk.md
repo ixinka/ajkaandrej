@@ -1,5 +1,6 @@
 +++
 title = "Na ceste na Slovensko a späť"
+slug = "na-ceste-na-slovensko-a-spat"
 description = ""
 tags = ["panoramas","austria","lake"]
 categories = ["travelling","dailylife"]

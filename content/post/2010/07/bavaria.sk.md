@@ -1,5 +1,6 @@
 +++
 title = "Bavaria"
+slug = "bavaria"
 description = ""
 tags = ["germany","munich"]
 categories = ["travelling","dailylife"]

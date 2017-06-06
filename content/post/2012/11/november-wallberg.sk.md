@@ -1,5 +1,6 @@
 +++
 title = "Novembrový Wallberg"
+slug = "novembrovy-wallberg"
 description = ""
 tags = ["panoramas","mountains","germany","hiking"]
 categories = ["travelling","dailylife"]

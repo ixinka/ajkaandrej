@@ -1,5 +1,6 @@
 +++
 title = "Winter"
+slug = "winter"
 description = ""
 tags = ["munich"]
 categories = ["dailylife"]

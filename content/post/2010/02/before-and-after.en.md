@@ -1,5 +1,6 @@
 +++
 title = "Before and after"
+slug = "before-and-after"
 description = ""
 categories = ["dailylife"]
 date = "2010-02-08T15:47:19"

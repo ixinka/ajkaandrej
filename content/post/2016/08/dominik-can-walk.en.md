@@ -1,5 +1,6 @@
 +++
 title = "Dominik can walk"
+slug = "dominik-can-walk"
 description = ""
 categories = ["dailylife"]
 date = "2016-08-06T09:07:33"

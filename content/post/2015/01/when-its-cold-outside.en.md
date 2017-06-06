@@ -1,5 +1,6 @@
 +++
 title = "When it's cold outside"
+slug = "when-its-cold-outside"
 description = ""
 categories = ["dailylife"]
 date = "2015-01-25T07:26:44"

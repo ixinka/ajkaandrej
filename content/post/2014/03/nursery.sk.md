@@ -1,5 +1,6 @@
 +++
 title = "Jasle"
+slug = "jasle"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

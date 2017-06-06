@@ -1,5 +1,6 @@
 +++
 title = "Wedding announcement"
+slug = "wedding-announcement"
 description = ""
 tags = ["wedding"]
 categories = ["dailylife"]

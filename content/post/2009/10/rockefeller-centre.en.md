@@ -1,5 +1,6 @@
 +++
 title = "Rockefeller Centre"
+slug = "rockefeller-centre"
 description = ""
 tags = ["panoramas","usa","newyork"]
 categories = ["travelling"]

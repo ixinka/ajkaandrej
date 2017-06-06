@@ -1,5 +1,6 @@
 +++
 title = "Čokoládovo banánové mafiny"
+slug = "cokoladovo-bananove-mafiny"
 description = ""
 tags = ["baking","cake","sweet"]
 categories = ["recipes"]

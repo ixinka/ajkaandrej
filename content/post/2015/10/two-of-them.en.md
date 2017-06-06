@@ -1,5 +1,6 @@
 +++
 title = "Two of them"
+slug = "two-of-them"
 description = ""
 tags = ["dominik","olivia"]
 categories = ["dailylife"]

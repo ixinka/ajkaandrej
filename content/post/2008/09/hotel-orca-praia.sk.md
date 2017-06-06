@@ -1,5 +1,6 @@
 +++
 title = "Hotel Orca Praia"
+slug = "hotel-orca-praia"
 description = ""
 tags = ["island","portugal"]
 categories = ["travelling"]

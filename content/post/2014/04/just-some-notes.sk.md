@@ -1,5 +1,6 @@
 +++
 title = "Len tak"
+slug = "len-tak"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

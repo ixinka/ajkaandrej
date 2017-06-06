@@ -1,5 +1,6 @@
 +++
 title = "Anglicko"
+slug = "anglicko"
 description = ""
 tags = ["england"]
 categories = ["dailylife"]

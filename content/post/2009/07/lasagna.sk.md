@@ -1,5 +1,6 @@
 +++
 title = "Lazane s mletým mäsom"
+slug = "lazane-s-mletym-masom"
 description = ""
 tags = ["savoury","pasta","meat","cooking"]
 categories = ["recipes"]

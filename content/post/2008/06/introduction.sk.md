@@ -1,5 +1,6 @@
 +++
 title = "Úvod"
+slug = "uvod"
 description = ""
 categories = ["dailylife"]
 date = "2008-06-20T18:32:19"

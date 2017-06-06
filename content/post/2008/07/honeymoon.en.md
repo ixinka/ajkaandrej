@@ -1,5 +1,6 @@
 +++
 title = "Honeymoon"
+slug = "honeymoon"
 description = ""
 tags = ["island","portugal","wedding","sea"]
 categories = ["travelling","dailylife"]

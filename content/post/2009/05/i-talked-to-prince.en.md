@@ -1,5 +1,6 @@
 +++
 title = "I talked to prince"
+slug = "i-talked-to-prince"
 description = ""
 tags = ["england","virtualbaby"]
 categories = ["dailylife"]

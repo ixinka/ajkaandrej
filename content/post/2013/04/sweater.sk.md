@@ -1,5 +1,6 @@
 +++
 title = "Svetrík"
+slug = "svetrik"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

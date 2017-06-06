@@ -1,5 +1,6 @@
 +++
 title = "Wallberg"
+slug = "wallberg"
 description = ""
 tags = ["panoramas","mountains","germany","hiking"]
 categories = ["travelling"]

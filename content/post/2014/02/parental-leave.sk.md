@@ -1,5 +1,6 @@
 +++
 title = "Rodičovská dovolenka"
+slug = "rodicovska-dovolenka"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

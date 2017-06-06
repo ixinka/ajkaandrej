@@ -1,5 +1,6 @@
 +++
 title = "Grilovanie, maľovanie a tak"
+slug = "grilovanie-malovanie-a-tak"
 description = ""
 categories = ["dailylife"]
 date = "2015-05-06T20:21:16"

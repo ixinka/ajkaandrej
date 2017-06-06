@@ -1,5 +1,6 @@
 +++
 title = "East Madeira"
+slug = "east-madeira"
 description = ""
 tags = ["panoramas","island","portugal"]
 categories = ["travelling"]

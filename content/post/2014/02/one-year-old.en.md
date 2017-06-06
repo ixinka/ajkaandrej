@@ -1,5 +1,6 @@
 +++
 title = "One year old"
+slug = "one-year-old"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

@@ -1,5 +1,6 @@
 +++
 title = "Špenátový koláč"
+slug = "spenatovy-kolac"
 description = ""
 tags = ["savoury","baking"]
 categories = ["recipes"]

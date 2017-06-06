@@ -1,5 +1,6 @@
 +++
 title = "2 mesiace"
+slug = "2-mesiace"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

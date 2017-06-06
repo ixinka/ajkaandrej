@@ -30,7 +30,7 @@ skipfiles:
 deployRecordDir: deployed
 
 # Want lots of messages? [Default false]
-#verbose: true
+verbose: true
 
 # Disable minification? [Default false]
 #DontMinify: true

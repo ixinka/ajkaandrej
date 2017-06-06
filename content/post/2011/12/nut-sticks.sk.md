@@ -1,5 +1,6 @@
 +++
 title = "Orechové tyčinky"
+slug = "orechove-tycinky"
 description = ""
 tags = ["baking","cake","sweet"]
 categories = ["recipes"]

@@ -1,5 +1,6 @@
 +++
-title = "bábovka "
+title = "bábovka"
+slug = "babovka"
 description = ""
 tags = ["baking","cake","sweet"]
 categories = ["recipes"]

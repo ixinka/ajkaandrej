@@ -1,5 +1,6 @@
 +++
 title = "Ako sme išli do Švajčiarska"
+slug = "ako-sme-isli-do-svajciarska"
 description = ""
 tags = ["switzerland"]
 categories = ["travelling","dailylife"]

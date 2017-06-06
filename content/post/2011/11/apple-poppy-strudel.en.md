@@ -1,5 +1,6 @@
 +++
 title = "Apple-poppy strudel"
+slug = "apple-poppy-strudel"
 description = ""
 tags = ["baking","cake","sweet"]
 categories = ["recipes"]

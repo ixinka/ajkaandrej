@@ -1,5 +1,6 @@
 +++
 title = "Cala Ratjada"
+slug = "cala-ratjada"
 description = ""
 tags = ["panoramas","spain","island","beach","sea"]
 categories = ["travelling"]

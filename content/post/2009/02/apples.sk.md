@@ -1,5 +1,6 @@
 +++
 title = "Jablká v župane"
+slug = "jablka-v-zupane"
 description = ""
 tags = ["baking","cake","sweet"]
 categories = ["recipes"]

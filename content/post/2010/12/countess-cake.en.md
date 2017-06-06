@@ -1,5 +1,6 @@
 +++
 title = "Countess's cake"
+slug = "countess-cake"
 description = ""
 tags = ["baking","cake","sweet"]
 categories = ["recipes"]

@@ -1,5 +1,6 @@
 +++
 title = "Teplo"
+slug = "teplo"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

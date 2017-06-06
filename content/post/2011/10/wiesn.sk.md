@@ -1,5 +1,6 @@
 +++
 title = "Wiesn"
+slug = "wiesn"
 description = ""
 tags = ["panoramas","germany","munich"]
 categories = ["dailylife"]

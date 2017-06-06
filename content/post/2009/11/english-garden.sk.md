@@ -1,5 +1,6 @@
 +++
 title = "Anglická záhrada"
+slug = "anglicka-zahrada"
 description = ""
 tags = ["germany","munich","park"]
 categories = ["travelling"]

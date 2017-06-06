@@ -1,5 +1,6 @@
 +++
 title = "5th of November"
+slug = "5th-of-november"
 description = ""
 tags = ["england"]
 categories = ["dailylife"]

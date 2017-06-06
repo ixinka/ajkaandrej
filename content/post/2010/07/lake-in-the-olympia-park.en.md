@@ -1,5 +1,6 @@
 +++
 title = "Lake in the Olympia park"
+slug = "lake-in-the-olympia-park"
 description = ""
 tags = ["germany","munich","lake"]
 categories = ["travelling","dailylife"]

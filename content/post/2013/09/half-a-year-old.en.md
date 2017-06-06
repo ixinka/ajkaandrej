@@ -1,5 +1,6 @@
 +++
 title = "Half a year old"
+slug = "half-a-year-old"
 description = ""
 tags = ["switzerland","olivia"]
 categories = ["travelling","dailylife"]

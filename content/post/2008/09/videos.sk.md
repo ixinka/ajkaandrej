@@ -1,5 +1,6 @@
 +++
 title = "Videa"
+slug = "videa"
 description = ""
 tags = ["wedding"]
 categories = ["dailylife"]

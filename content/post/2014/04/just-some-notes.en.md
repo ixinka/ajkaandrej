@@ -1,5 +1,6 @@
 +++
 title = "Just some notes"
+slug = "just-some-notes"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

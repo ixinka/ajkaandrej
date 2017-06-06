@@ -1,5 +1,6 @@
 +++
 title = "Obhajoba"
+slug = "obhajoba"
 description = ""
 tags = ["england"]
 categories = ["dailylife"]

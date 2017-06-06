@@ -1,5 +1,6 @@
 +++
 title = "Otáčanie"
+slug = "otacanie"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

@@ -1,5 +1,6 @@
 +++
 title = "Prechádzka v parku"
+slug = "prechadzka-v-parku"
 description = ""
 tags = ["germany","munich","park"]
 categories = ["dailylife"]

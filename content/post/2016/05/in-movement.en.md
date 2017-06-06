@@ -1,5 +1,6 @@
 +++
 title = "In movement"
+slug = "in-movement"
 description = ""
 categories = ["dailylife"]
 date = "2016-05-21T22:06:13"

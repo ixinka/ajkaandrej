@@ -1,5 +1,6 @@
 +++
 title = "Vianoce"
+slug = "vianoce"
 description = ""
 categories = ["dailylife"]
 date = "2010-12-30T19:23:05"

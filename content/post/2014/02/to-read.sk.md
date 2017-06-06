@@ -1,5 +1,6 @@
 +++
 title = "Na čítanie"
+slug = "na-citanie"
 description = ""
 categories = ["dailylife"]
 date = "2014-02-28T14:47:34"

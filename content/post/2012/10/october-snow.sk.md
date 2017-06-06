@@ -1,5 +1,6 @@
 +++
 title = "Októbrový sneh"
+slug = "oktobrovy-sneh"
 description = ""
 tags = ["germany"]
 categories = ["dailylife"]

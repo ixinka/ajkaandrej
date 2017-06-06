@@ -1,5 +1,6 @@
 +++
 title = "Prechádzka"
+slug = "prechadzka"
 description = ""
 tags = ["germany","lake"]
 categories = ["dailylife"]

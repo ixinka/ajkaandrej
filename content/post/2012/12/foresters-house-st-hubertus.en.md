@@ -1,5 +1,6 @@
 +++
 title = "Forester's house St. Hubertus"
+slug = "foresters-house-st-hubertus"
 description = ""
 tags = ["germany"]
 categories = ["dailylife"]

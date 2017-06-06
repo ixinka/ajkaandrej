@@ -1,5 +1,6 @@
 +++
 title = "Snowing"
+slug = "snowing"
 description = ""
 tags = ["england"]
 categories = ["dailylife"]

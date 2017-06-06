@@ -1,5 +1,6 @@
 +++
 title = "Zima"
+slug = "zima"
 description = ""
 tags = ["munich"]
 categories = ["dailylife"]

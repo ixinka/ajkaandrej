@@ -1,5 +1,6 @@
 +++
 title = "Barbecue, painting and so on"
+slug = "barbecue-painting-and-so-on"
 description = ""
 categories = ["dailylife"]
 date = "2015-05-06T20:21:16"

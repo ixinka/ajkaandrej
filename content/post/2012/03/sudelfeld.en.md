@@ -1,5 +1,6 @@
 +++
 title = "Sudelfeld"
+slug = "sudelfeld"
 description = ""
 tags = ["panoramas","mountains","skiing","germany"]
 categories = ["travelling","dailylife"]

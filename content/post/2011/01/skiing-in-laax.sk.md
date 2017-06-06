@@ -1,5 +1,6 @@
 +++
 title = "Lyžovačka v Laax"
+slug = "lyzovacka-v-laax"
 description = ""
 tags = ["mountains","skiing","switzerland"]
 categories = ["travelling"]

@@ -1,5 +1,6 @@
 +++
 title = "Kúpanie"
+slug = "kupanie"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

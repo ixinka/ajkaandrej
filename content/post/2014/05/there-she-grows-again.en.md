@@ -1,5 +1,6 @@
 +++
 title = "There she grows again"
+slug = "there-she-grows-again"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

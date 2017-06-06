@@ -1,5 +1,6 @@
 +++
 title = "Svadobné oznámenie"
+slug = "svadobne-oznamenie"
 description = ""
 tags = ["wedding"]
 categories = ["dailylife"]

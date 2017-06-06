@@ -1,5 +1,6 @@
 +++
 title = "All purpose milk"
+slug = "all-purpose-milk"
 description = ""
 categories = ["dailylife"]
 date = "2015-10-27T21:58:52"

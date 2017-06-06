@@ -1,5 +1,6 @@
 +++
 title = "Easter trip"
+slug = "easter-trip"
 description = ""
 tags = ["mountains","waterfall","germany","hiking","lake"]
 categories = ["travelling"]

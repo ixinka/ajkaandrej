@@ -1,5 +1,6 @@
 +++
 title = "Dvaja"
+slug = "dvaja"
 description = ""
 tags = ["dominik","olivia"]
 categories = ["dailylife"]

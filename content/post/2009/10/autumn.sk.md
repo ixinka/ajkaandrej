@@ -1,5 +1,6 @@
 +++
 title = "Jeseň"
+slug = "jesen"
 description = ""
 tags = ["england"]
 categories = ["dailylife"]

@@ -1,5 +1,6 @@
 +++
 title = "Apples in the dressing gown"
+slug = "apples-in-the-dressing-gown"
 description = ""
 tags = ["baking","cake","sweet"]
 categories = ["recipes"]

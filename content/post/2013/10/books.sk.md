@@ -1,5 +1,6 @@
 +++
 title = "Knižky"
+slug = "knizky"
 description = ""
 categories = ["dailylife"]
 date = "2013-10-25T11:46:26"

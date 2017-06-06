@@ -1,5 +1,6 @@
 +++
 title = "Kam s návštevou"
+slug = "kam-s-navstevou"
 description = ""
 tags = ["panoramas","munich"]
 categories = ["dailylife"]

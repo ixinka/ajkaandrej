@@ -1,5 +1,6 @@
 +++
 title = "Because because because what?"
+slug = "because-what"
 description = ""
 categories = ["dailylife"]
 date = "2016-02-04T11:23:48"

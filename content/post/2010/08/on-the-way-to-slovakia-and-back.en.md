@@ -1,5 +1,6 @@
 +++
 title = "On the way to Slovakia and back"
+slug = "on-the-way-to-slovakia-and-back"
 description = ""
 tags = ["panoramas","austria","lake"]
 categories = ["travelling","dailylife"]

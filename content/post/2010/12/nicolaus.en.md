@@ -1,5 +1,6 @@
 +++
 title = "Saint Nicholas"
+slug = "saint-nicholas"
 description = ""
 categories = ["dailylife"]
 date = "2010-12-10T10:31:08"

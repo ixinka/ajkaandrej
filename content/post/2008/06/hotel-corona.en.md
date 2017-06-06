@@ -1,5 +1,6 @@
 +++
 title = "Hotel Corona***"
+slug = "hotel-corona"
 description = ""
 tags = ["island","italy"]
 categories = ["travelling"]

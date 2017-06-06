@@ -1,5 +1,6 @@
 +++
 title = "Spitzingsee"
+slug = "spitzingsee"
 description = ""
 tags = ["skiing","germany","lake"]
 categories = ["travelling"]

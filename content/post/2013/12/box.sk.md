@@ -1,5 +1,6 @@
 +++
 title = "Krabica"
+slug = "krabica"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

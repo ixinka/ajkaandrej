@@ -1,5 +1,6 @@
 +++
 title = "Horáreň svätý Hubertus"
+slug = "horaren-svaty-hubertus"
 description = ""
 tags = ["germany"]
 categories = ["dailylife"]

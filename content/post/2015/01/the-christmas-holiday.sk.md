@@ -1,5 +1,6 @@
 +++
 title = "Vianoce"
+slug = "vianoce"
 description = ""
 tags = ["slovakia"]
 categories = ["dailylife"]

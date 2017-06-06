@@ -1,5 +1,6 @@
 +++
 title = "Parental leave"
+slug = "parental-leave"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

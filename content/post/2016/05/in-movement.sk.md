@@ -1,5 +1,6 @@
 +++
 title = "V pohybe"
+slug = "v-pohybe"
 description = ""
 categories = ["dailylife"]
 date = "2016-05-21T22:06:13"

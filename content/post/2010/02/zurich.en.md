@@ -1,5 +1,6 @@
 +++
 title = "Zurich"
+slug = "zurich"
 description = ""
 tags = ["switzerland","lake"]
 categories = ["travelling"]

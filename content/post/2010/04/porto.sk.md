@@ -1,5 +1,6 @@
 +++
 title = "Porto"
+slug = "porto"
 description = ""
 tags = ["portugal","sea"]
 categories = ["travelling"]

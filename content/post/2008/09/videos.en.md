@@ -1,5 +1,6 @@
 +++
 title = "Videos"
+slug = "videos"
 description = ""
 tags = ["wedding"]
 categories = ["dailylife"]

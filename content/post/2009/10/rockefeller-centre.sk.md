@@ -1,5 +1,6 @@
 +++
 title = "Rokefelerové centrum"
+slug = "rokefelerove centrum"
 description = ""
 tags = ["panoramas","usa","newyork"]
 categories = ["travelling"]

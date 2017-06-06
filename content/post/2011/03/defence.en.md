@@ -1,5 +1,6 @@
 +++
 title = "Defence"
+slug = "defence"
 description = ""
 tags = ["england"]
 categories = ["dailylife"]

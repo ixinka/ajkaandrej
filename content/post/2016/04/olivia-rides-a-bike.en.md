@@ -1,5 +1,6 @@
 +++
 title = "Olivia rides a bike"
+slug = "olivia-rides-abike"
 description = ""
 categories = ["dailylife"]
 date = "2016-04-21T20:02:27"

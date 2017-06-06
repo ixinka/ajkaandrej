@@ -1,5 +1,6 @@
 +++
 title = "Nursery"
+slug = "nursery"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

@@ -1,5 +1,6 @@
 +++
 title = "Len 1:15h každý!"
+slug = "len-115h-kazdy"
 description = ""
 categories = ["dailylife"]
 date = "2010-02-09T13:09:50"

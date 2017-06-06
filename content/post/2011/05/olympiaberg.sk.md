@@ -1,5 +1,6 @@
 +++
 title = "Olympiaberg"
+slug = "olympiaberg"
 description = ""
 tags = ["panoramas","munich","lake","park"]
 categories = ["travelling","dailylife"]

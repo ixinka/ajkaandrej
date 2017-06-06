@@ -1,5 +1,6 @@
 +++
 title = "Cisárske trhance"
+slug = "cisarske-trhance"
 description = ""
 tags = ["baking","sweet"]
 categories = ["recipes"]

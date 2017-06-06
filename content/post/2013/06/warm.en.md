@@ -1,5 +1,6 @@
 +++
 title = "Warm"
+slug = "warm"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

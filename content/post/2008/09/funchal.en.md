@@ -1,5 +1,6 @@
 +++
 title = "Funchal"
+slug = "funchal"
 description = ""
 tags = ["panoramas","island","portugal"]
 categories = ["travelling"]

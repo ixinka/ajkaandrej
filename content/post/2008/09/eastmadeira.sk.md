@@ -1,5 +1,6 @@
 +++
 title = "Východná Madeira"
+slug = "vychodna-madeira"
 description = ""
 tags = ["panoramas","island","portugal"]
 categories = ["travelling"]

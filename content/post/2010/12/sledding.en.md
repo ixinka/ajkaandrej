@@ -1,5 +1,6 @@
 +++
 title = "Sledding"
+slug = "sledding"
 description = ""
 tags = ["panoramas","mountains","germany"]
 categories = ["travelling","dailylife"]

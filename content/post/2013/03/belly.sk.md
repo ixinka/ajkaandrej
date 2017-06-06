@@ -1,5 +1,6 @@
 +++
 title = "Bruško"
+slug = "brusko"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

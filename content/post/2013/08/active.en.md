@@ -1,5 +1,6 @@
 +++
 title = "Active"
+slug = "active"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

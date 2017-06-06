@@ -1,5 +1,6 @@
 +++
 title = "Mesiac"
+slug = "mesiac"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

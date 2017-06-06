@@ -1,5 +1,6 @@
 +++
 title = "New tenant"
+slug = "new-tenant"
 description = ""
 categories = ["dailylife"]
 date = "2012-11-10T18:22:30"

@@ -1,5 +1,6 @@
 +++
 title = "Knedľa"
+slug = "knedla"
 description = ""
 tags = ["cooking"]
 categories = ["dailylife"]

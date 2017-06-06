@@ -1,5 +1,6 @@
 +++
 title = "Posteľ"
+slug = "postel"
 description = ""
 categories = ["dailylife"]
 date = "2015-05-08T09:22:42"

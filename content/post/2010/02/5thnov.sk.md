@@ -1,5 +1,6 @@
 +++
 title = "Piaty november"
+slug = "piaty-november"
 description = ""
 tags = ["england"]
 categories = ["dailylife"]

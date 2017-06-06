@@ -1,5 +1,6 @@
 +++
 title = "Paríž"
+slug = "pariz"
 description = ""
 tags = ["france"]
 categories = ["travelling"]

@@ -1,5 +1,6 @@
 +++
 title = "Winter news"
+slug = "winter news"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

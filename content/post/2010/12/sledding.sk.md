@@ -1,5 +1,6 @@
 +++
 title = "Sánkovanie"
+slug = "sankovanie"
 description = ""
 tags = ["panoramas","mountains","germany"]
 categories = ["travelling","dailylife"]

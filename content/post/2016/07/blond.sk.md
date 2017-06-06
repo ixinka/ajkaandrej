@@ -1,5 +1,6 @@
 +++
 title = "Blonďák"
+slug = "blondak"
 description = ""
 categories = ["dailylife"]
 date = "2016-07-02T14:59:31"

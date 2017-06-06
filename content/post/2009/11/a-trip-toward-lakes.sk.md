@@ -1,5 +1,6 @@
 +++
 title = "Výlet k jazerám"
+slug = "vylet-k-jazeram"
 description = ""
 tags = ["mountains","germany","lake"]
 categories = ["travelling"]

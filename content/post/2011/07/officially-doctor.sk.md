@@ -1,5 +1,6 @@
 +++
 title = "Oficiálne doktorka"
+slug = "oficialne doktorka"
 description = ""
 categories = ["dailylife"]
 date = "2011-07-28T15:31:07"

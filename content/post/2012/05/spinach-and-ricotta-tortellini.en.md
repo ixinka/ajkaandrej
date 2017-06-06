@@ -1,5 +1,6 @@
 +++
 title = "Spinach and ricotta tortellini"
+slug = "spinach-and-ricotta-tortellini"
 description = ""
 tags = ["savoury","pasta","cooking"]
 categories = ["recipes"]

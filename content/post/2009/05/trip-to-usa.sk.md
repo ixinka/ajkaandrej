@@ -1,5 +1,6 @@
 +++
 title = "Na výlete do Ameriky"
+slug = "na-vylete-do-ameriky"
 description = ""
 tags = ["panoramas","usa","newyork"]
 categories = ["travelling"]

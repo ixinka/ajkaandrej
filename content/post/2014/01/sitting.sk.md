@@ -1,5 +1,6 @@
 +++
 title = "Po sediačky"
+slug = "po-sediacky"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

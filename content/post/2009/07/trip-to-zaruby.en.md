@@ -1,5 +1,6 @@
 +++
 title = "Trip to Zaruby hill"
+slug = "trip-to-zaruby-hill"
 description = ""
 tags = ["mountains","ruins","hiking","slovakia","lake"]
 categories = ["travelling"]

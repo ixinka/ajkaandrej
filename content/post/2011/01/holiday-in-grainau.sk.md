@@ -1,5 +1,6 @@
 +++
 title = "Dovolenka v Grainau"
+slug = "dovolenka-v-grainau"
 description = ""
 tags = ["mountains","skiing","germany","lake"]
 categories = ["travelling"]

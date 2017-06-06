@@ -1,5 +1,6 @@
 +++
 title = "England"
+slug = "england"
 description = ""
 tags = ["england"]
 categories = ["dailylife"]

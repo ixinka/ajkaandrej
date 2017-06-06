@@ -1,5 +1,6 @@
 +++
 title = "Potatoes and other"
+slug = "potatoes-and-other"
 description = ""
 tags = ["slovakia","cerova"]
 categories = ["dailylife"]

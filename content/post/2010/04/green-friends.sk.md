@@ -1,5 +1,6 @@
 +++
 title = "Zelení kamaráti"
+slug = "zeleni-kamarati"
 description = ""
 categories = ["dailylife"]
 date = "2010-04-18T13:03:43"

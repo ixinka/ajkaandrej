@@ -1,5 +1,6 @@
 +++
 title = "The Autumn"
+slug = "the-autumn"
 description = ""
 tags = ["england"]
 categories = ["dailylife"]

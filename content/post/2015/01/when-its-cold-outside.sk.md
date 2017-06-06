@@ -1,5 +1,6 @@
 +++
 title = "Keď je vonku zima"
+slug = "ked-je-vonku-zima"
 description = ""
 categories = ["dailylife"]
 date = "2015-01-25T07:26:44"

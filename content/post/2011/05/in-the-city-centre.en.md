@@ -1,5 +1,6 @@
 +++
 title = "In the city centre"
+slug = "in-the-city-centre"
 description = ""
 tags = ["munich"]
 categories = ["dailylife"]

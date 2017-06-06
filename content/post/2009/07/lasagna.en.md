@@ -1,5 +1,6 @@
 +++
 title = "Lasagna with minced meat"
+slug = "lasagna-with-minced-meat"
 description = ""
 tags = ["savoury","pasta","meat","cooking"]
 categories = ["recipes"]

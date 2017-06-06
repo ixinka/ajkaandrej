@@ -1,5 +1,6 @@
 +++
 title = "Svadobná dovolenka"
+slug = "svadobna-dovolenka"
 description = ""
 tags = ["island","portugal","wedding","sea"]
 categories = ["travelling","dailylife"]

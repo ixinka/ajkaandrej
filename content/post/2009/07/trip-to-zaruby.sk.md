@@ -1,5 +1,6 @@
 +++
 title = "Výlet na Zaruby"
+slug = "vylet-na-zaruby"
 description = ""
 tags = ["mountains","ruins","hiking","slovakia","lake"]
 categories = ["travelling"]

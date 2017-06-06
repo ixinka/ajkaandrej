@@ -1,5 +1,6 @@
 +++
 title = "Behind the house"
+slug = "behind-the-house"
 description = ""
 tags = ["germany","park"]
 categories = ["dailylife"]

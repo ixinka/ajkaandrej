@@ -1,5 +1,6 @@
 +++
 title = "Poseidonové záhrady"
+slug = "poseidonove-zahrady"
 description = ""
 tags = ["island","beach","italy","sea"]
 categories = ["travelling"]

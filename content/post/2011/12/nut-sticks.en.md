@@ -1,5 +1,6 @@
 +++
 title = "Nut sticks"
+slug = "nut-sticks"
 description = ""
 tags = ["baking","cake","sweet"]
 categories = ["recipes"]

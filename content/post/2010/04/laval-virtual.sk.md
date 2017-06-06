@@ -1,5 +1,6 @@
 +++
 title = "Laval Virtual"
+slug = "laval-virtual"
 description = ""
 tags = ["france"]
 categories = ["dailylife"]

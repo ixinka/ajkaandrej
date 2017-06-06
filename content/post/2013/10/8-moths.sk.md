@@ -1,5 +1,6 @@
 +++
 title = "8 mesiacov"
+slug = "8-mesiacov"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

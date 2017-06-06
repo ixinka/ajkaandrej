@@ -1,5 +1,6 @@
 +++
 title = "Toothy week"
+slug = "toothy-week"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]

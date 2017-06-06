@@ -1,5 +1,6 @@
 +++
 title = "Trips through the Ischia"
+slug = "trips-through-the-ischia"
 description = ""
 tags = ["mountains","island","hiking","italy","sea"]
 categories = ["travelling"]

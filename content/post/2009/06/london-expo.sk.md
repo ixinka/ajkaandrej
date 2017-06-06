@@ -1,5 +1,6 @@
 +++
 title = "Výstava v Londýne"
+slug = "vystava-v-londyne"
 description = ""
 tags = ["england","virtualbaby"]
 categories = ["travelling","dailylife"]

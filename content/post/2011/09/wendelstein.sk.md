@@ -1,5 +1,6 @@
 +++
 title = "Wendelstein"
+slug = "wendelstein"
 description = ""
 tags = ["panoramas","mountains","germany","hiking"]
 categories = ["travelling"]

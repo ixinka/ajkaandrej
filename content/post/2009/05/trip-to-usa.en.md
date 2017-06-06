@@ -1,5 +1,6 @@
 +++
 title = "On the trip to USA"
+slug = "on-the-trip-to-usa"
 description = ""
 tags = ["panoramas","usa","newyork"]
 categories = ["travelling"]

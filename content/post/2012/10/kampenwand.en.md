@@ -1,5 +1,6 @@
 +++
 title = "Kampenwand"
+slug = "kampenwand"
 description = ""
 tags = ["panoramas","mountains","germany","hiking"]
 categories = ["travelling"]

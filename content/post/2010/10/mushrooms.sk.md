@@ -1,5 +1,6 @@
 +++
 title = "Na hubách"
+slug = "na-hubach"
 description = ""
 tags = ["slovakia","cerova"]
 categories = ["dailylife"]

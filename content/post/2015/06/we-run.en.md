@@ -1,5 +1,6 @@
 +++
 title = "We run"
+slug = "we-run"
 description = ""
 tags = ["olivia"]
 categories = ["dailylife"]
