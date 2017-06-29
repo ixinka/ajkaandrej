@@ -1,5 +1,6 @@
 +++
 title = "Opäť na Slovensku"
+slug = "opat-na-slovensku"
 description = ""
 tags = ["slovakia"]
 categories = ["dailylife"]
