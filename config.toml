@@ -1,6 +1,6 @@
-baseurl = "http://www.ajka-andrej.com/"
+baseurl = "https://www.ajka-andrej.com/"
 languageCode = "en-us"
-title = "Ajka+Andrej"
+title = "Ajka+Andrej+"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = "ajkaandrej"
