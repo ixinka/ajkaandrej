@@ -4,7 +4,7 @@ slug = "leto"
 description = ""
 categories = ["dailylife"]
 tags = ["olivia", "dominik"]
-date = "2017-16-05T21:13:12"
+date = "2017-08-15T21:13:12"
 banner = "/images/2017/08/IMG_20170710_145223511_HDRt.jpg"
 +++
 
