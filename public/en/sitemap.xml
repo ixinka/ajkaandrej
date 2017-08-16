@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.ajka-andrej.com/2017/08/05/summer</loc>
+    <lastmod>2017-08-05T21:13:12+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.ajka-andrej.com/2017/07/02/dominik-is-two</loc>
     <lastmod>2017-07-02T20:30:12+00:00</lastmod>
   </url>
@@ -918,7 +923,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/</loc>
-    <lastmod>2017-07-02T20:30:12+00:00</lastmod>
+    <lastmod>2017-08-05T21:13:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -965,13 +970,13 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/categories/dailylife/</loc>
-    <lastmod>2017-07-02T20:30:12+00:00</lastmod>
+    <lastmod>2017-08-05T21:13:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/tags/dominik/</loc>
-    <lastmod>2017-07-02T20:30:12+00:00</lastmod>
+    <lastmod>2017-08-05T21:13:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1043,7 +1048,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/tags/olivia/</loc>
-    <lastmod>2017-06-28T20:23:12+00:00</lastmod>
+    <lastmod>2017-08-05T21:13:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1073,7 +1078,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/post/</loc>
-    <lastmod>2017-07-02T20:30:12+00:00</lastmod>
+    <lastmod>2017-08-05T21:13:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
