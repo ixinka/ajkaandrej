@@ -2,9 +2,9 @@
 title = "Autumn hoiday at the sea"
 slug = "autumn-holiday-at-the-sea"
 description = ""
-categories = ["dailylife"]
+categories = ["travelling"]
 tags = ["italy", "sea"]
-date = "2017-08-15T21:13:12"
+date = "2017-09-30T21:13:12"
 banner = "/images/2017/09/IMG_20170911_172454538_BURST001t.jpg"
 +++
 
@@ -40,3 +40,5 @@ This year's summer holiday ended up as an autumn holiday. With September coming,
 >}}
 
 {{< video src="/video/2017/09/VID_20170915_091636358_HDR.m4v" height="406" width="720" >}}
+
+{{< panorama "/images/2017/09/IMG_20170909_175748828.jpg"  >}}

@@ -2,9 +2,9 @@
 title = "Jesenná dovolenka pri mori"
 slug = "jesenna-dovolenka-pri-mori"
 description = ""
-categories = ["dailylife"]
+categories = ["travelling"]
 tags = ["italy", "sea"]
-date = "2017-08-15T21:13:12"
+date = "2017-09-30T21:13:12"
 banner = "/images/2017/09/IMG_20170911_172454538_BURST001t.jpg"
 +++
 
@@ -39,3 +39,5 @@ Z tohtoročnej letnej dovolenky bola nakoniec jesenná. September si povedal, ž
 >}}
 
 {{< video src="/video/2017/09/VID_20170915_091636358_HDR.m4v" height="406" width="720" >}}
+
+{{< panorama "/images/2017/09/IMG_20170909_175748828.jpg"  >}}
