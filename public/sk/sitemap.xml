@@ -1,1184 +1,3481 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2017/10/03/spomienka-na-letne-prazdniny</loc>
+    <loc>https://www.ajka-andrej.com/sk/2017/12/30/olivia-foti/</loc>
+    <lastmod>2017-12-30T22:35:12+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2017/12/30/olivia-takes-pictures/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2017/12/30/olivia-foti/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.ajka-andrej.com/sk/2017/10/03/spomienka-na-letne-prazdniny/</loc>
     <lastmod>2017-10-03T16:32:12+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2017/10/03/summer-memories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2017/10/03/spomienka-na-letne-prazdniny/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2017/09/30/jesenna-dovolenka-pri-mori</loc>
+    <loc>https://www.ajka-andrej.com/sk/2017/09/30/jesenna-dovolenka-pri-mori/</loc>
     <lastmod>2017-09-30T21:13:12+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2017/09/30/autumn-holiday-at-the-sea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2017/09/30/jesenna-dovolenka-pri-mori/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2017/08/15/leto</loc>
+    <loc>https://www.ajka-andrej.com/sk/2017/08/15/leto/</loc>
     <lastmod>2017-08-15T21:13:12+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2017/08/15/summer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2017/08/15/leto/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2017/07/02/dominik-ma-dva-roky</loc>
+    <loc>https://www.ajka-andrej.com/sk/2017/07/02/dominik-ma-dva-roky/</loc>
     <lastmod>2017-07-02T20:30:12+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2017/07/02/dominik-is-two/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2017/07/02/dominik-ma-dva-roky/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2017/06/28/dvojtyzdnove-prazdniny</loc>
+    <loc>https://www.ajka-andrej.com/sk/2017/06/28/dvojtyzdnove-prazdniny/</loc>
     <lastmod>2017-06-28T20:23:12+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2017/06/28/two-week-holiday/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2017/06/28/dvojtyzdnove-prazdniny/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2017/05/30/posledne-udalosti</loc>
+    <loc>https://www.ajka-andrej.com/sk/2017/05/30/posledne-udalosti/</loc>
     <lastmod>2017-05-30T08:46:12+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2017/05/30/last-events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2017/05/30/posledne-udalosti/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2017/03/20/spolocne-a-rozdielne</loc>
+    <loc>https://www.ajka-andrej.com/sk/2017/03/20/spolocne-a-rozdielne/</loc>
     <lastmod>2017-03-20T20:46:12+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2017/03/20/common-and-different/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2017/03/20/spolocne-a-rozdielne/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2017/03/01/olivia-ma-4-roky</loc>
+    <loc>https://www.ajka-andrej.com/sk/2017/03/01/olivia-ma-4-roky/</loc>
     <lastmod>2017-03-01T20:33:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2017/03/01/olivia-is-4-years-old/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2017/03/01/olivia-ma-4-roky/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2017/02/01/ked-napadne-vela-snehu</loc>
+    <loc>https://www.ajka-andrej.com/sk/2017/02/01/ked-napadne-vela-snehu/</loc>
     <lastmod>2017-02-01T12:15:33+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2017/02/01/when-there-is-alot-of-snow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2017/02/01/ked-napadne-vela-snehu/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2016/12/20/telocvicna</loc>
+    <loc>https://www.ajka-andrej.com/sk/2016/12/20/telocvicna/</loc>
     <lastmod>2016-12-20T20:32:42+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2016/12/20/gym/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2016/12/20/telocvicna/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2016/10/11/vtaciky-a-lienky</loc>
+    <loc>https://www.ajka-andrej.com/sk/2016/10/11/vtaciky-a-lienky/</loc>
     <lastmod>2016-10-11T20:32:42+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2016/10/11/birds-and-ladybugs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2016/10/11/vtaciky-a-lienky/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2016/09/05/lesne-ihrisko</loc>
+    <loc>https://www.ajka-andrej.com/sk/2016/09/05/lesne-ihrisko/</loc>
     <lastmod>2016-09-05T09:42:52+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2016/09/05/forest-playground/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2016/09/05/lesne-ihrisko/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2016/09/03/vychylovka-a-stara-bystrica</loc>
+    <loc>https://www.ajka-andrej.com/sk/2016/09/03/vychylovka-a-stara-bystrica/</loc>
     <lastmod>2016-09-03T20:59:47+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2016/09/03/vychylovka-and-stara-bystrica/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2016/09/03/vychylovka-a-stara-bystrica/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2016/09/01/vratna-dolina</loc>
+    <loc>https://www.ajka-andrej.com/sk/2016/09/01/vratna-dolina/</loc>
     <lastmod>2016-09-01T20:59:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2016/09/01/vratna-valley/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2016/09/01/vratna-dolina/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2016/08/06/dominik-chodi</loc>
+    <loc>https://www.ajka-andrej.com/sk/2016/08/06/dominik-chodi/</loc>
     <lastmod>2016-08-06T09:07:33+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2016/08/06/dominik-can-walk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2016/08/06/dominik-chodi/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2016/07/02/blondak</loc>
+    <loc>https://www.ajka-andrej.com/sk/2016/07/02/blondak/</loc>
     <lastmod>2016-07-02T14:59:31+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2016/07/02/blond/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2016/07/02/blondak/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2016/05/21/v-pohybe</loc>
+    <loc>https://www.ajka-andrej.com/sk/2016/05/21/v-pohybe/</loc>
     <lastmod>2016-05-21T22:06:13+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2016/05/21/in-movement/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2016/05/21/v-pohybe/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2016/04/21/olivia-sa-bicykluje</loc>
+    <loc>https://www.ajka-andrej.com/sk/2016/04/21/olivia-sa-bicykluje/</loc>
     <lastmod>2016-04-21T20:02:27+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2016/04/21/olivia-rides-abike/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2016/04/21/olivia-sa-bicykluje/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2016/04/19/kazdodenne</loc>
+    <loc>https://www.ajka-andrej.com/sk/2016/04/19/kazdodenne/</loc>
     <lastmod>2016-04-19T20:45:13+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2016/04/19/daily-news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2016/04/19/kazdodenne/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2016/03/16/3-roky</loc>
+    <loc>https://www.ajka-andrej.com/sk/2016/03/16/3-roky/</loc>
     <lastmod>2016-03-16T21:10:41+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2016/03/16/3-years-old/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2016/03/16/3-roky/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2016/02/24/kazdy-iny</loc>
+    <loc>https://www.ajka-andrej.com/sk/2016/02/24/kazdy-iny/</loc>
     <lastmod>2016-02-24T12:24:33+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2016/02/24/different/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2016/02/24/kazdy-iny/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2016/02/04/lebo-co</loc>
+    <loc>https://www.ajka-andrej.com/sk/2016/02/04/lebo-co/</loc>
     <lastmod>2016-02-04T11:23:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2016/02/04/because-what/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2016/02/04/lebo-co/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2016/01/26/zima</loc>
+    <loc>https://www.ajka-andrej.com/sk/2016/01/26/zima/</loc>
     <lastmod>2016-01-26T20:22:45+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2016/01/26/winter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2016/01/26/zima/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2015/12/26/vianocna-tvorba</loc>
+    <loc>https://www.ajka-andrej.com/sk/2015/12/26/vianocna-tvorba/</loc>
     <lastmod>2015-12-26T23:16:41+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2015/12/26/christmas-craft/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2015/12/26/vianocna-tvorba/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2015/10/27/mlieko-na-vsetko</loc>
+    <loc>https://www.ajka-andrej.com/sk/2015/10/27/mlieko-na-vsetko/</loc>
     <lastmod>2015-10-27T21:58:52+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2015/10/27/all-purpose-milk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2015/10/27/mlieko-na-vsetko/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2015/10/09/dvaja</loc>
+    <loc>https://www.ajka-andrej.com/sk/2015/10/09/dvaja/</loc>
     <lastmod>2015-10-09T11:58:51+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2015/10/09/two-of-them/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2015/10/09/dvaja/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2015/08/20/zmeny</loc>
+    <loc>https://www.ajka-andrej.com/sk/2015/08/20/zmeny/</loc>
     <lastmod>2015-08-20T11:49:28+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2015/08/20/changes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2015/08/20/zmeny/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2015/07/20/rastie-ako-z-mliecka</loc>
+    <loc>https://www.ajka-andrej.com/sk/2015/07/20/rastie-ako-z-mliecka/</loc>
     <lastmod>2015-07-20T18:00:18+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2015/07/20/he-grows-and-grows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2015/07/20/rastie-ako-z-mliecka/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2015/06/25/utekame</loc>
+    <loc>https://www.ajka-andrej.com/sk/2015/06/25/utekame/</loc>
     <lastmod>2015-06-25T10:58:23+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2015/06/25/we-run/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2015/06/25/utekame/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2015/05/08/postel</loc>
+    <loc>https://www.ajka-andrej.com/sk/2015/05/08/postel/</loc>
     <lastmod>2015-05-08T09:22:42+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2015/05/08/bed/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2015/05/08/postel/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2015/05/06/grilovanie-malovanie-a-tak</loc>
+    <loc>https://www.ajka-andrej.com/sk/2015/05/06/grilovanie-malovanie-a-tak/</loc>
     <lastmod>2015-05-06T20:21:16+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2015/05/06/barbecue-painting-and-so-on/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2015/05/06/grilovanie-malovanie-a-tak/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2015/04/17/samostatna</loc>
+    <loc>https://www.ajka-andrej.com/sk/2015/04/17/samostatna/</loc>
     <lastmod>2015-04-17T12:47:35+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2015/04/17/autonomous/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2015/04/17/samostatna/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2015/02/23/zimne-novinky</loc>
+    <loc>https://www.ajka-andrej.com/sk/2015/02/23/zimne-novinky/</loc>
     <lastmod>2015-02-23T09:52:58+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2015/02/23/winter-news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2015/02/23/zimne-novinky/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2015/01/25/ked-je-vonku-zima</loc>
+    <loc>https://www.ajka-andrej.com/sk/2015/01/25/ked-je-vonku-zima/</loc>
     <lastmod>2015-01-25T07:26:44+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2015/01/25/when-its-cold-outside/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2015/01/25/ked-je-vonku-zima/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2015/01/10/vianoce</loc>
+    <loc>https://www.ajka-andrej.com/sk/2015/01/10/vianoce/</loc>
     <lastmod>2015-01-10T13:56:05+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2015/01/10/the-christmas-holiday/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2015/01/10/vianoce/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2014/09/22/cavallino</loc>
+    <loc>https://www.ajka-andrej.com/sk/2014/09/22/cavallino/</loc>
     <lastmod>2014-09-22T20:28:34+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2014/09/22/cavallino/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2014/09/22/cavallino/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2014/07/17/posledne-dva-mesiace</loc>
+    <loc>https://www.ajka-andrej.com/sk/2014/07/17/posledne-dva-mesiace/</loc>
     <lastmod>2014-07-17T18:50:05+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2014/07/17/last-two-months/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2014/07/17/posledne-dva-mesiace/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2014/05/17/rastie-ako-z-mliecka</loc>
+    <loc>https://www.ajka-andrej.com/sk/2014/05/17/rastie-ako-z-mliecka/</loc>
     <lastmod>2014-05-17T21:10:16+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2014/05/17/there-she-grows-again/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2014/05/17/rastie-ako-z-mliecka/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2014/04/12/len-tak</loc>
+    <loc>https://www.ajka-andrej.com/sk/2014/04/12/len-tak/</loc>
     <lastmod>2014-04-12T21:34:44+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2014/04/12/just-some-notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2014/04/12/len-tak/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2014/03/20/jasle</loc>
+    <loc>https://www.ajka-andrej.com/sk/2014/03/20/jasle/</loc>
     <lastmod>2014-03-20T20:06:55+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2014/03/20/nursery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2014/03/20/jasle/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2014/03/04/ideme</loc>
+    <loc>https://www.ajka-andrej.com/sk/2014/03/04/ideme/</loc>
     <lastmod>2014-03-04T20:09:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2014/03/04/lets-go/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2014/03/04/ideme/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2014/02/28/na-citanie</loc>
+    <loc>https://www.ajka-andrej.com/sk/2014/02/28/na-citanie/</loc>
     <lastmod>2014-02-28T14:47:34+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2014/02/28/to-read/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2014/02/28/na-citanie/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2014/02/25/jeden-rok</loc>
+    <loc>https://www.ajka-andrej.com/sk/2014/02/25/jeden-rok/</loc>
     <lastmod>2014-02-25T21:23:46+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2014/02/25/one-year-old/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2014/02/25/jeden-rok/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2014/02/05/rodicovska-dovolenka</loc>
+    <loc>https://www.ajka-andrej.com/sk/2014/02/05/rodicovska-dovolenka/</loc>
     <lastmod>2014-02-05T22:11:51+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2014/02/05/parental-leave/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2014/02/05/rodicovska-dovolenka/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2014/01/29/11-mesiacov</loc>
+    <loc>https://www.ajka-andrej.com/sk/2014/01/29/11-mesiacov/</loc>
     <lastmod>2014-01-29T09:30:01+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2014/01/29/11-months/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2014/01/29/11-mesiacov/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2014/01/17/zubaty-tyzden</loc>
+    <loc>https://www.ajka-andrej.com/sk/2014/01/17/zubaty-tyzden/</loc>
     <lastmod>2014-01-17T21:36:33+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2014/01/17/toothy-week/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2014/01/17/zubaty-tyzden/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2014/01/04/po-sediacky</loc>
+    <loc>https://www.ajka-andrej.com/sk/2014/01/04/po-sediacky/</loc>
     <lastmod>2014-01-04T22:18:44+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2014/01/04/sitting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2014/01/04/po-sediacky/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/12/30/prve-vianoce</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/12/30/prve-vianoce/</loc>
     <lastmod>2013-12-30T10:45:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/12/30/the-first-christmas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/12/30/prve-vianoce/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/12/12/krabica</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/12/12/krabica/</loc>
     <lastmod>2013-12-12T22:03:09+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/12/12/box/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/12/12/krabica/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/11/25/9-mesiacov</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/11/25/9-mesiacov/</loc>
     <lastmod>2013-11-25T12:05:52+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/11/25/9-months/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/11/25/9-mesiacov/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/11/11/detska-izba</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/11/11/detska-izba/</loc>
     <lastmod>2013-11-11T20:50:39+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/11/11/kids-room/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/11/11/detska-izba/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/10/26/8-mesiacov</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/10/26/8-mesiacov/</loc>
     <lastmod>2013-10-26T18:59:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/10/26/8-months/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/10/26/8-mesiacov/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/10/25/knizky</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/10/25/knizky/</loc>
     <lastmod>2013-10-25T11:46:26+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/10/25/books/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/10/25/knizky/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/10/20/vyskumnik</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/10/20/vyskumnik/</loc>
     <lastmod>2013-10-20T14:33:15+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/10/20/discovever/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/10/20/vyskumnik/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/10/13/na-nohach</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/10/13/na-nohach/</loc>
     <lastmod>2013-10-13T12:35:10+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/10/13/on-her-feet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/10/13/na-nohach/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/09/25/7-mesiacov</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/09/25/7-mesiacov/</loc>
     <lastmod>2013-09-25T19:49:01+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/09/25/7-months/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/09/25/7-mesiacov/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/09/18/par-fotiek</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/09/18/par-fotiek/</loc>
     <lastmod>2013-09-18T21:48:01+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/09/18/some-photos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/09/18/par-fotiek/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/09/04/pol-roka</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/09/04/pol-roka/</loc>
     <lastmod>2013-09-04T09:47:23+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/09/04/half-a-year-old/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/09/04/pol-roka/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/08/10/aktivna</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/08/10/aktivna/</loc>
     <lastmod>2013-08-10T13:42:06+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/08/10/active/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/08/10/aktivna/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/07/28/krstiny</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/07/28/krstiny/</loc>
     <lastmod>2013-07-28T14:36:20+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/07/28/baptism/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/07/28/krstiny/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/07/15/otacanie</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/07/15/otacanie/</loc>
     <lastmod>2013-07-15T10:53:28+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/07/15/rolling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/07/15/otacanie/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/06/27/meniny</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/06/27/meniny/</loc>
     <lastmod>2013-06-27T11:24:28+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/06/27/name-day/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/06/27/meniny/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/06/19/dvojnasobna</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/06/19/dvojnasobna/</loc>
     <lastmod>2013-06-19T19:48:58+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/06/19/twice-as-big/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/06/19/dvojnasobna/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/06/08/teplo</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/06/08/teplo/</loc>
     <lastmod>2013-06-08T21:49:06+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/06/08/warm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/06/08/teplo/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/05/26/3-mesiace</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/05/26/3-mesiace/</loc>
     <lastmod>2013-05-26T18:32:53+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/05/26/3-months/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/05/26/3-mesiace/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/05/16/novinky</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/05/16/novinky/</loc>
     <lastmod>2013-05-16T20:57:36+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/05/16/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/05/16/novinky/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/04/23/2-mesiace</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/04/23/2-mesiace/</loc>
     <lastmod>2013-04-23T21:29:31+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/04/23/2-months/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/04/23/2-mesiace/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/04/21/svetrik</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/04/21/svetrik/</loc>
     <lastmod>2013-04-21T11:15:17+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/04/21/sweater/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/04/21/svetrik/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/03/31/mesiac</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/03/31/mesiac/</loc>
     <lastmod>2013-03-31T18:02:07+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/03/31/month/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/03/31/mesiac/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/03/18/tehotenstvo</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/03/18/tehotenstvo/</loc>
     <lastmod>2013-03-18T20:05:57+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/03/18/pregnancy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/03/18/tehotenstvo/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/03/14/kupanie</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/03/14/kupanie/</loc>
     <lastmod>2013-03-14T10:12:11+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/03/14/bathing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/03/14/kupanie/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/03/12/koliska</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/03/12/koliska/</loc>
     <lastmod>2013-03-12T17:14:30+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/03/12/cradle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/03/12/koliska/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/03/05/brusko</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/03/05/brusko/</loc>
     <lastmod>2013-03-05T17:13:29+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/03/05/belly/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/03/05/brusko/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2013/03/02/olivia</loc>
+    <loc>https://www.ajka-andrej.com/sk/2013/03/02/olivia/</loc>
     <lastmod>2013-03-02T14:40:05+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2013/03/02/olivia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2013/03/02/olivia/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2012/12/31/horaren-svaty-hubertus</loc>
+    <loc>https://www.ajka-andrej.com/sk/2012/12/31/horaren-svaty-hubertus/</loc>
     <lastmod>2012-12-31T17:19:58+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2012/12/31/foresters-house-st-hubertus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2012/12/31/horaren-svaty-hubertus/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2012/11/17/novembrovy-wallberg</loc>
+    <loc>https://www.ajka-andrej.com/sk/2012/11/17/novembrovy-wallberg/</loc>
     <lastmod>2012-11-17T07:48:17+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2012/11/17/november-wallberg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2012/11/17/novembrovy-wallberg/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2012/11/10/novy-najomnik</loc>
+    <loc>https://www.ajka-andrej.com/sk/2012/11/10/novy-najomnik/</loc>
     <lastmod>2012-11-10T18:22:30+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2012/11/10/new-tenant/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2012/11/10/novy-najomnik/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2012/11/07/cisarske-trhance</loc>
+    <loc>https://www.ajka-andrej.com/sk/2012/11/07/cisarske-trhance/</loc>
     <lastmod>2012-11-07T21:51:31+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2012/11/07/kaiserschmarrn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2012/11/07/cisarske-trhance/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2012/10/28/kampenwand</loc>
+    <loc>https://www.ajka-andrej.com/sk/2012/10/28/kampenwand/</loc>
     <lastmod>2012-10-28T19:02:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2012/10/28/kampenwand/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2012/10/28/kampenwand/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2012/10/28/oktobrovy-sneh</loc>
+    <loc>https://www.ajka-andrej.com/sk/2012/10/28/oktobrovy-sneh/</loc>
     <lastmod>2012-10-28T10:48:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2012/10/28/october-snow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2012/10/28/oktobrovy-sneh/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2012/07/01/cala-ratjada</loc>
+    <loc>https://www.ajka-andrej.com/sk/2012/07/01/cala-ratjada/</loc>
     <lastmod>2012-07-01T10:48:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2012/07/01/cala-ratjada/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2012/07/01/cala-ratjada/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2012/05/12/tortellini-so-spenatom-a-ricotta-syrom</loc>
+    <loc>https://www.ajka-andrej.com/sk/2012/05/12/tortellini-so-spenatom-a-ricotta-syrom/</loc>
     <lastmod>2012-05-12T22:15:15+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2012/05/12/spinach-and-ricotta-tortellini/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2012/05/12/tortellini-so-spenatom-a-ricotta-syrom/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2012/03/11/sudelfeld</loc>
+    <loc>https://www.ajka-andrej.com/sk/2012/03/11/sudelfeld/</loc>
     <lastmod>2012-03-11T16:15:07+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2012/03/11/sudelfeld/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2012/03/11/sudelfeld/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2012/02/01/spitzingsee</loc>
+    <loc>https://www.ajka-andrej.com/sk/2012/02/01/spitzingsee/</loc>
     <lastmod>2012-02-01T21:37:24+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2012/02/01/spitzingsee/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2012/02/01/spitzingsee/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2012/01/26/lyzovacka-na-wilder-kaiser</loc>
+    <loc>https://www.ajka-andrej.com/sk/2012/01/26/lyzovacka-na-wilder-kaiser/</loc>
     <lastmod>2012-01-26T22:37:22+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2012/01/26/skiwelt-wilder-kaiser/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2012/01/26/lyzovacka-na-wilder-kaiser/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2012/01/19/mlyncek-na-cestovinu</loc>
+    <loc>https://www.ajka-andrej.com/sk/2012/01/19/mlyncek-na-cestovinu/</loc>
     <lastmod>2012-01-19T21:12:51+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2012/01/19/pasta-maker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2012/01/19/mlyncek-na-cestovinu/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2012/01/17/co-priniesol-minuly-rok</loc>
+    <loc>https://www.ajka-andrej.com/sk/2012/01/17/co-priniesol-minuly-rok/</loc>
     <lastmod>2012-01-17T22:20:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2012/01/17/what-the-last-year-brought/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2012/01/17/co-priniesol-minuly-rok/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/12/29/sankovanie</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/12/29/sankovanie/</loc>
     <lastmod>2011-12-29T00:02:06+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/12/29/tehotenstvo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/12/29/sankovanie/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/12/22/orechove-tycinky</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/12/22/orechove-tycinky/</loc>
     <lastmod>2011-12-22T23:23:45+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/12/22/nut-sticks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/12/22/orechove-tycinky/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/11/21/jesen</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/11/21/jesen/</loc>
     <lastmod>2011-11-21T21:59:30+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/11/21/autumn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/11/21/jesen/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/11/08/jablkovo-makova-strudla</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/11/08/jablkovo-makova-strudla/</loc>
     <lastmod>2011-11-08T23:05:56+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/11/08/apple-poppy-strudel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/11/08/jablkovo-makova-strudla/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/11/08/prechadzka</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/11/08/prechadzka/</loc>
     <lastmod>2011-11-08T21:21:14+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/11/08/walking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/11/08/prechadzka/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/11/03/za-domom</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/11/03/za-domom/</loc>
     <lastmod>2011-11-03T21:51:17+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/11/03/behind-the-house/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/11/03/za-domom/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/11/01/cokoladovo-bananove-mafiny</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/11/01/cokoladovo-bananove-mafiny/</loc>
     <lastmod>2011-11-01T12:15:04+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/11/01/chocolate-banana-muffins/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/11/01/cokoladovo-bananove-mafiny/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/10/26/wiesn</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/10/26/wiesn/</loc>
     <lastmod>2011-10-26T18:54:34+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/10/26/wiesn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/10/26/wiesn/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/09/07/makarony-s-cukynou-a-paradajkami</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/09/07/makarony-s-cukynou-a-paradajkami/</loc>
     <lastmod>2011-09-07T20:39:43+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/09/07/macaroni-with-zucchini-and-tomatoes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/09/07/makarony-s-cukynou-a-paradajkami/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/09/02/wendelstein</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/09/02/wendelstein/</loc>
     <lastmod>2011-09-02T22:18:46+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/09/02/wendelstein/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/09/02/wendelstein/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/08/31/ebersberg</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/08/31/ebersberg/</loc>
     <lastmod>2011-08-31T07:19:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/08/31/ebersberg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/08/31/ebersberg/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/07/28/oficialne-doktorka</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/07/28/oficialne-doktorka/</loc>
     <lastmod>2011-07-28T15:31:07+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/07/28/officialy-doctor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/07/28/oficialne-doktorka/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/05/14/azalka</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/05/14/azalka/</loc>
     <lastmod>2011-05-14T11:13:06+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/05/14/azalea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/05/14/azalka/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/05/10/vylet-do-prirody</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/05/10/vylet-do-prirody/</loc>
     <lastmod>2011-05-10T22:19:25+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/05/10/nature-trip/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/05/10/vylet-do-prirody/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/05/10/olympiaberg</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/05/10/olympiaberg/</loc>
     <lastmod>2011-05-10T13:11:51+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/05/10/olympiaberg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/05/10/olympiaberg/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/05/09/v-meste</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/05/09/v-meste/</loc>
     <lastmod>2011-05-09T13:57:47+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/05/09/in-the-city-centre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/05/09/v-meste/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/05/02/blahozelame</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/05/02/blahozelame/</loc>
     <lastmod>2011-05-02T11:48:04+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/05/02/congratulations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/05/02/blahozelame/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/04/30/balkonova-pohoda</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/04/30/balkonova-pohoda/</loc>
     <lastmod>2011-04-30T16:24:27+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/04/30/relax-on-the-bacony/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/04/30/balkonova-pohoda/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/04/27/velkonocny-vylet</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/04/27/velkonocny-vylet/</loc>
     <lastmod>2011-04-27T21:05:53+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/04/27/easter-trip/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/04/27/velkonocny-vylet/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/03/31/walchensee</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/03/31/walchensee/</loc>
     <lastmod>2011-03-31T08:53:46+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/03/31/walchensee/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/03/31/walchensee/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/03/01/obhajoba</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/03/01/obhajoba/</loc>
     <lastmod>2011-03-01T19:12:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/03/01/defence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/03/01/obhajoba/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/01/31/garmisch-classic</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/01/31/garmisch-classic/</loc>
     <lastmod>2011-01-31T20:51:15+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/01/31/garmisch-classic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/01/31/garmisch-classic/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/01/31/zugspitzplatt</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/01/31/zugspitzplatt/</loc>
     <lastmod>2011-01-31T07:53:43+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/01/31/zugspitzplatt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/01/31/zugspitzplatt/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/01/30/dovolenka-v-grainau</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/01/30/dovolenka-v-grainau/</loc>
     <lastmod>2011-01-30T17:53:46+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/01/30/holiday-in-grainau/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/01/30/dovolenka-v-grainau/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/01/17/knedla</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/01/17/knedla/</loc>
     <lastmod>2011-01-17T11:08:45+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/01/17/a-dumpling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/01/17/knedla/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2011/01/10/lyzovacka-v-laax</loc>
+    <loc>https://www.ajka-andrej.com/sk/2011/01/10/lyzovacka-v-laax/</loc>
     <lastmod>2011-01-10T08:43:23+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2011/01/10/skiing-in-laax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2011/01/10/lyzovacka-v-laax/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/12/30/vianoce</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/12/30/vianoce/</loc>
     <lastmod>2010-12-30T19:23:05+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/12/30/christams/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/12/30/vianoce/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/12/20/sankovanie</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/12/20/sankovanie/</loc>
     <lastmod>2010-12-20T15:11:07+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/12/20/sledding/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/12/20/sankovanie/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/12/11/grofkin-kolac</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/12/11/grofkin-kolac/</loc>
     <lastmod>2010-12-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/12/11/countess-cake/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/12/11/grofkin-kolac/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/12/10/svaty-mikulas</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/12/10/svaty-mikulas/</loc>
     <lastmod>2010-12-10T10:31:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/12/10/saint-nicholas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/12/10/svaty-mikulas/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/12/07/prechadzka-v-parku</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/12/07/prechadzka-v-parku/</loc>
     <lastmod>2010-12-07T13:55:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/12/07/walking-in-the-park/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/12/07/prechadzka-v-parku/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/12/07/vianocne-trhy</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/12/07/vianocne-trhy/</loc>
     <lastmod>2010-12-07T12:20:58+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/12/07/christmas-markets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/12/07/vianocne-trhy/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/12/03/spenatovy-kolac</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/12/03/spenatovy-kolac/</loc>
     <lastmod>2010-12-03T14:04:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/12/03/crustless-spinach-quiche/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/12/03/spenatovy-kolac/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/12/01/advent</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/12/01/advent/</loc>
     <lastmod>2010-12-01T13:24:15+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/12/01/advent/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/12/01/advent/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/10/12/na-hubach</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/10/12/na-hubach/</loc>
     <lastmod>2010-10-12T11:09:01+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/10/12/mushrooms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/10/12/na-hubach/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/10/12/opat-na-slovensku</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/10/12/opat-na-slovensku/</loc>
     <lastmod>2010-10-12T09:01:14+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/10/12/once-again-in-slovakia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/10/12/opat-na-slovensku/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/10/06/oktoberfest</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/10/06/oktoberfest/</loc>
     <lastmod>2010-10-06T14:09:55+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/10/06/oktoberfest/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/10/06/oktoberfest/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/08/24/wallberg</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/08/24/wallberg/</loc>
     <lastmod>2010-08-24T13:22:01+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/08/24/wallberg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/08/24/wallberg/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/08/20/vosky</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/08/20/vosky/</loc>
     <lastmod>2010-08-20T12:34:31+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/08/20/aphids/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/08/20/vosky/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/08/15/schliersee</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/08/15/schliersee/</loc>
     <lastmod>2010-08-15T20:58:24+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/08/15/schliersee/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/08/15/schliersee/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/08/15/ovocne-mafiny</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/08/15/ovocne-mafiny/</loc>
     <lastmod>2010-08-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/08/15/fruit-muffins/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/08/15/ovocne-mafiny/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/08/07/rozbehy-a-korlatka</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/08/07/rozbehy-a-korlatka/</loc>
     <lastmod>2010-08-07T13:35:28+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/08/07/rozbehy-and-korlatka/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/08/07/rozbehy-a-korlatka/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/08/06/zemiaky-a-tak</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/08/06/zemiaky-a-tak/</loc>
     <lastmod>2010-08-06T16:00:20+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/08/06/potatoes-and-other/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/08/06/zemiaky-a-tak/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/08/06/na-ceste-na-slovensko-a-spat</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/08/06/na-ceste-na-slovensko-a-spat/</loc>
     <lastmod>2010-08-06T13:45:20+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/08/06/on-the-way-to-slovakia-and-back/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/08/06/na-ceste-na-slovensko-a-spat/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/07/25/megi</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/07/25/megi/</loc>
     <lastmod>2010-07-25T15:51:32+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/07/25/megi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/07/25/megi/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/07/05/jazero-v-olympia-parku</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/07/05/jazero-v-olympia-parku/</loc>
     <lastmod>2010-07-05T19:56:49+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/07/05/lake-in-the-olympia-park/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/07/05/jazero-v-olympia-parku/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/07/05/bavaria</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/07/05/bavaria/</loc>
     <lastmod>2010-07-05T13:17:59+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/07/05/bavaria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/07/05/bavaria/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/07/05/jahodove-pole</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/07/05/jahodove-pole/</loc>
     <lastmod>2010-07-05T12:31:16+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/07/05/strawberry-field/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/07/05/jahodove-pole/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/04/29/surferi</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/04/29/surferi/</loc>
     <lastmod>2010-04-29T08:04:31+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/04/29/surfers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/04/29/surferi/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/04/18/zeleni-kamarati</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/04/18/zeleni-kamarati/</loc>
     <lastmod>2010-04-18T13:03:43+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/04/18/green-friends/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/04/18/zeleni-kamarati/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/04/18/ps-portugalsko</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/04/18/ps-portugalsko/</loc>
     <lastmod>2010-04-18T11:46:20+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/04/18/ps-portugal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/04/18/ps-portugalsko/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/04/13/porto</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/04/13/porto/</loc>
     <lastmod>2010-04-13T09:12:27+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/04/13/porto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/04/13/porto/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/04/12/laval-virtual</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/04/12/laval-virtual/</loc>
     <lastmod>2010-04-12T20:54:04+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/04/12/laval-virtual/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/04/12/laval-virtual/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/04/12/pariz</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/04/12/pariz/</loc>
     <lastmod>2010-04-12T19:11:35+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/04/12/paris/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/04/12/pariz/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/03/04/posledne-videa</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/03/04/posledne-videa/</loc>
     <lastmod>2010-03-04T20:25:21+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/03/04/recent-videos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/03/04/posledne-videa/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/02/17/zurich</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/02/17/zurich/</loc>
     <lastmod>2010-02-17T18:23:46+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/02/17/zurich/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/02/17/zurich/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/02/16/bern</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/02/16/bern/</loc>
     <lastmod>2010-02-16T19:18:58+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/02/16/bern/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/02/16/bern/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/02/16/ako-sme-isli-do-svajciarska</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/02/16/ako-sme-isli-do-svajciarska/</loc>
     <lastmod>2010-02-16T17:37:05+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/02/16/how-we-went-to-switzerland/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/02/16/ako-sme-isli-do-svajciarska/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/02/09/len-115h-kazdy</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/02/09/len-115h-kazdy/</loc>
     <lastmod>2010-02-09T13:09:50+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/02/09/only-115h-per-person/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/02/09/len-115h-kazdy/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/02/08/predtym-a-potom</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/02/08/predtym-a-potom/</loc>
     <lastmod>2010-02-08T15:47:19+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/02/08/before-and-after/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/02/08/predtym-a-potom/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/02/04/kalendar</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/02/04/kalendar/</loc>
     <lastmod>2010-02-04T13:02:05+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/02/04/calendar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/02/04/kalendar/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2010/02/03/piaty-november</loc>
+    <loc>https://www.ajka-andrej.com/sk/2010/02/03/piaty-november/</loc>
     <lastmod>2010-02-03T20:58:39+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2010/02/03/5th-of-november/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2010/02/03/piaty-november/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/12/12/zima</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/12/12/zima/</loc>
     <lastmod>2009-12-12T20:20:42+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/12/12/winter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/12/12/zima/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/12/06/doma</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/12/06/doma/</loc>
     <lastmod>2009-12-06T17:20:02+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/12/06/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/12/06/doma/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/11/25/anglicka-zahrada</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/11/25/anglicka-zahrada/</loc>
     <lastmod>2009-11-25T21:52:41+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/11/25/english-garden/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/11/25/anglicka-zahrada/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/11/25/kam-s-navstevou</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/11/25/kam-s-navstevou/</loc>
     <lastmod>2009-11-25T15:42:01+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/11/25/where-to-go-with-visitors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/11/25/kam-s-navstevou/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/11/24/mnichov</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/11/24/mnichov/</loc>
     <lastmod>2009-11-24T21:45:07+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/11/24/munich/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/11/24/mnichov/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/11/17/vylet-k-jazeram</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/11/17/vylet-k-jazeram/</loc>
     <lastmod>2009-11-17T06:46:59+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/11/17/a-trip-toward-lakes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/11/17/vylet-k-jazeram/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/11/02/krcmovy-kviz</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/11/02/krcmovy-kviz/</loc>
     <lastmod>2009-11-02T18:17:38+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/11/02/pub-quiz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/11/02/krcmovy-kviz/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/10/25/ikea-seminar-o-svetle</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/10/25/ikea-seminar-o-svetle/</loc>
     <lastmod>2009-10-25T15:50:05+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/10/25/ikea-lighting-seminar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/10/25/ikea-seminar-o-svetle/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/10/23/spomienka</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/10/23/spomienka/</loc>
     <lastmod>2009-10-23T13:37:46+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/10/23/remembrance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/10/23/spomienka/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/10/22/jesen</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/10/22/jesen/</loc>
     <lastmod>2009-10-22T20:11:27+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/10/22/the-autumn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/10/22/jesen/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/10/22/bradford</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/10/22/bradford/</loc>
     <lastmod>2009-10-22T18:48:52+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/10/22/bradford/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/10/22/bradford/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/10/22/rokefelerove-centrum</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/10/22/rokefelerove-centrum/</loc>
     <lastmod>2009-10-22T16:49:04+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/10/22/rockefeller-centre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/10/22/rokefelerove-centrum/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/07/11/lazane-s-mletym-masom</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/07/11/lazane-s-mletym-masom/</loc>
     <lastmod>2009-07-11T20:52:45+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/07/11/lasagna-with-minced-meat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/07/11/lazane-s-mletym-masom/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/07/08/3d-iluzia</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/07/08/3d-iluzia/</loc>
     <lastmod>2009-07-08T08:55:39+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/07/08/3d-illusion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/07/08/3d-iluzia/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/07/06/vylet-na-zaruby</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/07/06/vylet-na-zaruby/</loc>
     <lastmod>2009-07-06T13:32:26+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/07/06/trip-to-zaruby-hill/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/07/06/vylet-na-zaruby/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/06/21/philadelphia</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/06/21/philadelphia/</loc>
     <lastmod>2009-06-21T20:26:42+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/06/21/philadelphia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/06/21/philadelphia/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/06/21/vystava-v-londyne</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/06/21/vystava-v-londyne/</loc>
     <lastmod>2009-06-21T10:48:55+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/06/21/london-expo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/06/21/vystava-v-londyne/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/05/08/hovorila-som-s-princom</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/05/08/hovorila-som-s-princom/</loc>
     <lastmod>2009-05-08T18:46:15+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/05/08/i-talked-to-prince/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/05/08/hovorila-som-s-princom/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/05/01/na-vylete-do-ameriky</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/05/01/na-vylete-do-ameriky/</loc>
     <lastmod>2009-05-01T17:52:17+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/05/01/on-the-trip-to-usa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/05/01/na-vylete-do-ameriky/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/02/27/ikea-seminar</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/02/27/ikea-seminar/</loc>
     <lastmod>2009-02-27T16:09:57+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/02/27/ikea-seminar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/02/27/ikea-seminar/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/02/16/anglicko</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/02/16/anglicko/</loc>
     <lastmod>2009-02-16T22:28:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/02/16/england/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/02/16/anglicko/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/02/16/jablka-v-zupane</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/02/16/jablka-v-zupane/</loc>
     <lastmod>2009-02-16T14:56:42+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/02/16/apples-in-the-dressing-gown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/02/16/jablka-v-zupane/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/02/04/snezenie</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/02/04/snezenie/</loc>
     <lastmod>2009-02-04T23:39:23+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/02/04/snowing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/02/04/snezenie/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2009/01/14/babovka</loc>
+    <loc>https://www.ajka-andrej.com/sk/2009/01/14/babovka/</loc>
     <lastmod>2009-01-14T17:37:34+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2009/01/14/babovka/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2009/01/14/babovka/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2008/09/05/hotel-orca-praia</loc>
+    <loc>https://www.ajka-andrej.com/sk/2008/09/05/hotel-orca-praia/</loc>
     <lastmod>2008-09-05T23:43:53+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2008/09/05/hotel-orca-praia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2008/09/05/hotel-orca-praia/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2008/09/05/funchal</loc>
+    <loc>https://www.ajka-andrej.com/sk/2008/09/05/funchal/</loc>
     <lastmod>2008-09-05T23:20:19+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2008/09/05/funchal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2008/09/05/funchal/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2008/09/05/vychodna-madeira</loc>
+    <loc>https://www.ajka-andrej.com/sk/2008/09/05/vychodna-madeira/</loc>
     <lastmod>2008-09-05T20:52:06+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2008/09/05/east-madeira/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2008/09/05/vychodna-madeira/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2008/09/04/videa</loc>
+    <loc>https://www.ajka-andrej.com/sk/2008/09/04/videa/</loc>
     <lastmod>2008-09-04T21:55:28+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2008/09/04/videos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2008/09/04/videa/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2008/07/23/poseidonove-zahrady</loc>
+    <loc>https://www.ajka-andrej.com/sk/2008/07/23/poseidonove-zahrady/</loc>
     <lastmod>2008-07-23T11:24:04+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2008/07/23/poseidon-gardens/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2008/07/23/poseidonove-zahrady/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2008/07/23/vylety-po-ischii</loc>
+    <loc>https://www.ajka-andrej.com/sk/2008/07/23/vylety-po-ischii/</loc>
     <lastmod>2008-07-23T11:19:45+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2008/07/23/trips-through-the-ischia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2008/07/23/vylety-po-ischii/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2008/07/20/svadobna-dovolenka</loc>
+    <loc>https://www.ajka-andrej.com/sk/2008/07/20/svadobna-dovolenka/</loc>
     <lastmod>2008-07-20T19:07:31+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2008/07/20/honeymoon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2008/07/20/svadobna-dovolenka/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2008/07/10/svadobne-oznamenie</loc>
+    <loc>https://www.ajka-andrej.com/sk/2008/07/10/svadobne-oznamenie/</loc>
     <lastmod>2008-07-10T08:32:05+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2008/07/10/wedding-announcement/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2008/07/10/svadobne-oznamenie/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2008/06/30/hotel-corona</loc>
+    <loc>https://www.ajka-andrej.com/sk/2008/06/30/hotel-corona/</loc>
     <lastmod>2008-06-30T18:35:56+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2008/06/30/hotel-corona/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2008/06/30/hotel-corona/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2008/06/30/forio</loc>
+    <loc>https://www.ajka-andrej.com/sk/2008/06/30/forio/</loc>
     <lastmod>2008-06-30T17:46:39+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2008/06/30/forio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2008/06/30/forio/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2008/06/28/vzdy-zeleny-ostrov-ischia</loc>
+    <loc>https://www.ajka-andrej.com/sk/2008/06/28/vzdy-zeleny-ostrov-ischia/</loc>
     <lastmod>2008-06-28T20:44:19+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2008/06/28/evergreen-island-ischia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2008/06/28/vzdy-zeleny-ostrov-ischia/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2008/06/20/kde-a-kedy</loc>
+    <loc>https://www.ajka-andrej.com/sk/2008/06/20/kde-a-kedy/</loc>
     <lastmod>2008-06-20T19:47:55+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2008/06/20/where-and-when/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2008/06/20/kde-a-kedy/"
+                />
   </url>
   
   <url>
-    <loc>https://www.ajka-andrej.com/sk/2008/06/20/uvod</loc>
+    <loc>https://www.ajka-andrej.com/sk/2008/06/20/uvod/</loc>
     <lastmod>2008-06-20T18:32:19+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2008/06/20/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2008/06/20/uvod/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/</loc>
-    <lastmod>2017-10-03T16:32:12+00:00</lastmod>
+    <lastmod>2017-12-30T22:35:12+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/austria/</loc>
     <lastmod>2012-01-26T22:37:22+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/austria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/austria/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/baking/</loc>
     <lastmod>2012-11-07T21:51:31+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/baking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/baking/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/beach/</loc>
     <lastmod>2012-07-01T10:48:48+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/beach/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/beach/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/cake/</loc>
     <lastmod>2011-12-22T23:23:45+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/cake/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/cake/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/categories/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/categories/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/cerova/</loc>
     <lastmod>2017-10-03T16:32:12+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/cerova/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/cerova/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/cooking/</loc>
     <lastmod>2012-05-12T22:15:15+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/cooking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/cooking/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/categories/dailylife/</loc>
-    <lastmod>2017-10-03T16:32:12+00:00</lastmod>
+    <lastmod>2017-12-30T22:35:12+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/categories/dailylife/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/categories/dailylife/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/dominik/</loc>
-    <lastmod>2017-08-15T21:13:12+00:00</lastmod>
+    <lastmod>2017-12-30T22:35:12+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/dominik/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/dominik/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/england/</loc>
     <lastmod>2011-03-01T19:12:08+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/england/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/england/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/france/</loc>
     <lastmod>2010-04-12T20:54:04+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/france/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/france/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/germany/</loc>
     <lastmod>2012-12-31T17:19:58+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/germany/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/germany/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/hiking/</loc>
     <lastmod>2016-09-01T20:59:48+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/hiking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/hiking/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/island/</loc>
     <lastmod>2012-07-01T10:48:48+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/island/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/island/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/italy/</loc>
     <lastmod>2017-09-30T21:13:12+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/italy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/italy/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/lake/</loc>
     <lastmod>2012-02-01T21:37:24+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/lake/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/lake/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/meat/</loc>
     <lastmod>2009-07-11T20:52:45+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/meat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/meat/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/mountains/</loc>
     <lastmod>2012-11-17T07:48:17+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/mountains/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/mountains/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/munich/</loc>
     <lastmod>2011-10-26T18:54:34+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/munich/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/munich/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/newyork/</loc>
     <lastmod>2009-10-22T16:49:04+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/newyork/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/newyork/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/olivia/</loc>
-    <lastmod>2017-08-15T21:13:12+00:00</lastmod>
+    <lastmod>2017-12-30T22:35:12+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/olivia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/olivia/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/panoramas/</loc>
     <lastmod>2012-11-17T07:48:17+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/panoramas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/panoramas/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/park/</loc>
     <lastmod>2011-11-03T21:51:17+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/park/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/park/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/pasta/</loc>
     <lastmod>2012-05-12T22:15:15+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/pasta/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/pasta/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/portugal/</loc>
     <lastmod>2010-04-13T09:12:27+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/portugal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/portugal/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/post/</loc>
-    <lastmod>2017-10-03T16:32:12+00:00</lastmod>
+    <lastmod>2017-12-30T22:35:12+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/post/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/categories/recipes/</loc>
     <lastmod>2012-11-07T21:51:31+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/categories/recipes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/categories/recipes/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/ruins/</loc>
     <lastmod>2017-10-03T16:32:12+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/ruins/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/ruins/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/savoury/</loc>
     <lastmod>2012-05-12T22:15:15+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/savoury/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/savoury/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/sea/</loc>
     <lastmod>2017-09-30T21:13:12+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/sea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/sea/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/skiing/</loc>
     <lastmod>2012-03-11T16:15:07+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/skiing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/skiing/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/slovakia/</loc>
     <lastmod>2017-10-03T16:32:12+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/slovakia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/slovakia/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/spain/</loc>
     <lastmod>2012-07-01T10:48:48+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/spain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/spain/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/sweet/</loc>
     <lastmod>2012-11-07T21:51:31+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/sweet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/sweet/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/switzerland/</loc>
     <lastmod>2013-09-04T09:47:23+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/switzerland/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/switzerland/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/</loc>
+    <lastmod>2012-01-26T22:37:22+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/categories/travelling/</loc>
     <lastmod>2017-09-30T21:13:12+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/categories/travelling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/categories/travelling/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/usa/</loc>
     <lastmod>2009-10-22T16:49:04+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/usa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/usa/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/virtualbaby/</loc>
     <lastmod>2010-03-04T20:25:21+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/virtualbaby/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/virtualbaby/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/waterfall/</loc>
     <lastmod>2011-04-27T21:05:53+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/waterfall/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/waterfall/"
+                />
   </url>
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/wedding/</loc>
     <lastmod>2008-09-04T21:55:28+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/tags/wedding/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/tags/wedding/"
+                />
   </url>
   
 </urlset>

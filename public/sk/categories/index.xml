@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ajka&#43;Andrej</title>
+    <link>https://www.ajka-andrej.com/sk/categories/</link>
+    <description>Recent content in Categories on Ajka&#43;Andrej</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>ajka-andrej.com powered by [Hugo](//gohugo.io). Theme inspired by [PPOffice](http://github.com/ppoffice).</copyright>
+    
+	<atom:link href="https://www.ajka-andrej.com/sk/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dailylife</title>
+      <link>https://www.ajka-andrej.com/sk/categories/dailylife/</link>
+      <pubDate>Sat, 30 Dec 2017 22:35:12 +0000</pubDate>
+      
+      <guid>https://www.ajka-andrej.com/sk/categories/dailylife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recipes</title>
+      <link>https://www.ajka-andrej.com/sk/categories/recipes/</link>
+      <pubDate>Wed, 07 Nov 2012 21:51:31 +0000</pubDate>
+      
+      <guid>https://www.ajka-andrej.com/sk/categories/recipes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travelling</title>
+      <link>https://www.ajka-andrej.com/sk/categories/travelling/</link>
+      <pubDate>Sat, 30 Sep 2017 21:13:12 +0000</pubDate>
+      
+      <guid>https://www.ajka-andrej.com/sk/categories/travelling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
