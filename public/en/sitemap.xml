@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.ajka-andrej.com/2017/12/31/winter-for-a-few-days/</loc>
+    <lastmod>2017-12-31T23:21:12+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2017/12/31/zima-na-par-dni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2017/12/31/winter-for-a-few-days/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.ajka-andrej.com/2017/12/30/olivia-takes-pictures/</loc>
     <lastmod>2017-12-30T22:35:12+00:00</lastmod>
     <xhtml:link
@@ -2809,7 +2824,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/</loc>
-    <lastmod>2017-12-30T22:35:12+00:00</lastmod>
+    <lastmod>2017-12-31T23:21:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -2936,7 +2951,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/categories/dailylife/</loc>
-    <lastmod>2017-12-30T22:35:12+00:00</lastmod>
+    <lastmod>2017-12-31T23:21:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -2952,7 +2967,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/tags/dominik/</loc>
-    <lastmod>2017-12-30T22:35:12+00:00</lastmod>
+    <lastmod>2017-12-31T23:21:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -3144,7 +3159,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/tags/olivia/</loc>
-    <lastmod>2017-12-30T22:35:12+00:00</lastmod>
+    <lastmod>2017-12-31T23:21:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -3224,7 +3239,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/post/</loc>
-    <lastmod>2017-12-30T22:35:12+00:00</lastmod>
+    <lastmod>2017-12-31T23:21:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
