@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.ajka-andrej.com/2018/01/01/full-december/</loc>
+    <lastmod>2018-01-01T19:54:12+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2018/01/01/nabity-december/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2018/01/01/full-december/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.ajka-andrej.com/2017/12/31/winter-for-a-few-days/</loc>
     <lastmod>2017-12-31T23:21:12+00:00</lastmod>
     <xhtml:link
@@ -2824,7 +2839,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/</loc>
-    <lastmod>2017-12-31T23:21:12+00:00</lastmod>
+    <lastmod>2018-01-01T19:54:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -2951,7 +2966,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/categories/dailylife/</loc>
-    <lastmod>2017-12-31T23:21:12+00:00</lastmod>
+    <lastmod>2018-01-01T19:54:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -2967,7 +2982,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/tags/dominik/</loc>
-    <lastmod>2017-12-31T23:21:12+00:00</lastmod>
+    <lastmod>2018-01-01T19:54:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -3159,7 +3174,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/tags/olivia/</loc>
-    <lastmod>2017-12-31T23:21:12+00:00</lastmod>
+    <lastmod>2018-01-01T19:54:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -3239,7 +3254,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/post/</loc>
-    <lastmod>2017-12-31T23:21:12+00:00</lastmod>
+    <lastmod>2018-01-01T19:54:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
