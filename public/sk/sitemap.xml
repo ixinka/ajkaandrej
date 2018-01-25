@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.ajka-andrej.com/sk/2018/01/14/dominik-ma-2-a-pol-roka/</loc>
+    <lastmod>2018-01-14T14:06:12+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2018/01/14/dominik-is-two-and-half/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2018/01/14/dominik-ma-2-a-pol-roka/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.ajka-andrej.com/sk/2018/01/01/nabity-december/</loc>
     <lastmod>2018-01-01T19:54:12+00:00</lastmod>
     <xhtml:link
@@ -2839,7 +2854,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/</loc>
-    <lastmod>2018-01-01T19:54:12+00:00</lastmod>
+    <lastmod>2018-01-14T14:06:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -2966,7 +2981,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/categories/dailylife/</loc>
-    <lastmod>2018-01-01T19:54:12+00:00</lastmod>
+    <lastmod>2018-01-14T14:06:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -2982,7 +2997,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/dominik/</loc>
-    <lastmod>2018-01-01T19:54:12+00:00</lastmod>
+    <lastmod>2018-01-14T14:06:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -3254,7 +3269,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/post/</loc>
-    <lastmod>2018-01-01T19:54:12+00:00</lastmod>
+    <lastmod>2018-01-14T14:06:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
