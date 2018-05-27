@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.ajka-andrej.com/sk/2018/05/26/co-nove-v-maji/</loc>
+    <lastmod>2018-05-26T20:45:12+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2018/05/26/new-in-may/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2018/05/26/co-nove-v-maji/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.ajka-andrej.com/sk/2018/04/24/tvoriva-velka-noc/</loc>
     <lastmod>2018-04-24T20:31:12+00:00</lastmod>
     <xhtml:link
@@ -2899,7 +2914,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/</loc>
-    <lastmod>2018-04-24T20:31:12+00:00</lastmod>
+    <lastmod>2018-05-26T20:45:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -3026,7 +3041,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/categories/dailylife/</loc>
-    <lastmod>2018-04-24T20:31:12+00:00</lastmod>
+    <lastmod>2018-05-26T20:45:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -3042,7 +3057,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/dominik/</loc>
-    <lastmod>2018-04-24T20:31:12+00:00</lastmod>
+    <lastmod>2018-05-26T20:45:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -3234,7 +3249,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/tags/olivia/</loc>
-    <lastmod>2018-04-24T20:31:12+00:00</lastmod>
+    <lastmod>2018-05-26T20:45:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -3314,7 +3329,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/sk/post/</loc>
-    <lastmod>2018-04-24T20:31:12+00:00</lastmod>
+    <lastmod>2018-05-26T20:45:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

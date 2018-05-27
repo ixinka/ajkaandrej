@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>Ajka&#43;Andrej</title>
-    <meta name="generator" content="Hugo 0.25.1" />
+    <meta name="generator" content="Hugo 0.40.1" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Ajka">
@@ -34,7 +34,7 @@
 
 
 
-<meta property="og:updated_time" content="2014-02-05T22:11:51&#43;00:00"/>
+<meta property="og:updated_time" content="2014-02-25T21:23:46&#43;00:00"/>
 
 
 
@@ -51,7 +51,10 @@
 <meta itemprop="description" content="">
 
 
-    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Ajka&#43;Andrej"/>
+<meta name="twitter:description" content=""/>
+
     
 
     
@@ -238,6 +241,148 @@
     <article class="article article-type-post" itemscope="" itemprop="blogPost">
         <div class="article-inner">
             
+            <a href="https://www.ajka-andrej.com/2014/02/25/one-year-old/" itemprop="url">
+                <img src="https://www.ajka-andrej.com/wp-content/uploads/2014/02/IMG_0653t.jpg" class="article-banner">
+            
+            </a>
+
+            <header class="article-header">
+    <a href="https://www.ajka-andrej.com/2014/02/25/one-year-old/">
+    <h1 class="article-title" itemprop="name">
+        One year old
+    </h1>
+    </a>
+    <div class="article-meta">
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2014-02-25 21:23:46 &#43;0000 UTC" itemprop="datePublished">2014-02-25</time>
+            &middot;
+            212
+            words
+            &middot;
+            1
+            minute read
+        </div>
+
+        
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-folder"></i>
+                
+                <a class="article-category-link" href="https://www.ajka-andrej.com/categories/dailylife">Daily life</a>
+                
+                
+            </div>
+            
+        
+
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                
+                <a class="article-category-link" href="https://www.ajka-andrej.com/tags/olivia">Olivia</a>
+                
+                
+            </div>
+            
+        
+    </div>
+</header>
+
+            <div class="article-entry" itemprop="articleBody">
+                <p>
+                    One year ago our Olivia was born. It&rsquo;s hard to believe that she was so small when I&rsquo;m looking at her now. She already measures 75cm and weighs nearly 9.3kg. She always smiles and gives us hugs and kisses. Every morning, she gets up at six, we take her to our bed so I can breastfeed her, then she gives us a kiss, sits down, shows &ldquo;done&rdquo; with her hands and then points her finger at the door and says &ldquo;ta&rdquo; which means wake up, we&rsquo;re going to play.
+                    <br>
+                </p>
+                <p class="article-more-link">
+                    <a href="https://www.ajka-andrej.com/2014/02/25/one-year-old/">
+                        Read more
+                    </a>
+                </p>
+            </div>
+            <footer class="article-footer">
+    <a data-url="https://www.ajka-andrej.com/2014/02/25/one-year-old/" data-id="d1f5ecd6cb6f39fe631ffba22bab63b8" class="article-share-link">
+        <i class="fa fa-share"></i>
+        Share
+    </a>
+    
+
+    <script>
+    (function ($) {
+        
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+    </script>
+</footer>
+
+        </div>
+    </article>
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            
             <a href="https://www.ajka-andrej.com/2014/02/05/parental-leave/" itemprop="url">
                 <img src="https://www.ajka-andrej.com/wp-content/uploads/2014/02/IMG_0567t.jpg" class="article-banner">
             
@@ -305,10 +450,6 @@
     <a data-url="https://www.ajka-andrej.com/2014/02/05/parental-leave/" data-id="33e6d49b0aa708c2040328d074611e93" class="article-share-link">
         <i class="fa fa-share"></i>
         Share
-    </a>
-    
-    <a href="https://www.ajka-andrej.com/2014/02/05/parental-leave//#disqus_thread" class="article-comment-link">
-        Comments
     </a>
     
 
@@ -453,10 +594,6 @@
         Share
     </a>
     
-    <a href="https://www.ajka-andrej.com/2014/01/29/11-months//#disqus_thread" class="article-comment-link">
-        Comments
-    </a>
-    
 
     <script>
     (function ($) {
@@ -597,10 +734,6 @@
     <a data-url="https://www.ajka-andrej.com/2014/01/17/toothy-week/" data-id="2a09fef760084a7909196e3135809eac" class="article-share-link">
         <i class="fa fa-share"></i>
         Share
-    </a>
-    
-    <a href="https://www.ajka-andrej.com/2014/01/17/toothy-week//#disqus_thread" class="article-comment-link">
-        Comments
     </a>
     
 
@@ -745,10 +878,6 @@
         Share
     </a>
     
-    <a href="https://www.ajka-andrej.com/2014/01/04/sitting//#disqus_thread" class="article-comment-link">
-        Comments
-    </a>
-    
 
     <script>
     (function ($) {
@@ -889,10 +1018,6 @@
     <a data-url="https://www.ajka-andrej.com/2013/12/30/the-first-christmas/" data-id="a9e6c0f3f454d69afbe5ffb0a86966b1" class="article-share-link">
         <i class="fa fa-share"></i>
         Share
-    </a>
-    
-    <a href="https://www.ajka-andrej.com/2013/12/30/the-first-christmas//#disqus_thread" class="article-comment-link">
-        Comments
     </a>
     
 
@@ -1037,10 +1162,6 @@
         Share
     </a>
     
-    <a href="https://www.ajka-andrej.com/2013/12/12/box//#disqus_thread" class="article-comment-link">
-        Comments
-    </a>
-    
 
     <script>
     (function ($) {
@@ -1181,10 +1302,6 @@
     <a data-url="https://www.ajka-andrej.com/2013/11/25/9-months/" data-id="0c6bce15f6ad3c5f5990f7f00d11b608" class="article-share-link">
         <i class="fa fa-share"></i>
         Share
-    </a>
-    
-    <a href="https://www.ajka-andrej.com/2013/11/25/9-months//#disqus_thread" class="article-comment-link">
-        Comments
     </a>
     
 
@@ -1329,10 +1446,6 @@
         Share
     </a>
     
-    <a href="https://www.ajka-andrej.com/2013/11/11/kids-room//#disqus_thread" class="article-comment-link">
-        Comments
-    </a>
-    
 
     <script>
     (function ($) {
@@ -1475,142 +1588,6 @@
         Share
     </a>
     
-    <a href="https://www.ajka-andrej.com/2013/10/26/8-months//#disqus_thread" class="article-comment-link">
-        Comments
-    </a>
-    
-
-    <script>
-    (function ($) {
-        
-        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
-            __SHARE_BUTTON_BINDED__ = true;
-        } else {
-            return;
-        }
-        $('body').on('click', function() {
-            $('.article-share-box.on').removeClass('on');
-        }).on('click', '.article-share-link', function(e) {
-            e.stopPropagation();
-
-            var $this = $(this),
-                url = $this.attr('data-url'),
-                encodedUrl = encodeURIComponent(url),
-                id = 'article-share-box-' + $this.attr('data-id'),
-                offset = $this.offset(),
-                box;
-
-            if ($('#' + id).length) {
-                box = $('#' + id);
-
-                if (box.hasClass('on')){
-                    box.removeClass('on');
-                    return;
-                }
-            } else {
-                var html = [
-                    '<div id="' + id + '" class="article-share-box">',
-                        '<input class="article-share-input" value="' + url + '">',
-                        '<div class="article-share-links">',
-                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
-                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
-                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
-                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
-                        '</div>',
-                    '</div>'
-                ].join('');
-
-              box = $(html);
-
-              $('body').append(box);
-            }
-
-            $('.article-share-box.on').hide();
-
-            box.css({
-                top: offset.top + 25,
-                left: offset.left
-            }).addClass('on');
-
-        }).on('click', '.article-share-box', function (e) {
-            e.stopPropagation();
-        }).on('click', '.article-share-box-input', function () {
-            $(this).select();
-        }).on('click', '.article-share-box-link', function (e) {
-            e.preventDefault();
-            e.stopPropagation();
-
-            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
-        });
-    })(jQuery);
-    </script>
-</footer>
-
-        </div>
-    </article>
-    
-    <article class="article article-type-post" itemscope="" itemprop="blogPost">
-        <div class="article-inner">
-            
-            </a>
-
-            <header class="article-header">
-    <a href="https://www.ajka-andrej.com/2013/10/25/books/">
-    <h1 class="article-title" itemprop="name">
-        Books
-    </h1>
-    </a>
-    <div class="article-meta">
-        <div class="article-date">
-            <i class="fa fa-calendar"></i>
-            <time datetime="2013-10-25 11:46:26 &#43;0000 UTC" itemprop="datePublished">2013-10-25</time>
-            &middot;
-            625
-            words
-            &middot;
-            3
-            minute read
-        </div>
-
-        
-        
-            
-            
-            <div class="article-category">
-                <i class="fa fa-folder"></i>
-                
-                <a class="article-category-link" href="https://www.ajka-andrej.com/categories/dailylife">Daily life</a>
-                
-                
-            </div>
-            
-        
-
-        
-    </div>
-</header>
-
-            <div class="article-entry" itemprop="articleBody">
-                <p>
-                    In conversation, I found the most difficult to be able to look at the topic from the perspective of the other person, to learn to listen and see the other one positively. It&rsquo;s called assertive communication and it has fascinated me for a long time. It&rsquo;s difficult to learn but I have to say that Olivia is the perfect trainer. She cannot speak, so in this sense I cannot misunderstand her or be offended.
-                    <br>
-                </p>
-                <p class="article-more-link">
-                    <a href="https://www.ajka-andrej.com/2013/10/25/books/">
-                        Read more
-                    </a>
-                </p>
-            </div>
-            <footer class="article-footer">
-    <a data-url="https://www.ajka-andrej.com/2013/10/25/books/" data-id="092fb46d67a48c43fcb0a5557ea09c3e" class="article-share-link">
-        <i class="fa fa-share"></i>
-        Share
-    </a>
-    
-    <a href="https://www.ajka-andrej.com/2013/10/25/books//#disqus_thread" class="article-comment-link">
-        Comments
-    </a>
-    
 
     <script>
     (function ($) {
@@ -1720,6 +1697,31 @@
             
             <li>
                 <div class="item-thumbnail">
+                    <a href="https://www.ajka-andrej.com/2018/05/26/new-in-may/" class="thumbnail">
+                    
+                        <span style="background-image:url(https://www.ajka-andrej.com/images/2018/05/IMG_20180511_094117907t.jpg)" alt="Ajka&#43;Andrej" class="thumbnail-image"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    
+                    <p class="item-category">
+                        <a class="article-category-link" href="https://www.ajka-andrej.com/categories/dailylife">
+                        Daily life
+                        </a>
+                    </p>
+                    
+                    
+                    <p class="item-title"><a href="https://www.ajka-andrej.com/2018/05/26/new-in-may/" class="title">New in May</a></p>
+                    <p class="item-date">
+                        <time datetime="2018-05-26 20:45:12 &#43;0000 UTC" itemprop="datePublished">2018-05-26</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                <div class="item-thumbnail">
                     <a href="https://www.ajka-andrej.com/2018/04/24/creative-easter/" class="thumbnail">
                     
                         <span style="background-image:url(https://www.ajka-andrej.com/images/2018/04/IMG_4993t.jpg)" alt="Ajka&#43;Andrej" class="thumbnail-image"></span>
@@ -1818,31 +1820,6 @@
                 </div>
             </li>
             
-            <li>
-                <div class="item-thumbnail">
-                    <a href="https://www.ajka-andrej.com/2018/01/01/full-december/" class="thumbnail">
-                    
-                        <span style="background-image:url(https://www.ajka-andrej.com/images/2018/01/IMG_20171217_091925426t.jpg)" alt="Ajka&#43;Andrej" class="thumbnail-image"></span>
-                    
-                    </a>
-                </div>
-                <div class="item-inner">
-                    
-                    
-                    <p class="item-category">
-                        <a class="article-category-link" href="https://www.ajka-andrej.com/categories/dailylife">
-                        Daily life
-                        </a>
-                    </p>
-                    
-                    
-                    <p class="item-title"><a href="https://www.ajka-andrej.com/2018/01/01/full-december/" class="title">Full December</a></p>
-                    <p class="item-date">
-                        <time datetime="2018-01-01 19:54:12 &#43;0000 UTC" itemprop="datePublished">2018-01-01</time>
-                    </p>
-                </div>
-            </li>
-            
         </ul>
     </div>
 </div>
@@ -1860,7 +1837,7 @@
                 <a class="category-list-link" href="https://www.ajka-andrej.com/categories/dailylife">
                     Daily life
                 </a>
-                <span class="category-list-count">143</span>
+                <span class="category-list-count">144</span>
             </li>
             
             <li class="category-list-item">
@@ -1997,6 +1974,7 @@ ga('send', 'pageview');
 
 <script src="https://www.ajka-andrej.com/fancybox/jquery.fancybox.pack.js"></script>
 <script src="https://www.ajka-andrej.com/js/script.js"></script>
+
 
 
 </body>

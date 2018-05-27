@@ -2,7 +2,7 @@
 <html lang="sk">
 <head>
     <title>Ajka&#43;Andrej</title>
-    <meta name="generator" content="Hugo 0.25.1" />
+    <meta name="generator" content="Hugo 0.40.1" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Ajka">
@@ -34,7 +34,7 @@
 
 
 
-<meta property="og:updated_time" content="2008-09-05T23:43:53&#43;00:00"/>
+<meta property="og:updated_time" content="2009-01-14T17:37:34&#43;00:00"/>
 
 
 
@@ -51,7 +51,10 @@
 <meta itemprop="description" content="">
 
 
-    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Ajka&#43;Andrej"/>
+<meta name="twitter:description" content=""/>
+
     
 
     
@@ -241,6 +244,151 @@
             </a>
 
             <header class="article-header">
+    <a href="https://www.ajka-andrej.com/sk/2009/01/14/babovka/">
+    <h1 class="article-title" itemprop="name">
+        bábovka
+    </h1>
+    </a>
+    <div class="article-meta">
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2009-01-14 17:37:34 &#43;0000 UTC" itemprop="datePublished">2009-01-14</time>
+            &middot;
+            257
+            slov
+            &middot;
+            2
+            min čítania
+        </div>
+
+        
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-folder"></i>
+                
+                <a class="article-category-link" href="https://www.ajka-andrej.com/sk/categories/recipes">Recepty</a>
+                
+                
+            </div>
+            
+        
+
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                
+                <a class="article-category-link" href="https://www.ajka-andrej.com/sk/tags/baking">pečenie</a>
+                &middot;
+                
+                <a class="article-category-link" href="https://www.ajka-andrej.com/sk/tags/cake">koláč</a>
+                &middot;
+                
+                <a class="article-category-link" href="https://www.ajka-andrej.com/sk/tags/sweet">sladké</a>
+                
+                
+            </div>
+            
+        
+    </div>
+</header>
+
+            <div class="article-entry" itemprop="articleBody">
+                <p>
+                    Keďže som už viacerým ľuďom sľúbila, že im dám recepty, rozhodla som sa, že bude oveľa jednoduchšie venovať im špeciálne miesto v blogu.:) Prvý je viac o pečení ako varení, ale som si istá, že ho budete milovať hlavne s kávou alebo kakaom na raňajky. Jeho meno je bábovka a je podobný koláču z piškótového cesta. Zvyčajne sa pečie v okrúhlej forme s dierou uprostred, aby mal krásny tvar a dobre sa krájal.
+                    <br>
+                </p>
+                <p class="article-more-link">
+                    <a href="https://www.ajka-andrej.com/sk/2009/01/14/babovka/">
+                        Čítať ďalej
+                    </a>
+                </p>
+            </div>
+            <footer class="article-footer">
+    <a data-url="https://www.ajka-andrej.com/sk/2009/01/14/babovka/" data-id="9b23c8a2f8061c82eee8bcd89707876d" class="article-share-link">
+        <i class="fa fa-share"></i>
+        Zdieľať
+    </a>
+    
+
+    <script>
+    (function ($) {
+        
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+    </script>
+</footer>
+
+        </div>
+    </article>
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            
+            </a>
+
+            <header class="article-header">
     <a href="https://www.ajka-andrej.com/sk/2008/09/05/hotel-orca-praia/">
     <h1 class="article-title" itemprop="name">
         Hotel Orca Praia
@@ -306,10 +454,6 @@ Your browser does not support the video tag.
     <a data-url="https://www.ajka-andrej.com/sk/2008/09/05/hotel-orca-praia/" data-id="24d810cd2ebbcd77b3974346753c4593" class="article-share-link">
         <i class="fa fa-share"></i>
         Zdieľať
-    </a>
-    
-    <a href="https://www.ajka-andrej.com/sk/2008/09/05/hotel-orca-praia//#disqus_thread" class="article-comment-link">
-        Komenty
     </a>
     
 
@@ -457,10 +601,6 @@ Your browser does not support the video tag.
         Zdieľať
     </a>
     
-    <a href="https://www.ajka-andrej.com/sk/2008/09/05/funchal//#disqus_thread" class="article-comment-link">
-        Komenty
-    </a>
-    
 
     <script>
     (function ($) {
@@ -606,10 +746,6 @@ Your browser does not support the video tag.
         Zdieľať
     </a>
     
-    <a href="https://www.ajka-andrej.com/sk/2008/09/05/vychodna-madeira//#disqus_thread" class="article-comment-link">
-        Komenty
-    </a>
-    
 
     <script>
     (function ($) {
@@ -747,10 +883,6 @@ Your browser does not support the video tag.
     <a data-url="https://www.ajka-andrej.com/sk/2008/09/04/videa/" data-id="8c967e63ef9e5d7d26465228054e072d" class="article-share-link">
         <i class="fa fa-share"></i>
         Zdieľať
-    </a>
-    
-    <a href="https://www.ajka-andrej.com/sk/2008/09/04/videa//#disqus_thread" class="article-comment-link">
-        Komenty
     </a>
     
 
@@ -899,10 +1031,6 @@ Your browser does not support the video tag.
     <a data-url="https://www.ajka-andrej.com/sk/2008/07/23/poseidonove-zahrady/" data-id="15d029af7e19f14acbc7be358c16087d" class="article-share-link">
         <i class="fa fa-share"></i>
         Zdieľať
-    </a>
-    
-    <a href="https://www.ajka-andrej.com/sk/2008/07/23/poseidonove-zahrady//#disqus_thread" class="article-comment-link">
-        Komenty
     </a>
     
 
@@ -1056,10 +1184,6 @@ Your browser does not support the video tag.
         Zdieľať
     </a>
     
-    <a href="https://www.ajka-andrej.com/sk/2008/07/23/vylety-po-ischii//#disqus_thread" class="article-comment-link">
-        Komenty
-    </a>
-    
 
     <script>
     (function ($) {
@@ -1211,10 +1335,6 @@ Your browser does not support the video tag.
         Zdieľať
     </a>
     
-    <a href="https://www.ajka-andrej.com/sk/2008/07/20/svadobna-dovolenka//#disqus_thread" class="article-comment-link">
-        Komenty
-    </a>
-    
 
     <script>
     (function ($) {
@@ -1352,10 +1472,6 @@ Your browser does not support the video tag.
     <a data-url="https://www.ajka-andrej.com/sk/2008/07/10/svadobne-oznamenie/" data-id="4b8e30a30ab5bd81043248d54b2311a5" class="article-share-link">
         <i class="fa fa-share"></i>
         Zdieľať
-    </a>
-    
-    <a href="https://www.ajka-andrej.com/sk/2008/07/10/svadobne-oznamenie//#disqus_thread" class="article-comment-link">
-        Komenty
     </a>
     
 
@@ -1500,165 +1616,6 @@ Your browser does not support the video tag.
         Zdieľať
     </a>
     
-    <a href="https://www.ajka-andrej.com/sk/2008/06/30/hotel-corona//#disqus_thread" class="article-comment-link">
-        Komenty
-    </a>
-    
-
-    <script>
-    (function ($) {
-        
-        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
-            __SHARE_BUTTON_BINDED__ = true;
-        } else {
-            return;
-        }
-        $('body').on('click', function() {
-            $('.article-share-box.on').removeClass('on');
-        }).on('click', '.article-share-link', function(e) {
-            e.stopPropagation();
-
-            var $this = $(this),
-                url = $this.attr('data-url'),
-                encodedUrl = encodeURIComponent(url),
-                id = 'article-share-box-' + $this.attr('data-id'),
-                offset = $this.offset(),
-                box;
-
-            if ($('#' + id).length) {
-                box = $('#' + id);
-
-                if (box.hasClass('on')){
-                    box.removeClass('on');
-                    return;
-                }
-            } else {
-                var html = [
-                    '<div id="' + id + '" class="article-share-box">',
-                        '<input class="article-share-input" value="' + url + '">',
-                        '<div class="article-share-links">',
-                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
-                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
-                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
-                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
-                        '</div>',
-                    '</div>'
-                ].join('');
-
-              box = $(html);
-
-              $('body').append(box);
-            }
-
-            $('.article-share-box.on').hide();
-
-            box.css({
-                top: offset.top + 25,
-                left: offset.left
-            }).addClass('on');
-
-        }).on('click', '.article-share-box', function (e) {
-            e.stopPropagation();
-        }).on('click', '.article-share-box-input', function () {
-            $(this).select();
-        }).on('click', '.article-share-box-link', function (e) {
-            e.preventDefault();
-            e.stopPropagation();
-
-            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
-        });
-    })(jQuery);
-    </script>
-</footer>
-
-        </div>
-    </article>
-    
-    <article class="article article-type-post" itemscope="" itemprop="blogPost">
-        <div class="article-inner">
-            
-            </a>
-
-            <header class="article-header">
-    <a href="https://www.ajka-andrej.com/sk/2008/06/30/forio/">
-    <h1 class="article-title" itemprop="name">
-        Forio
-    </h1>
-    </a>
-    <div class="article-meta">
-        <div class="article-date">
-            <i class="fa fa-calendar"></i>
-            <time datetime="2008-06-30 17:46:39 &#43;0000 UTC" itemprop="datePublished">2008-06-30</time>
-            &middot;
-            477
-            slov
-            &middot;
-            3
-            min čítania
-        </div>
-
-        
-        
-            
-            
-            <div class="article-category">
-                <i class="fa fa-folder"></i>
-                
-                <a class="article-category-link" href="https://www.ajka-andrej.com/sk/categories/travelling">Cestovanie</a>
-                
-                
-            </div>
-            
-        
-
-        
-            
-            
-            <div class="article-category">
-                <i class="fa fa-tags"></i>
-                
-                <a class="article-category-link" href="https://www.ajka-andrej.com/sk/tags/panoramas">panorámy</a>
-                &middot;
-                
-                <a class="article-category-link" href="https://www.ajka-andrej.com/sk/tags/island">ostrov</a>
-                &middot;
-                
-                <a class="article-category-link" href="https://www.ajka-andrej.com/sk/tags/beach">pláž</a>
-                &middot;
-                
-                <a class="article-category-link" href="https://www.ajka-andrej.com/sk/tags/italy">Taliansko</a>
-                &middot;
-                
-                <a class="article-category-link" href="https://www.ajka-andrej.com/sk/tags/sea">more</a>
-                
-                
-            </div>
-            
-        
-    </div>
-</header>
-
-            <div class="article-entry" itemprop="articleBody">
-                <p>
-                    Tak v tomto mestečku sme bývali, v hoteli Corona, ktorý môžeme len odporúčiť. Toto mesto je asi najviac navštevované turistami z celého ostrova. Má niekoľko pláži (všetky sme boli pozrieť a vyskúšať :)), príjemné obchodné centrum, niekoľko kostolíkov a nespočetne veľa rôznych uličiek, ktoré stoja za prechádzku. Známe je tiež produkciou vína a úžasným termálnym parkom Poseidonove záhrady.Najznámejším kostolíkom je kostol Santa Maria delle Neve - Soccorso, ktorý sa dosť veľakrát objavil aj vo filme Nebožtíci prajú láske, ktorý bol celý nakrútený na ostrove Ischia a naši milí vodiči nám ho pustili v autobuse na ceste na dovolenku.
-                    <br>
-                </p>
-                <p class="article-more-link">
-                    <a href="https://www.ajka-andrej.com/sk/2008/06/30/forio/">
-                        Čítať ďalej
-                    </a>
-                </p>
-            </div>
-            <footer class="article-footer">
-    <a data-url="https://www.ajka-andrej.com/sk/2008/06/30/forio/" data-id="89c526b363e22f8e0226b0d0c174331a" class="article-share-link">
-        <i class="fa fa-share"></i>
-        Zdieľať
-    </a>
-    
-    <a href="https://www.ajka-andrej.com/sk/2008/06/30/forio//#disqus_thread" class="article-comment-link">
-        Komenty
-    </a>
-    
 
     <script>
     (function ($) {
@@ -1768,6 +1725,31 @@ Your browser does not support the video tag.
             
             <li>
                 <div class="item-thumbnail">
+                    <a href="https://www.ajka-andrej.com/sk/2018/05/26/co-nove-v-maji/" class="thumbnail">
+                    
+                        <span style="background-image:url(https://www.ajka-andrej.com/images/2018/05/IMG_20180511_094117907t.jpg)" alt="Ajka&#43;Andrej" class="thumbnail-image"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    
+                    <p class="item-category">
+                        <a class="article-category-link" href="https://www.ajka-andrej.com/sk/categories/dailylife">
+                        Zo života
+                        </a>
+                    </p>
+                    
+                    
+                    <p class="item-title"><a href="https://www.ajka-andrej.com/sk/2018/05/26/co-nove-v-maji/" class="title">Čo nové v máji</a></p>
+                    <p class="item-date">
+                        <time datetime="2018-05-26 20:45:12 &#43;0000 UTC" itemprop="datePublished">2018-05-26</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                <div class="item-thumbnail">
                     <a href="https://www.ajka-andrej.com/sk/2018/04/24/tvoriva-velka-noc/" class="thumbnail">
                     
                         <span style="background-image:url(https://www.ajka-andrej.com/images/2018/04/IMG_4993t.jpg)" alt="Ajka&#43;Andrej" class="thumbnail-image"></span>
@@ -1866,31 +1848,6 @@ Your browser does not support the video tag.
                 </div>
             </li>
             
-            <li>
-                <div class="item-thumbnail">
-                    <a href="https://www.ajka-andrej.com/sk/2018/01/01/nabity-december/" class="thumbnail">
-                    
-                        <span style="background-image:url(https://www.ajka-andrej.com/images/2018/01/IMG_20171217_091925426t.jpg)" alt="Ajka&#43;Andrej" class="thumbnail-image"></span>
-                    
-                    </a>
-                </div>
-                <div class="item-inner">
-                    
-                    
-                    <p class="item-category">
-                        <a class="article-category-link" href="https://www.ajka-andrej.com/sk/categories/dailylife">
-                        Zo života
-                        </a>
-                    </p>
-                    
-                    
-                    <p class="item-title"><a href="https://www.ajka-andrej.com/sk/2018/01/01/nabity-december/" class="title">Nabitý december</a></p>
-                    <p class="item-date">
-                        <time datetime="2018-01-01 19:54:12 &#43;0000 UTC" itemprop="datePublished">2018-01-01</time>
-                    </p>
-                </div>
-            </li>
-            
         </ul>
     </div>
 </div>
@@ -1908,7 +1865,7 @@ Your browser does not support the video tag.
                 <a class="category-list-link" href="https://www.ajka-andrej.com/sk/categories/dailylife">
                     Zo života
                 </a>
-                <span class="category-list-count">143</span>
+                <span class="category-list-count">144</span>
             </li>
             
             <li class="category-list-item">
@@ -2045,6 +2002,7 @@ ga('send', 'pageview');
 
 <script src="https://www.ajka-andrej.com/fancybox/jquery.fancybox.pack.js"></script>
 <script src="https://www.ajka-andrej.com/js/script.js"></script>
+
 
 
 </body>
