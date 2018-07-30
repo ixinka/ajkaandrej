@@ -1,5 +1,5 @@
 +++
-title = "Autumn hoiday at the sea"
+title = "Autumn holiday at the sea"
 slug = "autumn-holiday-at-the-sea"
 description = ""
 categories = ["travelling"]

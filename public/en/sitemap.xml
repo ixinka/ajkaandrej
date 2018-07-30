@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.ajka-andrej.com/2018/07/30/by-the-sea/</loc>
+    <lastmod>2018-07-30T21:03:18+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2018/07/30/pri-mori/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2018/07/30/by-the-sea/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.ajka-andrej.com/2018/07/28/dominik-is-three/</loc>
     <lastmod>2018-07-28T20:57:12+00:00</lastmod>
     <xhtml:link
@@ -2929,7 +2944,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/</loc>
-    <lastmod>2018-07-28T20:57:12+00:00</lastmod>
+    <lastmod>2018-07-30T21:03:18+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -3168,7 +3183,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/tags/italy/</loc>
-    <lastmod>2017-09-30T21:13:12+00:00</lastmod>
+    <lastmod>2018-07-30T21:03:18+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -3344,7 +3359,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/post/</loc>
-    <lastmod>2018-07-28T20:57:12+00:00</lastmod>
+    <lastmod>2018-07-30T21:03:18+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -3408,7 +3423,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/tags/sea/</loc>
-    <lastmod>2017-09-30T21:13:12+00:00</lastmod>
+    <lastmod>2018-07-30T21:03:18+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -3520,7 +3535,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/categories/travelling/</loc>
-    <lastmod>2017-09-30T21:13:12+00:00</lastmod>
+    <lastmod>2018-07-30T21:03:18+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
