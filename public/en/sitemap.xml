@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.ajka-andrej.com/2018/08/24/trips-around-terchova/</loc>
+    <lastmod>2018-08-24T20:49:12+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://www.ajka-andrej.com/sk/2018/08/24/vylety-v-okoli-terchovej/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ajka-andrej.com/2018/08/24/trips-around-terchova/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.ajka-andrej.com/2018/07/30/by-the-sea/</loc>
     <lastmod>2018-07-30T21:03:18+00:00</lastmod>
     <xhtml:link
@@ -2944,7 +2959,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/</loc>
-    <lastmod>2018-07-30T21:03:18+00:00</lastmod>
+    <lastmod>2018-08-24T20:49:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -3151,7 +3166,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/tags/hiking/</loc>
-    <lastmod>2016-09-01T20:59:48+00:00</lastmod>
+    <lastmod>2018-08-24T20:49:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -3359,7 +3374,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/post/</loc>
-    <lastmod>2018-07-30T21:03:18+00:00</lastmod>
+    <lastmod>2018-08-24T20:49:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -3535,7 +3550,7 @@
   
   <url>
     <loc>https://www.ajka-andrej.com/categories/travelling/</loc>
-    <lastmod>2018-07-30T21:03:18+00:00</lastmod>
+    <lastmod>2018-08-24T20:49:12+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
