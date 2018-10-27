@@ -34,7 +34,7 @@
 
 
 
-<meta property="og:updated_time" content="2011-11-21T21:59:30&#43;00:00"/>
+<meta property="og:updated_time" content="2011-12-22T23:23:45&#43;00:00"/>
 
 
 
@@ -237,6 +237,155 @@
 
     <section id="main">
     
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            
+            <a href="https://www.ajka-andrej.com/sk/2011/12/22/orechove-tycinky/" itemprop="url">
+                <img src="https://www.ajka-andrej.com/wp-content/uploads/2011/12/IMG_0023.jpg" class="article-banner">
+            
+            </a>
+
+            <header class="article-header">
+    <a href="https://www.ajka-andrej.com/sk/2011/12/22/orechove-tycinky/">
+    <h1 class="article-title" itemprop="name">
+        Orechové tyčinky
+    </h1>
+    </a>
+    <div class="article-meta">
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2011-12-22 23:23:45 &#43;0000 UTC" itemprop="datePublished">2011-12-22</time>
+            &middot;
+            149
+            slov
+            &middot;
+            1
+            min čítania
+        </div>
+
+        
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-folder"></i>
+                
+                <a class="article-category-link" href="https://www.ajka-andrej.com/sk/categories/recipes">Recepty</a>
+                
+                
+            </div>
+            
+        
+
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                
+                <a class="article-category-link" href="https://www.ajka-andrej.com/sk/tags/baking">pečenie</a>
+                &middot;
+                
+                <a class="article-category-link" href="https://www.ajka-andrej.com/sk/tags/cake">koláč</a>
+                &middot;
+                
+                <a class="article-category-link" href="https://www.ajka-andrej.com/sk/tags/sweet">sladké</a>
+                
+                
+            </div>
+            
+        
+    </div>
+</header>
+
+            <div class="article-entry" itemprop="articleBody">
+                <p>
+                    Toto je jeden z tých receptov, ktoré potvrdzujú, že v jednoduchosti je krása.Je rýchly, nenáročný a výsledok je veľmi chutný. Za recept vďačím manželke môjho kolegu z práce.
+      Prísady: {{ lístkové cesto (dá sa kúpiť aj hotové vyváľkané) 150g mletých vlašských orechov alebo mandlí 75g cukru 1 vajce Amaretto (mandľový likér) }} Instructions: Rozohrejte rúru na 200 C alebo stupeň 6 pri plynovej rúre. Pripravte si papier na pečenie (najlepšie obdĺžnik veľkosti vášho plechu na pečenie).
+                    <br>
+                </p>
+                <p class="article-more-link">
+                    <a href="https://www.ajka-andrej.com/sk/2011/12/22/orechove-tycinky/">
+                        Čítať ďalej
+                    </a>
+                </p>
+            </div>
+            <footer class="article-footer">
+    <a data-url="https://www.ajka-andrej.com/sk/2011/12/22/orechove-tycinky/" data-id="ff77b90948f03ad599ce1554684b194b" class="article-share-link">
+        <i class="fa fa-share"></i>
+        Zdieľať
+    </a>
+    
+
+    <script>
+    (function ($) {
+        
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+    </script>
+</footer>
+
+        </div>
+    </article>
     
     <article class="article article-type-post" itemscope="" itemprop="blogPost">
         <div class="article-inner">
@@ -1563,137 +1712,6 @@
         </div>
     </article>
     
-    <article class="article article-type-post" itemscope="" itemprop="blogPost">
-        <div class="article-inner">
-            
-            <a href="https://www.ajka-andrej.com/sk/2011/07/28/oficialne-doktorka/" itemprop="url">
-                <img src="https://www.ajka-andrej.com/wp-content/uploads/2011/07/IMG_0067.jpg" class="article-banner">
-            
-            </a>
-
-            <header class="article-header">
-    <a href="https://www.ajka-andrej.com/sk/2011/07/28/oficialne-doktorka/">
-    <h1 class="article-title" itemprop="name">
-        Oficiálne doktorka
-    </h1>
-    </a>
-    <div class="article-meta">
-        <div class="article-date">
-            <i class="fa fa-calendar"></i>
-            <time datetime="2011-07-28 15:31:07 &#43;0000 UTC" itemprop="datePublished">2011-07-28</time>
-            &middot;
-            241
-            slov
-            &middot;
-            2
-            min čítania
-        </div>
-
-        
-        
-            
-            
-            <div class="article-category">
-                <i class="fa fa-folder"></i>
-                
-                <a class="article-category-link" href="https://www.ajka-andrej.com/sk/categories/dailylife">Zo života</a>
-                
-                
-            </div>
-            
-        
-
-        
-    </div>
-</header>
-
-            <div class="article-entry" itemprop="articleBody">
-                <p>
-                    Ešte pred dvoma rokmi by som si nad myšlienkoupromócií len povzdychla ako nad nejakým veľmi pekným ale nereálnym snom a teraz som sedela navlečená v talári vo veľkej hale čakajúc na diplom. Ale po poriadku. Ráno sme sa vybrali na univerzitu. Od ôsmej som si mohla vyzdvihnúť talár, potom sme mali naplánované raňajky, prípadne prechádzku, no a o desiatej sme chceli ísť do haly, aby sme sa usadili pol hodinku pred začatím promócií.
-                    <br>
-                </p>
-                <p class="article-more-link">
-                    <a href="https://www.ajka-andrej.com/sk/2011/07/28/oficialne-doktorka/">
-                        Čítať ďalej
-                    </a>
-                </p>
-            </div>
-            <footer class="article-footer">
-    <a data-url="https://www.ajka-andrej.com/sk/2011/07/28/oficialne-doktorka/" data-id="ab6645dacf55dc0d065c528f52bb982c" class="article-share-link">
-        <i class="fa fa-share"></i>
-        Zdieľať
-    </a>
-    
-
-    <script>
-    (function ($) {
-        
-        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
-            __SHARE_BUTTON_BINDED__ = true;
-        } else {
-            return;
-        }
-        $('body').on('click', function() {
-            $('.article-share-box.on').removeClass('on');
-        }).on('click', '.article-share-link', function(e) {
-            e.stopPropagation();
-
-            var $this = $(this),
-                url = $this.attr('data-url'),
-                encodedUrl = encodeURIComponent(url),
-                id = 'article-share-box-' + $this.attr('data-id'),
-                offset = $this.offset(),
-                box;
-
-            if ($('#' + id).length) {
-                box = $('#' + id);
-
-                if (box.hasClass('on')){
-                    box.removeClass('on');
-                    return;
-                }
-            } else {
-                var html = [
-                    '<div id="' + id + '" class="article-share-box">',
-                        '<input class="article-share-input" value="' + url + '">',
-                        '<div class="article-share-links">',
-                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
-                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
-                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
-                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
-                        '</div>',
-                    '</div>'
-                ].join('');
-
-              box = $(html);
-
-              $('body').append(box);
-            }
-
-            $('.article-share-box.on').hide();
-
-            box.css({
-                top: offset.top + 25,
-                left: offset.left
-            }).addClass('on');
-
-        }).on('click', '.article-share-box', function (e) {
-            e.stopPropagation();
-        }).on('click', '.article-share-box-input', function () {
-            $(this).select();
-        }).on('click', '.article-share-box-link', function (e) {
-            e.preventDefault();
-            e.stopPropagation();
-
-            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
-        });
-    })(jQuery);
-    </script>
-</footer>
-
-        </div>
-    </article>
-    
 
     <nav id="page-nav">
 
@@ -1730,6 +1748,31 @@
     </h3>
     <div class="widget">
         <ul id="recent-post">
+            
+            <li>
+                <div class="item-thumbnail">
+                    <a href="https://www.ajka-andrej.com/sk/2018/10/26/skolkari/" class="thumbnail">
+                    
+                        <span style="background-image:url(https://www.ajka-andrej.com/images/2018/10/IMG_20181019_154623598t.jpg)" alt="Ajka&#43;Andrej" class="thumbnail-image"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    
+                    <p class="item-category">
+                        <a class="article-category-link" href="https://www.ajka-andrej.com/sk/categories/dailylife">
+                        Zo života
+                        </a>
+                    </p>
+                    
+                    
+                    <p class="item-title"><a href="https://www.ajka-andrej.com/sk/2018/10/26/skolkari/" class="title">Škôlkari</a></p>
+                    <p class="item-date">
+                        <time datetime="2018-10-26 22:10:12 &#43;0000 UTC" itemprop="datePublished">2018-10-26</time>
+                    </p>
+                </div>
+            </li>
             
             <li>
                 <div class="item-thumbnail">
@@ -1831,31 +1874,6 @@
                 </div>
             </li>
             
-            <li>
-                <div class="item-thumbnail">
-                    <a href="https://www.ajka-andrej.com/sk/2018/04/24/tvoriva-velka-noc/" class="thumbnail">
-                    
-                        <span style="background-image:url(https://www.ajka-andrej.com/images/2018/04/IMG_4993t.jpg)" alt="Ajka&#43;Andrej" class="thumbnail-image"></span>
-                    
-                    </a>
-                </div>
-                <div class="item-inner">
-                    
-                    
-                    <p class="item-category">
-                        <a class="article-category-link" href="https://www.ajka-andrej.com/sk/categories/dailylife">
-                        Zo života
-                        </a>
-                    </p>
-                    
-                    
-                    <p class="item-title"><a href="https://www.ajka-andrej.com/sk/2018/04/24/tvoriva-velka-noc/" class="title">Tvorivá Veľká Noc</a></p>
-                    <p class="item-date">
-                        <time datetime="2018-04-24 20:31:12 &#43;0000 UTC" itemprop="datePublished">2018-04-24</time>
-                    </p>
-                </div>
-            </li>
-            
         </ul>
     </div>
 </div>
@@ -1873,7 +1891,7 @@
                 <a class="category-list-link" href="https://www.ajka-andrej.com/sk/categories/dailylife">
                     Zo života
                 </a>
-                <span class="category-list-count">145</span>
+                <span class="category-list-count">146</span>
             </li>
             
             <li class="category-list-item">
@@ -1918,7 +1936,7 @@
         
         <a href="https://www.ajka-andrej.com/sk/tags/cooking" style="font-size: 11px;">varenie</a>
         
-        <a href="https://www.ajka-andrej.com/sk/tags/dominik" style="font-size: 15px;">Dominik</a>
+        <a href="https://www.ajka-andrej.com/sk/tags/dominik" style="font-size: 16px;">Dominik</a>
         
         <a href="https://www.ajka-andrej.com/sk/tags/england" style="font-size: 13px;">Anglicko</a>
         
@@ -1942,7 +1960,7 @@
         
         <a href="https://www.ajka-andrej.com/sk/tags/newyork" style="font-size: 10px;">New York</a>
         
-        <a href="https://www.ajka-andrej.com/sk/tags/olivia" style="font-size: 28px;">Olivia</a>
+        <a href="https://www.ajka-andrej.com/sk/tags/olivia" style="font-size: 29px;">Olivia</a>
         
         <a href="https://www.ajka-andrej.com/sk/tags/panoramas" style="font-size: 18px;">panorámy</a>
         
