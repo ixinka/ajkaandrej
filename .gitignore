@@ -2,3 +2,6 @@
 /release
 /deployed
 .directory
+latest.diff
+latest.hash
+
