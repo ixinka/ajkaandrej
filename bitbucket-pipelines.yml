@@ -1,0 +1,13 @@
+image: lorislab/hugo
+
+pipelines:
+  default:
+    - step:
+        name: Build and deploy
+        script:
+          - echo "Build web-site"
+          - rm -rf public
+          - hugo --theme=hugo-icarus-theme --i18n-warnings --ignoreCache
+          - echo "Deploy web-site"
+          - hugoup deploy
+
