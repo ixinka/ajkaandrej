@@ -68,6 +68,9 @@
 - id: tag_france
   translation: France
 
+- id: tag_slovenia
+  translation: Slovenia
+  
 - id: tag_cooking
   translation: cooking
 

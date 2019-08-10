@@ -68,6 +68,9 @@
 - id: tag_france
   translation: Francúzsko
 
+- id: tag_slovenia
+  translation: Slovinsko
+  
 - id: tag_cooking
   translation: varenie
 
