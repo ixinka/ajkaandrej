@@ -71,6 +71,9 @@
 - id: tag_slovenia
   translation: Slovenia
   
+- id: tag_croatia
+  translation: Croatia
+  
 - id: tag_cooking
   translation: cooking
 
