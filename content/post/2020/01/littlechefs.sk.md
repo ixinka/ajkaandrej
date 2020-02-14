@@ -1,6 +1,6 @@
 +++
 title = "Malí kuchári"
-slug = "malí-kuchári"
+slug = "mali-kuchari"
 description = ""
 categories = ["dailylife"]
 tags = ["dominik", "olivia"]
