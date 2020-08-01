@@ -5,14 +5,10 @@ description = ""
 tags = ["pasta"]
 categories = ["recipes"]
 date = "2012-01-19T21:12:51"
-banner = "/wp-content/uploads/2012/01/IMG_0016.jpg"
+banner = "/wp-content/uploads/2012/01/IMG_0016t.jpg"
 +++
 
-Tortellini belong to my favourite dishes. I have even a very good recipe for stuffing, but when I tried to prepare it last time, it reminded me more pirohy than tortellini. The problem was in
-a dough, it was too solid and I couldn't roll it thin enough as well. And so I said that I would
-have to buy a pasta maker at some point. This Christmas, a pasta maker appeared in our kitchen and
-so I began to produce pasta. Well, at the beginning only tagliatelle, but the result ended up
-beyond all the expectations and so I share instructions here.
+Tortellini belong to my favourite dishes. I have even a very good recipe for stuffing, but when I tried to prepare it last time, it reminded me more pirohy than tortellini. The problem was in a dough, it was too solid and I couldn't roll it thin enough as well. And so I said that I would have to buy a pasta maker at some point. This Christmas, a pasta maker appeared in our kitchen and so I began to produce pasta. Well, at the beginning only tagliatelle, but the result ended up beyond all the expectations and so I share instructions here.
 
 {{< gallery
     "/wp-content/uploads/2012/01/IMG_0001.jpg"
@@ -23,11 +19,13 @@ beyond all the expectations and so I share instructions here.
     "/wp-content/uploads/2012/01/IMG_0016.jpg"
 >}}
 
-**Ingredients (for four persons):**
-{{ 300g flour
-2 PL Extra Virgin olive oil
-3 eggs }}
-**Instructions:**
+**Ingredients (for four persons):**  
+
+* 300g flour
+* 2 PL Extra Virgin olive oil
+* 3 eggs
+
+**Instructions:**  
 There is a rule that you need one egg for about 100g of flour. But it's better to start with less
 amount of flour and then add it as necessary. It's easier than to dilute a dough. I used about 270g
 of it. Mix the flour with the eggs and add the olive oil.The dough should be well kneaded (5-10

@@ -5,14 +5,10 @@ description = ""
 tags = ["pasta"]
 categories = ["recipes"]
 date = "2012-01-19T21:12:51"
-banner = "/wp-content/uploads/2012/01/IMG_0016.jpg"
+banner = "/wp-content/uploads/2012/01/IMG_0016t.jpg"
 +++
 
-K mojím obľúbeným jedlám patria tortellini. Mám dokonca aj dobrý recept na plnku, ale keď som sa ich pokúšala naposledy spraviť, pripomínali asi viac pirohy. Problém bol v ceste, jednak
-bolo tuhé a potom sa mi ho nepodarilo vyváľkať dostatočne tenko. A tak som si povedala, že si raz
-zaobstarám mlynček na cestovinu. Tieto vianoce sa k nám mlynček dostavil a ja som sa pustila do
-výroby cestoviny. Na začiatok iba rezance (tagliatelle), ale výsledok dopadol nad všetky očakávania
-veľmi dobre, tak sa s vami podelím o postup.
+K mojím obľúbeným jedlám patria tortellini. Mám dokonca aj dobrý recept na plnku, ale keď som sa ich pokúšala naposledy spraviť, pripomínali asi viac pirohy. Problém bol v ceste, jednak bolo tuhé a potom sa mi ho nepodarilo vyváľkať dostatočne tenko. A tak som si povedala, že si raz zaobstarám mlynček na cestovinu. Tieto vianoce sa k nám mlynček dostavil a ja som sa pustila do výroby cestoviny. Na začiatok iba rezance (tagliatelle), ale výsledok dopadol nad všetky očakávania veľmi dobre, tak sa s vami podelím o postup.
 
 {{< gallery
     "/wp-content/uploads/2012/01/IMG_0001.jpg"
@@ -23,11 +19,13 @@ veľmi dobre, tak sa s vami podelím o postup.
     "/wp-content/uploads/2012/01/IMG_0016.jpg"
 >}}
 
-**Prísady (pre štyri osoby):**
-{{ 300g múky
-2 PL olivového oleja
-3 vajcia }}
-**Postup:**
+**Prísady (pre štyri osoby):**  
+
+* 300g múky
+* 2 PL olivového oleja
+* 3 vajcia 
+
+**Postup:**  
 Pravidlo je, že na jedno vajce treba približne 100g múky. Dobre je ale začať s menším množstvom a v
 prípade potreby múku pridávať. Je to jednoduchšie ako cesto riediť. Ja som použila asi 270g. Múku
 vymiešame s vajíčkami a pridáme olivový olej. Cesto treba dobre miesiť 5-10 minút, takým tým
