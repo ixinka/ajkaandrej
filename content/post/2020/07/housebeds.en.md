@@ -3,7 +3,7 @@ title = "House beds"
 slug = "house-beds"
 description = ""
 categories = ["dailylife"]
-tags = [""]
+tags = []
 date = "2020-07-27T21:28:17"
 banner = "/images/2020/07/IMG_20200719_122122721t.jpg"
 +++
