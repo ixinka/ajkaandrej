@@ -5,6 +5,7 @@ description = ""
 tags = ["mountains","skiing","germany","lake"]
 categories = ["travelling"]
 date = "2011-01-30T17:53:46"
+banner = "/images/2011/01/IMG_0123t.jpg"
 +++
 
 Tentokrát sme sa vybrali len asi hodinku aj štvrť z domu autom do dedinky Grainau spoznávať okolie a
@@ -15,10 +16,10 @@ týždeň a môj drahý pomenoval našu dovolenku týždňovým sústredením :)
 
 
 {{< gallery
-    "/wp-content/gallery/germany/grainau_gap/IMG_0124.JPG"
-    "/wp-content/gallery/germany/grainau_gap/IMG_0120.JPG"
-    "/wp-content/gallery/germany/grainau_gap/IMG_0123.JPG"
-    "/wp-content/gallery/germany/grainau_gap/IMG_0122.jpg"
+    "/images/2011/01/IMG_0124.jpg"
+    "/images/2011/01/IMG_0120.jpg"
+    "/images/2011/01/IMG_0123.jpg"
+    "/images/2011/01/IMG_0122.jpg"
 >}}
 
 V jeden usnežený deň sme si spravili výlet vláčikom do blízkej už tirolskej dedinky Lermoos a potom
@@ -28,24 +29,19 @@ síce konajú až od siedmeho februára, no už teraz bolo všade rušno a okolo
 vyrastali tribúny pre divákov.
 
 {{< gallery
-    "/wp-content/gallery/germany/grainau_gap/IMG_0104.JPG"
-    "/wp-content/gallery/germany/grainau_gap/IMG_0105.jpg"
-    "/wp-content/gallery/germany/grainau_gap/IMG_0108.jpg"
-    "/wp-content/gallery/germany/grainau_gap/IMG_0113.jpg"
+    "/images/2011/01/IMG_0103.jpg"
+    "/images/2011/01/IMG_0104.jpg"
+    "/images/2011/01/IMG_0105.jpg"
+    "/images/2011/01/IMG_0113.jpg"
 >}}
+
 Počas druhého oddychového dňa sme si spravili turistickú vychádzku k jazeru Eibsee (zhruba hodinka
-šlapania do kopca z Grainau). Ak náhodou hľadáte na fotke dole modrú plochu, tak márne. Jazero
-vyzeralo len ako obrovské zasnežené pole okrúhleho tvaru. V tomto čase to tam bolo celkom vymreté a
-tak sme sa otočili späť aj my a zvyšok dňa sme strávili v bazéne v Grainau.
+šlapania do kopca z Grainau). Jazero vyzeralo len ako obrovské zasnežené pole okrúhleho tvaru. V tomto čase to tam bolo celkom vymreté a tak sme sa otočili späť aj my a zvyšok dňa sme strávili v bazéne v Grainau.
 
 {{< gallery
-    "/wp-content/gallery/germany/grainau_gap/IMG_0131.jpg"
-    "/wp-content/gallery/germany/grainau_gap/IMG_0134.jpg"
-    "/wp-content/gallery/germany/grainau_gap/IMG_0139.JPG"
-    "/wp-content/gallery/germany/grainau_gap/IMG_0140.JPG"
+    "/images/2011/01/IMG_0131.jpg"
+    "/images/2011/01/IMG_0134.jpg"
+    "/images/2011/01/IMG_0139.jpg"
+    "/images/2011/01/IMG_0140.jpg"
 >}}
 
-Všetky <a title="Grainau-Garmisch"
-href="http://www.ajka-andrej.com/gallery/germany/grainau-garmisch/" target="_blank">fotky z výletov
-</a>a <a title="Zugspitzplatt" href="http://www.ajka-andrej.com/gallery/germany/zugspitzplatt/"
-target="_blank">lyžovania</a> nájdete v galérií.
