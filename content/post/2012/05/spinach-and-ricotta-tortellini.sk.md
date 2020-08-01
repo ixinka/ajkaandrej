@@ -5,13 +5,11 @@ description = ""
 tags = ["savoury","pasta","cooking"]
 categories = ["recipes"]
 date = "2012-05-12T22:15:15"
-banner = "/wp-content/uploads/2012/05/IMG_0009.jpg"
+banner = "/wp-content/uploads/2012/05/IMG_0009t.jpg"
 +++
 
 Naposledy som písala o tom, ako spraviť cesto na cestovinu a tiež som snívala o tortellinoch (druh
-plnenej cestoviny).  Potom som sa odhodlala vyskúšať spraviť túto cestovinu znovu a vzhľadom na chutný výsledok sa chcem
-podeliť o recept :) Plnku spravte ako prvú, až potom pripravte cesto podľa <a title="receipt na
-cesto" href="http://www.ajka-andrej.com/2012/01/19/pasta-maker/?lang=SK" target="_blank">postupu
+plnenej cestoviny).  Potom som sa odhodlala vyskúšať spraviť túto cestovinu znovu a vzhľadom na chutný výsledok sa chcem podeliť o recept :) Plnku spravte ako prvú, až potom pripravte cesto podľa <a title="receipt na cesto" href="https://www.ajka-andrej.com/sk/2012/01/19/mlyncek-na-cestovinu/" target="_blank">postupu
 tu</a> (takto cesto neoschne, kým sa stihnú pripraviť ostatné veci), ale použite nastavenie 9 na
 strojčeku pre tenšie pláty cesta. Použite pohár alebo niečo okrúhle s priemerom okolo 5 cm na
 vyrezanie kruhov z cesta.
@@ -20,17 +18,19 @@ vyrezanie kruhov z cesta.
     "/wp-content/uploads/2012/05/IMG_0009.jpg"
 >}}
 
-**Prísady:**
-{{ 8 kríčkových paradajek
-1 mladá cukyňa
-za hrsť listov bazalky
-200g čerstvých špenátových listov
-200g syra ricotta
-4 strúčiky cesnaku, pokrájaného na drobno
-1 cibuľa, pokrájaná na drobno
-1šálka postrúhaného syra Pecorino
-soľ, čierne korenie
-4 PL olivového oleja }}
+**Prísady:**  
+
+* 8 kríčkových paradajek
+* 1 mladá cukyňa
+* za hrsť listov bazalky
+* 200g čerstvých špenátových listov
+* 200g syra ricotta
+* 4 strúčiky cesnaku, pokrájaného na drobno
+* 1 cibuľa, pokrájaná na drobno
+* 1šálka postrúhaného syra Pecorino
+* soľ, čierne korenie
+* 4 PL olivového oleja
+
 **Postup:**
 Na panvici rozohrejte 2 lyžice oleja spolu s cesnakom a cibuľou. Umyte a osušte špenátové listy a
 pridajte ich do panvice. Dvoma vareškami premiešajte špenát v panvici tak, aby sa obalil olejom a
