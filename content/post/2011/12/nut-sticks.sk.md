@@ -5,7 +5,7 @@ description = ""
 tags = ["baking","cake","sweet"]
 categories = ["recipes"]
 date = "2011-12-22T23:23:45"
-banner = "/wp-content/uploads/2011/12/IMG_0023.jpg"
+banner = "/wp-content/uploads/2011/12/IMG_0023t.jpg"
 +++
 
 Toto je jeden z tých receptov, ktoré potvrdzujú, že v jednoduchosti je krása.Je rýchly, nenáročný a výsledok je veľmi chutný. Za recept vďačím manželke môjho kolegu z práce.
@@ -18,13 +18,15 @@ Toto je jeden z tých receptov, ktoré potvrdzujú, že v jednoduchosti je krás
     "/wp-content/uploads/2011/12/IMG_0023.jpg"
 >}}
 
-**Prísady:**
-{{ lístkové cesto (dá sa kúpiť aj hotové vyváľkané)
-150g mletých vlašských orechov alebo mandlí
-75g cukru
-1 vajce
-Amaretto (mandľový likér) }}
-**Instructions:**
+**Prísady:**  
+
+* lístkové cesto (dá sa kúpiť aj hotové vyváľkané)
+* 150g mletých vlašských orechov alebo mandlí
+* 75g cukru
+* 1 vajce
+* Amaretto (mandľový likér)
+
+**Instructions:**  
 Rozohrejte rúru na 200 C alebo stupeň 6 pri plynovej rúre. Pripravte si papier na pečenie (najlepšie
 obdĺžnik veľkosti vášho plechu na pečenie). Vyšľahajte bielko na pevnú nadýchanú hmotu. V miske
 zmiešajte pomleté orechy, cukor a vyšľahané bielko. Nakoniec pridajte do zmesi toľko likéru, aby
