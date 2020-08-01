@@ -5,6 +5,7 @@ description = ""
 tags = ["savoury","baking"]
 categories = ["recipes"]
 date = "2010-12-03T14:04:48"
+banner = "/wp-content/uploads/2010/12/IMG_0510t.jpg"
 +++
 
 Toto je jeden z tých receptov, ktoré sú nenáročné na prípravu. No a tento dáva aj dobrú príležitosť
@@ -14,29 +15,31 @@ stále veľmi veľa možností, ako by sa dal vylepšiť a zmeniť, čo sa ochut
 {{< gallery
     "/wp-content/uploads/2010/12/IMG_0510.jpg"
 >}}
-**Prísady (pre 24cm formu na pečenie):**
-(všeobecná zmes)
-{{ 1/2 hrnčeka múky (125ml)
-1/2 hrnčeka kyslej smotany (zvyčajne používam celý 200g téglik)
-1 hrnček mlieka (pre sýtejšiu verziu používam na jemno postrúhané zemiaky miesto mlieka)
-4 vajcia
-maslo na vymastenie formy }}
+
+**Prísady (pre 24cm formu na pečenie):**  
+**všeobecná zmes**  
+
+* 1/2 hrnčeka múky (125ml)
+* 1/2 hrnčeka kyslej smotany (zvyčajne používam celý 200g téglik)
+* 1 hrnček mlieka (pre sýtejšiu verziu používam na jemno postrúhané zemiaky miesto mlieka)
+* 4 vajcia
+* maslo na vymastenie formy
  
-(na ochutenie)
+**na ochutenie**  
 V podstate sa dá použiť čokoľvek - nakrájaná/postrúhaná tekvica, paradajky, saláma, brokolica,
 karfiol ... Celá táto hmota by sa ale mala zmestiť do 1 a pol hrnčeka. Pre tento recept som
 použila:
 
-{{ cca. 200g špenátových listov (môžu byť aj mrazené)
-200g údenej slaniny, pokrájanej na malé kocky
-1 cibuľa
-4 strúčiky cesnaku
-veľa nasekaného petržlenu, najlepšie čerstvého
-mleté čierne korenie, soľ
-1PL oleja na opečenie
-postrúhaný syr (voliteľné) }}
+* cca. 200g špenátových listov (môžu byť aj mrazené)
+* 200g údenej slaniny, pokrájanej na malé kocky
+* 1 cibuľa
+* 4 strúčiky cesnaku
+* veľa nasekaného petržlenu, najlepšie čerstvého
+* mleté čierne korenie, soľ
+* 1PL oleja na opečenie
+* postrúhaný syr (voliteľné)
  
-**Postup:**
+**Postup:**  
 Predohrejte rúru na 200 stupňov. Na strednej teplote opražte na panvici cibulu, cesnak a slaninu.
 Pridajte špenátové listy, ochuťte korením, soľou a petržlenom a poduste 5 minút. Panvicu odložte
 nabok a nechajte zmes trochu vychladnúť. Zatiaľ vymiešajte v miske vajcia. Postupne pridávajte
