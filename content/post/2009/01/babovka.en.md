@@ -5,6 +5,7 @@ description = ""
 tags = ["baking","cake","sweet"]
 categories = ["recipes"]
 date = "2009-01-14T17:37:34"
+banner = "/wp-content/uploads/2009/01/IMG_0187t.jpg"
 +++
 
 Well, I promised to give some recipes to several people, so I've decided that it'll be much easier
@@ -20,16 +21,19 @@ and symbolic as well.
     "/wp-content/uploads/2009/01/IMG_0508.jpg"
     "/wp-content/uploads/2009/01/IMG_0509.jpg"
 >}}
-**Ingredients:**
-{{ 4 eggs
-200g / 7oz icing sugar
-2 tsp vanilla sugar
-1dcl of water
-1dcl of oil
-1 tsp baking powder
-200g/ 7oz extra smooth flour
-1tbsp cocoa powder }}
-**Directions:**
+
+**Ingredients:**  
+
+* 4 eggs
+* 200g / 7oz icing sugar
+* 2 tsp vanilla sugar
+* 1dcl of water
+* 1dcl of oil
+* 1 tsp baking powder
+* 200g/ 7oz extra smooth flour
+* 1tbsp cocoa powder
+
+**Directions:**  
 Separate white of eggs and yolks into two bowls. Beat yolks with icing sugar in a large bowl until
 smooth. Stir baking powder into the flour and add it to eggs mixture in the bowl. Add water, oil
 and vanilla sugar, stirring just until combined. Whisk white of eggs and stir it lightly into the

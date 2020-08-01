@@ -5,6 +5,7 @@ description = ""
 tags = ["baking","cake","sweet"]
 categories = ["recipes"]
 date = "2009-01-14T17:37:34"
+banner = "/wp-content/uploads/2009/01/IMG_0187t.jpg"
 +++
 
 Keďže som už viacerým ľuďom sľúbila, že im dám recepty, rozhodla som sa, že bude oveľa jednoduchšie
@@ -20,19 +21,19 @@ symbolický.
     "/wp-content/uploads/2009/01/IMG_0508.jpg"
     "/wp-content/uploads/2009/01/IMG_0509.jpg"
 >}}
-**Prísady:**
 
-{{ 4 vajcia
-200g / 7ozpráškového cukru
-2 čajové lyžičky vanilkového cukru
-1dcl vody
-1dcl oleja
-1 čajová lyžička prášku do pečiva
-200g/ 7oz hladkej múky
-1 polievková lyžica kakaa }}
+**Prísady:**  
 
-**Postup:**
+* 4 vajcia
+* 200g / 7ozpráškového cukru
+* 2 čajové lyžičky vanilkového cukru
+* 1dcl vody
+* 1dcl oleja
+* 1 čajová lyžička prášku do pečiva
+* 200g/ 7oz hladkej múky
+* 1 polievková lyžica kakaa
 
+**Postup:**  
 Oddeľte bielka od žĺtkov do dvoch misiek. Vyšťahajte žĺtky s práškovým cukrom vo veľkej miske.
 Vmiešajte do múky prášok do pečiva a pridajte ju k vyšťahaným žĺtkom do misky. Pridajte vodu, olej
 a vanilkový cukor a miešajte, kým sa všetko nespojí do cesta. Vyšľahajte bielka a zľahka ich
