@@ -5,13 +5,10 @@ description = ""
 tags = ["baking","sweet"]
 categories = ["recipes"]
 date = "2012-11-07T21:51:31"
-banner = "/wp-content/uploads/2012/11/IMG_0246.jpg"
+banner = "/wp-content/uploads/2012/11/IMG_0246t.jpg"
 +++
 
-Toto jedlo sme si obľúbili na <a title="Wallberg"
-href="http://www.ajka-andrej.com/2010/08/24/wallberg/?lang=SK" target="_blank">Wallbergu</a>, kde
-sme si ho prvýkrát objednali len tak na výskušanie (odvtedy už len úmyselne :)). Potom som skúmala ako sa pripravuje a teraz používam tento mierne upravený recept z časopisu
-LandLeben.
+Toto jedlo sme si obľúbili na <a title="Wallberg" href="https://www.ajka-andrej.com/sk/2010/08/24/wallberg/" target="_blank">Wallbergu</a>, kde sme si ho prvýkrát objednali len tak na výskušanie (odvtedy už len úmyselne :)). Potom som skúmala ako sa pripravuje a teraz používam tento mierne upravený recept z časopisu LandLeben.
 
 {{< gallery
     "/wp-content/uploads/2012/11/IMG_0237.jpg"
@@ -20,17 +17,19 @@ LandLeben.
     "/wp-content/uploads/2012/11/IMG_0246.jpg"
 >}}
 
-**Prísady:**
-{{ 220g múky (ja dávam polohrubú ako na palacinky)
-8 žĺtkov
-8 bielkov
-400 ml mlieka (alebo v kombinácií so šľahačkovou smotanou)
-2 PL cukru
-štipka soli
-maslo na upečenie
-za hrsť hrozienok (môžu sa namočiť do rumu)
-práškový cukor na dekoráciu
-jablková detská výživa na namáčanie }}
+**Prísady:**  
+
+* 220g múky (ja dávam polohrubú ako na palacinky)
+* 8 žĺtkov
+* 8 bielkov
+* 400 ml mlieka (alebo v kombinácií so šľahačkovou smotanou)
+* 2 PL cukru
+* štipka soli
+* maslo na upečenie
+* za hrsť hrozienok (môžu sa namočiť do rumu)
+* práškový cukor na dekoráciu
+* jablková detská výživa na namáčanie
+
 **Postup:**
 Žĺtky vymiešame s cukrom a soľou. Pridáme múku, mlieko a vymiešame hladkú hmotu. Bielky vyšľaháme na
 tuhý sneh a zľahka primiešame k hmote. Na panvici roztopíme 1 PL masla a vylejeme a rozotrieme asi
