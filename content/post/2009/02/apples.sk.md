@@ -5,6 +5,7 @@ description = ""
 tags = ["baking","cake","sweet"]
 categories = ["recipes"]
 date = "2009-02-16T14:56:42"
+banner = "/wp-content/uploads/2009/02/IMG_0138t.jpg"
 +++
 
 Môj manžel nepatrí práve ku nadšeným pojedačom koláčikov a niekedy je naozaj veľmi ťažké upiecť
@@ -16,17 +17,19 @@ a bolo to v podstate jablko s džemom a hrozienkami vnútri, zabalené v lístko
 práškovým cukrom. Andrejovi ale strašne chutil, takže to bol hneď prvý koláč, ktorý som piekla po
 návrate domov.
 
-**Prísady: **
-{{ niekoľko stredne veľkých celých jabĺk (ošúpaných bez stredu a jadierok)
-3 polievkové lyžice dobrého džemu (príchuť závisí na vás)
-hrozienka
-1 čajová lyžička mletej škorice
-strúhanka
-lístkové cesto
-1 žĺtok
-práškový cukor na posypanie
-klinčeky }}
-**Postup: **
+**Prísady:**  
+
+* niekoľko stredne veľkých celých jabĺk (ošúpaných bez stredu a jadierok)
+* 3 polievkové lyžice dobrého džemu (príchuť závisí na vás)
+* hrozienka
+* 1 čajová lyžička mletej škorice
+* strúhanka
+* lístkové cesto
+* 1 žĺtok
+* práškový cukor na posypanie
+* klinčeky 
+
+**Postup:**  
 Valčekom vyváľkajte lístkové cesto na hrúbku asi 1/2 cm alebo si kúpte už vyváľkaný plát. V miske
 zmiešajte džem s hrozienkami a mletou škoricou. Pokrájajte plát cesta na štvorce tak, aby boli dosť
 veľké pre každé jablko. Posypte miesto, kde uložíte jablko na cesto strúhankou a položte naň
@@ -44,6 +47,7 @@ rohov. Spojte všetky štyri rohy klinčekom.
     "/wp-content/uploads/2009/02/IMG_0138.jpg"
     "/wp-content/uploads/2009/02/IMG_0142.jpg"
 >}}
+
 Potrite plech tukom a položte naň niekoľko jablkových balíčkov. Potrite balíčky žĺtkom. Pečte až kým
 nebudú mať zlatohnedú farbu na stupni 5 na plynovom šporáku asi 20 minút. Nechajte vychladnúť na
 plechu a potom si ich vychutnajte. Jablko by malo byť mäkké, akurát na jedenie a zvyčajne na to
