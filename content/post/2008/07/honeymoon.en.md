@@ -5,18 +5,16 @@ description = ""
 tags = ["island","portugal","wedding","sea"]
 categories = ["travelling","dailylife"]
 date = "2008-07-20T19:07:31"
+banner = "/wp-content/uploads/2008/07/IMG_0229t.jpg"
 +++
 
 We finally found the right place for our honeymoon. It is a wonderful tiny island in Atlantic Ocean,
 which belongs to Portugal. The island of <a title="East Madeira"
-href="http://www.ajka-andrej.com/2008/09/05/eastmadeira/">Madeira</a> <img
-src="http://maps.google.com/intl/en_ALL/mapfiles/ms/micons/sunny.png" border="0" alt="" width="16"
-height="16" /> is lapped by the waters of the Gulf Stream, so there is nice warm weather. There are
+href="{{< ref "post/2008/09/eastmadeira" >}}">Madeira</a> is lapped by the waters of the Gulf Stream, so there is nice warm weather. There are
 beautiful botanic gardens, mountains and views of the ocean and many nice people with their own
-traditions. We spent there  wonderful time and took  <a title="Madeira"
-href="http://www.ajka-andrej.com/gallery/portugal/madeira/">a huge amount of pictures</a> as well:)
-You can read <a title="Funchal" href="http://www.ajka-andrej.com/2008/09/05/funchal/">more
-here</a>.:)
+traditions. We spent there  wonderful time in <a title="Hotel Orca Praia"
+href="{{< ref "post/2008/09/hotel-orca-praia" >}}">a hotel on a seaside</a> near 
+<a title="Funchal" href="{{< ref "post/2008/09/funchal" >}}">Funchal</a> the biggest town of Madeira.
 
 {{< gallery
     "/wp-content/uploads/2008/07/x-m11.jpg"

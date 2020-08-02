@@ -5,18 +5,16 @@ description = ""
 tags = ["island","portugal","wedding","sea"]
 categories = ["travelling","dailylife"]
 date = "2008-07-20T19:07:31"
+banner = "/wp-content/uploads/2008/07/IMG_0229t.jpg"
 +++
 
 Po dlhom hľadaní sa nám podarilo nájsť to správne miesto na svadobnú dovolenku. Je ním nádherný malý
-ostrov v Atlantickom oceáne patriaci Portugalsku. Tento ostrovček <a title="East Madeira"
-href="http://www.ajka-andrej.com/2008/09/05/eastmadeira/?lang=SK">Madeira</a> <img
-src="http://maps.google.com/intl/en_ALL/mapfiles/ms/micons/sunny.png" border="0" alt="" width="16"
-height="16" /> je obmývaný Golfským prúdom, takže je tam skvelé teplé počasie. Na ostrove sú
+ostrov v Atlantickom oceáne patriaci Portugalsku. Tento ostrovček, <a title="East Madeira"
+href="{{< ref "post/2008/09/eastmadeira" >}}">Madeira</a>, je obmývaný Golfským prúdom, takže je tam skvelé teplé počasie. Na ostrove sú
 prekrásne botanické záhrady, kopce a výhľady na oceán a sretnete veľa príjemných ľudí s kopou
-tradícií. Strávili sme tu zopár nádherných dní a spravili <a title="Madeira"
-href="http://www.ajka-andrej.com/gallery/portugal/madeira/?lang=SK">kopu krásnych fotiek</a> :)
-Viac si môžete <a title="Funchal"
-href="http://www.ajka-andrej.com/2008/09/05/funchal/?lang=SK">prečítať tu</a>.
+tradícií. Strávili sme tu zopár nádherných dní <a title="Hotel Orca Praia"
+href="{{< ref "post/2008/09/hotel-orca-praia" >}}">v hoteli pri oceáne</a> blízko mesta <a title="Funchal"
+href="{{< ref "post/2008/09/funchal" >}}">Funchal</a>, ktorý je najväčším na Madeire.
 
 {{< gallery
     "/wp-content/uploads/2008/07/x-m11.jpg"
