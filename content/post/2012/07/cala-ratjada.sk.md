@@ -5,15 +5,15 @@ description = ""
 tags = ["panoramas","spain","island","beach","sea"]
 categories = ["travelling"]
 date = "2012-07-01T10:48:48"
-banner = "/wp-content/uploads/2012/07/IMG_0039.jpg"
+banner = "/wp-content/uploads/2012/07/IMG_0039t.jpg"
 +++
 
 Tento rok sme sa nejako nevedeli rozhodnúť kam na dovolenku. Moju tradičnú túžbu po výletoch prebila
 únava z práce a nahradila ju, na mňa veľmi neobvyklá, túžba ísť k moru na peknú piesočnú pláž a výlet spraviť maximálne tak do nejakej miestnej reštiky na nejakú tú špecialitku. Andrej nechcel
 vlastným ušiam veriť (po tých rokoch so mnou už zažil všeličo, ale takú dovolenku si možno iba
 tíško predstavoval, keď sme sa dali dokopy) a chytila ho mierna panika, čo tam vlastne budeme
-robiť. Rozmýšlali sme nad <a title="ostrov Ischia"
-href="http://www.ajka-andrej.com/2008/06/28/evergreen-island/?lang=SK" target="_blank">Ischiou</a>,
+robiť. Rozmýšlali sme nad  <a title="ostrov Ischia"
+href="{{< ref "/post/2008/06/evergreen-island" >}}" target="_blank">Ischiou</a>,
 kde bolo naposledy úžasne, ale chcela som skúsiť niečo nové. Sardíniu treba rezervovať skôr kvôli
 cenám. Na Sicílií som si nevedela vybrať hotel v kombinácií s nejakým útulným mestečkom. No a
 nakoniec mi pod ruky prišla Mallorca a my sme sa vybrali do mesta Cala Ratjada na severovýchode

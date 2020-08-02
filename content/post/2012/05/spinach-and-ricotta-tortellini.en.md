@@ -8,7 +8,7 @@ date = "2012-05-12T22:15:15"
 banner = "/wp-content/uploads/2012/05/IMG_0009t.jpg"
 +++
 
-Last time I wrote  how to make a pasta dough and I dreamed about the tortellini. Than I tried to make this lovely pasta again and considering a very tasty result, I bring this recipe to you :) Make the filling first, than prepare the dough according to the <a title="pasta dough recipe" href="https://www.ajka-andrej.com/2012/01/19/pasta-maker/" target="_blank">instructions here</a> (this way the dough will not becomedry while you preparing the other things.), but use thickness 9 for the final dough sheet. Use a glass or something rounded with a diameter ca 5cm to cut circles from the dough sheets.
+Last time I wrote  how to make a pasta dough and I dreamed about the tortellini. Than I tried to make this lovely pasta again and considering a very tasty result, I bring this recipe to you :) Make the filling first, than prepare the dough according to the <a title="pasta dough recipe" href="{{< ref "/post/2012/01/pasta-maker" >}}" target="_blank">instructions here</a> (this way the dough will not becomedry while you preparing the other things.), but use thickness 9 for the final dough sheet. Use a glass or something rounded with a diameter ca 5cm to cut circles from the dough sheets.
 
 {{< gallery
     "/wp-content/uploads/2012/05/IMG_0009.jpg"

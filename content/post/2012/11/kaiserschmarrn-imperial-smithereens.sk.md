@@ -8,7 +8,7 @@ date = "2012-11-07T21:51:31"
 banner = "/wp-content/uploads/2012/11/IMG_0246t.jpg"
 +++
 
-Toto jedlo sme si obľúbili na <a title="Wallberg" href="https://www.ajka-andrej.com/sk/2010/08/24/wallberg/" target="_blank">Wallbergu</a>, kde sme si ho prvýkrát objednali len tak na výskušanie (odvtedy už len úmyselne :)). Potom som skúmala ako sa pripravuje a teraz používam tento mierne upravený recept z časopisu LandLeben.
+Toto jedlo sme si obľúbili na <a title="Wallberg" href="{{< ref "post/2010/08/wallberg" >}}" target="_blank">Wallbergu</a>, kde sme si ho prvýkrát objednali len tak na výskušanie (odvtedy už len úmyselne :)). Potom som skúmala ako sa pripravuje a teraz používam tento mierne upravený recept z časopisu LandLeben.
 
 {{< gallery
     "/wp-content/uploads/2012/11/IMG_0237.jpg"

@@ -5,7 +5,7 @@ description = ""
 tags = ["panoramas","spain","island","beach","sea"]
 categories = ["travelling"]
 date = "2012-07-01T10:48:48"
-banner = "/wp-content/uploads/2012/07/IMG_0039.jpg"
+banner = "/wp-content/uploads/2012/07/IMG_0039t.jpg"
 +++
 
 This year, we couldn't decide where to go on holiday. My usual desire for trips became unbalanced
@@ -14,7 +14,7 @@ beautiful sandy beach and at most to make a trip to some of the local restaurant
 couldn't believe his ears (after all those years with me, he has experienced many things but he
 only dreamed quietly about such a vacation with me when we became a couple) and a sudden panic
 seized him, what we're actually going to do there. We were thinking about <a title="Evergreen
-island – Ischia" href="http://www.ajka-andrej.com/2008/06/28/evergreen-island/"
+island – Ischia" href="{{< ref "/post/2008/06/evergreen-island" >}}"
 target="_blank">Ischia</a>, last time it was really great there, but I wanted to try something new.
 Sardinia must be booked in advance because of prices. And in Sicily, I couldn't choose a hotel in
 combination with some cozy town. Well, finally we went to Mallorca to the town of Cala Ratjada in

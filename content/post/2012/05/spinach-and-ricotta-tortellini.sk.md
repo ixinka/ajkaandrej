@@ -9,7 +9,7 @@ banner = "/wp-content/uploads/2012/05/IMG_0009t.jpg"
 +++
 
 Naposledy som písala o tom, ako spraviť cesto na cestovinu a tiež som snívala o tortellinoch (druh
-plnenej cestoviny).  Potom som sa odhodlala vyskúšať spraviť túto cestovinu znovu a vzhľadom na chutný výsledok sa chcem podeliť o recept :) Plnku spravte ako prvú, až potom pripravte cesto podľa <a title="receipt na cesto" href="https://www.ajka-andrej.com/sk/2012/01/19/mlyncek-na-cestovinu/" target="_blank">postupu
+plnenej cestoviny).  Potom som sa odhodlala vyskúšať spraviť túto cestovinu znovu a vzhľadom na chutný výsledok sa chcem podeliť o recept :) Plnku spravte ako prvú, až potom pripravte cesto podľa <a title="receipt na cesto" href="{{< ref "/post/2012/01/pasta-maker" >}}" target="_blank">postupu
 tu</a> (takto cesto neoschne, kým sa stihnú pripraviť ostatné veci), ale použite nastavenie 9 na
 strojčeku pre tenšie pláty cesta. Použite pohár alebo niečo okrúhle s priemerom okolo 5 cm na
 vyrezanie kruhov z cesta.

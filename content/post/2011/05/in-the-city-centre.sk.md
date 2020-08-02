@@ -10,9 +10,9 @@ banner = "/wp-content/uploads/2011/05/IMG_0003t.jpg"
 
 Tak sme sa raz opäť vybrali do mesta, ukázať našej víkendovej návšteve (Andrejkovým rodičom), ako to
 tu vyzerá a kde to vlastne žijeme. Povozili sme ich všetkými možnými vláčikmi (S-bahnom a U-bahnom a električkami), prešli sme sa nákupnou ulicou, pozreli sme obchody a vyzváňajúcu <a title="Mníchov"
-href="https://www.ajka-andrej.com/2009/11/24/munich/">vežu novej radnice</a> o jedenástej. Prekonali
-sme výškový rozdiel od mínus štvrtého poschodia v metre až po okolo 290m vo veži v <a title="Kam s
-návštevou" href="https://www.ajka-andrej.com/2009/11/25/where-to-go-with-visitors/">Olympia
+href="{{< ref "/post/2009/11/munich" >}}">vežu novej radnice</a> o jedenástej. Prekonali
+sme výškový rozdiel od mínus štvrtého poschodia v metre až po okolo 290m <a title="Kam s
+návštevou" href="{{< ref "/post/2009/11/where-to-go-with-visitors" >}}">vo veži v Olympia
 parku</a>. Na centrálnom trhovisku (Viktualienmarkt) sme si kúpili skvelé voňavé korenie na
 Bruschettu (to už som aj vyskúšala, ale myslím, že by bolo super aj na cestovinu, ale o tom
 neskôr).Po náročnej mestskej turistike sme zapadli v našej obľúbenej Biergarten a dali sme si
@@ -34,7 +34,7 @@ nakrájanou šunkou a cibuľou v octovom náleve, niekoľko praclíkov a každé
 >}}
 
 My sme si už zvykli, že malé pivo je pol litrové a celkom nás baví sledovať prekvapené pohľady pri
-poznámke, že menšie poháre ani nemajú.Po sledovaní kačiek a príjemnom oddychovaní v <a title="Jazero v Olympia parku" href="https://www.ajka-andrej.com/2010/07/05/lake-in-the-olympia-park/">Olympia parku</a> sme sa
+poznámke, že menšie poháre ani nemajú.Po sledovaní kačiek a príjemnom oddychovaní v <a title="Jazero v Olympia parku" href="{{< ref "/post/2010/07/lake-in-the-olympia-park" >}}">Olympia parku</a> sme sa
 ešte vybrali na veľký jarmok <a title="Auer Dult" href="http://www.auerdult.de/">Auer Dult</a> (Au
 je mestská časť Mníchova, Dult=jarmok). Tento sa koná len trikrát za rok a keďže som ho ešte
 nevidela a akurát sa jeden konal, neodolala som pokušeniu zavliecť všetkých medzi stánky. Ukázalo
