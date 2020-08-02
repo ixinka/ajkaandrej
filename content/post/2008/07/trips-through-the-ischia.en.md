@@ -5,9 +5,10 @@ description = ""
 tags = ["mountains","island","hiking","italy","sea"]
 categories = ["travelling"]
 date = "2008-07-23T11:19:45"
+banner = "/wp-content/uploads/gallery/italy/ischia/roundtrip/img-40t.jpg"
 +++
 
-You can make as <a title="Forio" href="http://www.ajka-andrej.com/2008/06/30/forio/">many trips</a>
+You can make as <a title="Forio" href="{{< ref "/post/2008/06/forio" >}}">many trips</a>
 as you want on this island and you will still find some other places where to go. I can say that
 one week is not long enough for it. If you like hiking you need to see the vulcan which is
 responsible for all the thermal springs around the island. The name of the vulcan is Monte Epomeo
@@ -30,8 +31,6 @@ island from the top, but it is quite difficult to take  good pictures because of
     "/wp-content/uploads/gallery/italy/ischia/monteeponeo/img-34.jpg"
     "/wp-content/uploads/gallery/italy/ischia/monteeponeo/img-3.jpg"
     "/wp-content/uploads/gallery/italy/ischia/monteeponeo/img-4.jpg"
->}}
- {{< gallery
     "/wp-content/uploads/gallery/italy/ischia/monteeponeo/img-22.jpg"
     "/wp-content/uploads/gallery/italy/ischia/monteeponeo/img-32.jpg"
     "/wp-content/uploads/gallery/italy/ischia/monteeponeo/img-7.jpg"
@@ -40,8 +39,8 @@ island from the top, but it is quite difficult to take  good pictures because of
     "/wp-content/uploads/gallery/italy/ischia/monteeponeo/img-18.jpg"
 >}}
 
-Once you are in this part of island you need to take water from t<a title="Poseidon gardens"
-href="http://www.ajka-andrej.com/2008/07/23/poseidon-gardens/">he thermal springs</a>. The most
+Once you are in this part of island you need to take water from <a title="Poseidon gardens"
+href="{{< ref "/post/2008/07/poseidon-gardens" >}}">the thermal springs</a>. The most
 famous springs in this area are 27 Celsius degrees warm springs Nitrodi and Olmitello. Nitrodi
 spring is for people having skin diseases and  infections and you can find it in Buonopane to the
 east from Fontana. Olmitello spring is suitable for making digestion better and it is near Maronti
@@ -55,24 +54,22 @@ fresh oranges and lemons with fine crushed ice at the car park.
 
 
  {{< gallery
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 068.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 089.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 060.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 090.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 083.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 070.jpg"
->}}
- {{< gallery
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 073.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 051.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 050.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 056.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 064.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 093.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_068.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_089.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_060.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_090.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_083.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_070.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_073.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_051.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_050.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_056.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_064.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_093.jpg"
 >}}
 
 There are lot of botanic gardens <a title="Evergreen island – Ischia"
-href="http://www.ajka-andrej.com/2008/06/28/evergreen-island/">on the island</a>. It is said that
+href="{{< ref "/post/2008/06/evergreen-island" >}}">on the island</a>. It is said that
 the most beautiful and the biggest one is Negombo, but we weren't there ... so we couldn't make
 everything. But we were in one cactus garden Ravino in Forio. You can even try  the cactus nectar
 here. There are lot of cactus, so we can recommended it to all who love these plants.
@@ -94,8 +91,6 @@ were great and we also bought one, which was strawberry Vino da Tavola.
     "/wp-content/uploads/gallery/italy/ischia/roundtrip/img-48.jpg"
     "/wp-content/uploads/gallery/italy/ischia/roundtrip/img-3.jpg"
     "/wp-content/uploads/gallery/italy/ischia/roundtrip/img-81.jpg"
->}}
- {{< gallery
     "/wp-content/uploads/gallery/italy/ischia/roundtrip/img-41.jpg"
     "/wp-content/uploads/gallery/italy/ischia/roundtrip/img-47.jpg"
     "/wp-content/uploads/gallery/italy/ischia/roundtrip/img-18.jpg"

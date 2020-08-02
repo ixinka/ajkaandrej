@@ -5,13 +5,14 @@ description = ""
 tags = ["island","italy","sea"]
 categories = ["travelling"]
 date = "2008-06-28T20:44:19"
+banner = "/wp-content/uploads/gallery/italy/ischia/citara/Picture_017t.jpg"
 +++
 
 We spent a wonderfull week in Italy last summer. We decided to get known an evergreen thermal <a
 title="Trips through the Ischia"
-href="http://www.ajka-andrej.com/2008/07/23/trips-through-the-ischia/">island Ischia</a> and people
+href="{{< ref "/post/2008/07/trips-through-the-ischia" >}}">island Ischia</a> and people
 who live there. We tasted several food specialities and relish thermal spa with plenty of thermal
-<a title="Poseidon gardens" href="http://www.ajka-andrej.com/2008/07/23/poseidon-gardens/">springs
+<a title="Poseidon gardens" href="{{< ref "/post/2008/07/poseidon-gardens" >}}">springs
 and swimming pools</a>. The sun was shining, a pleasant wind was blowing when we rest on the beach
 and we felt like in paradise.This picturesque island could be also characterized by huge lemons and sweet grapes, which we tried
 several times. It is said that the lemons are not chemical sprayed here and they are so big, good
@@ -21,11 +22,11 @@ clouds on otherwise clear sky during the whole vacation. There is quite high hum
 from fresh lemons and fine crushed ice.
 
 {{< gallery
-    "/wp-content/gallery/italy/ischia/forio/img-19.jpg"
-    "/wp-content/gallery/italy/ischia/roundtrip/img-1.jpg"
-    "/wp-content/gallery/italy/ischia/roundtrip/img-16.jpg"
-    "/wp-content/gallery/italy/ischia/roundtrip/img-47.jpg"
-    "/wp-content/gallery/italy/ischia/cava/img-13.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/img-19.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/roundtrip/img-1.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/roundtrip/img-14.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/roundtrip/img-47.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/citara/Picture_017.jpg"
 >}}
 
 The lemon juice is also combined with orange juice and fine crushed ice (two oranges with half lemon

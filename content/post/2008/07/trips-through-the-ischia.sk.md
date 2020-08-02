@@ -5,9 +5,10 @@ description = ""
 tags = ["mountains","island","hiking","italy","sea"]
 categories = ["travelling"]
 date = "2008-07-23T11:19:45"
+banner = "/wp-content/uploads/gallery/italy/ischia/roundtrip/img-40t.jpg"
 +++
 
-<a title="Forio" href="http://www.ajka-andrej.com/2008/06/30/forio/?lang=SK">Výletov</a> sa na tomto
+<a title="Forio" href="{{< ref "/post/2008/06/forio" >}}">Výletov</a> sa na tomto
 ostrove dá robiť viac než dosť a obávam sa, že týžeň na to nestačí. Ak nie ste odporcami mierne
 turistických výletov, tak treba určite navštíviť sopku, vďaka ktorej sa tento ostrov volá termálnym
 a vyviera tu množstvo prameňov. Sopka sa volá Monte Epomeo a momentálne je síce činná, ale
@@ -29,8 +30,6 @@ fotky sa tam veľmi nedajú robiť vzhľadom na to, ako je všetko presvetlené 
     "/wp-content/uploads/gallery/italy/ischia/monteeponeo/img-34.jpg"
     "/wp-content/uploads/gallery/italy/ischia/monteeponeo/img-3.jpg"
     "/wp-content/uploads/gallery/italy/ischia/monteeponeo/img-4.jpg"
->}}
- {{< gallery
     "/wp-content/uploads/gallery/italy/ischia/monteeponeo/img-22.jpg"
     "/wp-content/uploads/gallery/italy/ischia/monteeponeo/img-32.jpg"
     "/wp-content/uploads/gallery/italy/ischia/monteeponeo/img-7.jpg"
@@ -41,7 +40,7 @@ fotky sa tam veľmi nedajú robiť vzhľadom na to, ako je všetko presvetlené 
 
 Keď už sa vyberiete až do týchto končín ostrova, treba si ísť určite nabrať vodu z <a
 title="Poseidon gardens"
-href="http://www.ajka-andrej.com/2008/07/23/poseidon-gardens/?lang=SK">minerálnych prameňov</a>.
+href="{{< ref "/post/2008/07/poseidon-gardens" >}}">minerálnych prameňov</a>.
 Najznámejšie v tejto lokalite sú asi 27 stupňové pramene Nitrodi a Olmitello. Nitrodi je preľ?udí s
 kožnými problémami a infekciami v mestečku Buonopane na východ od Fontany a prameň Olmitello vhodný
 na tráviace ústrojenstvo je prístupný s pláže Maronti. Na pláži v Maronti sme boli. Je to 2km dlhá
@@ -54,24 +53,22 @@ na parkovisku si tu určite nezabudnite dať šťavu z čerstvých pomarančov a
 
 
  {{< gallery
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 068.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 089.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 060.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 090.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 083.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 070.jpg"
->}}
- {{< gallery
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 073.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 051.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 050.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 056.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 064.jpg"
-    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture 093.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_068.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_089.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_060.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_090.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_083.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_070.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_073.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_051.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_050.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_056.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_064.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/maronti/Picture_093.jpg"
 >}}
 
 <a title="Evergreen island – Ischia"
-href="http://www.ajka-andrej.com/2008/06/28/evergreen-island/?lang=SK">Na ostrove</a> majú vďaka
+href="{{< ref "/post/2008/06/evergreen-island" >}}">Na ostrove</a> majú vďaka
 bujnej vegetácií veľmi veľa botanických záhrad. Najkrajšia a najväčšia je vraj Negombo, ale v nej
 sme neboli...nedá sa stihnúť všetko. No boli sme si pozrieť jednu kaktusovú záhradu Ravino vo
 Foriu. Dá sa tam dokonca ochutnať aj nejaký kaktusový nektár. No a kaktusov je v nej viac než dosť,
@@ -79,7 +76,6 @@ takže odporúčame všetkým milovníkom kaktusov.
 
 
 {{< video src="/wp-content/uploads/2008/07/movie8.mp4" height="240" width="320" >}}
-
 
 
 Čo sme ešte vyskúšali boli miestne špeciálne likéry a vína. Z likérov sú to Limonchello (z citrónov)
@@ -94,8 +90,6 @@ a jedno sme si odniesli aj so sebou - jahodové Vino da Tavola.
     "/wp-content/uploads/gallery/italy/ischia/roundtrip/img-48.jpg"
     "/wp-content/uploads/gallery/italy/ischia/roundtrip/img-3.jpg"
     "/wp-content/uploads/gallery/italy/ischia/roundtrip/img-81.jpg"
->}}
- {{< gallery
     "/wp-content/uploads/gallery/italy/ischia/roundtrip/img-41.jpg"
     "/wp-content/uploads/gallery/italy/ischia/roundtrip/img-47.jpg"
     "/wp-content/uploads/gallery/italy/ischia/roundtrip/img-18.jpg"
