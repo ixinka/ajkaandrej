@@ -5,6 +5,7 @@ description = ""
 tags = ["island","italy"]
 categories = ["travelling"]
 date = "2008-06-30T18:35:56"
+banner = "/wp-content/uploads/gallery/italy/ischia/forio/Picture_179t.jpg"
 +++
 
 After a long decision making we decided to stay in this hotel. We booked it even in a sale through
@@ -23,11 +24,11 @@ that in case we didn't finish our bottle of wine or water, we found it cooled ne
 table.
 
 {{< gallery
-    "/wp-content/gallery/italy/ischia/forio/img-94.jpg"
-    "/wp-content/gallery/italy/ischia/forio/img-93.jpg"
-    "/wp-content/gallery/italy/ischia/forio/img-98.jpg"
-    "/wp-content/gallery/italy/ischia/forio/2img-27.jpg"
-    "/wp-content/gallery/italy/ischia/forio/2img-26.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/img-94.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/Picture_040.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/Picture_140.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/Picture_159.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/2img-26.jpg"
 >}}
 
 Our room was cosy and quite big. We had a big fan in our bedroom and we also could have an air
@@ -36,16 +37,16 @@ near the swimming pool, so we didn't want it. After couple of days we found out 
 blinds properly. We shut them during the day against the sun and warm and to keep our room cold and
 we opened them in the evening to let cold breeze go in. The hotel area was really beautiful. There
 was green soft lawn everywhere, many palm trees and different sculptures. There were two <a
-title="Poseidon gardens" href="http://www.ajka-andrej.com/2008/07/23/poseidon-gardens/">swimming
+title="Poseidon gardens" href="{{< ref "/post/2008/07/poseidon-gardens" >}}">swimming
 pools</a>. One of them with water about 33 degrees in the greenhouse and the second one outside
 with lounge chairs and parasols all around.
 
 {{< gallery
-    "/wp-content/gallery/italy/ischia/forio/img-108.jpg"
-    "/wp-content/gallery/italy/ischia/forio/img-106.jpg"
-    "/wp-content/gallery/italy/ischia/forio/img-105.jpg"
-    "/wp-content/gallery/italy/ischia/forio/img-104.jpg"
-    "/wp-content/gallery/italy/ischia/forio/img-103.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/Picture_162.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/Picture_163.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/Picture_164.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/Picture_179.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/Picture_273.jpg"
 >}}
 
 With speaking about the food we can't complain that we would be hungry :) The breakfast was in form

@@ -5,6 +5,7 @@ description = ""
 tags = ["island","italy"]
 categories = ["travelling"]
 date = "2008-06-30T18:35:56"
+banner = "/wp-content/uploads/gallery/italy/ischia/forio/Picture_179t.jpg"
 +++
 
 V tomto hoteli sme sa po dlho hľadaní v cestovkách rozhodli bývať. Teta v cestovke nám dala zľavu na
@@ -21,17 +22,17 @@ veľmi milý obaja, na začiatku sme dostali stôl, pri ktorom sme boli zvyšok 
 že ak sme nedopili fľašu vody alebo vína, tak sme si ju našli vychladenú ďaľší deň na stole.
 
 {{< gallery
-    "/wp-content/gallery/italy/ischia/forio/img-94.jpg"
-    "/wp-content/gallery/italy/ischia/forio/img-93.jpg"
-    "/wp-content/gallery/italy/ischia/forio/img-98.jpg"
-    "/wp-content/gallery/italy/ischia/forio/2img-27.jpg"
-    "/wp-content/gallery/italy/ischia/forio/2img-26.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/img-94.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/Picture_040.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/Picture_140.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/Picture_159.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/2img-26.jpg"
 >}}
 
 Naša izba bola útulná a celkom priestranná. Na stene v spalni sme mali aj primontovaný veľký
 ventilátor a v prípade záujmu by nám spojazdnili aj klimatizáciu. To sme ale nevyužili vzhľadom na
 to, že sme boli prakticky celý deň mimo hotela alebo pri hotelovom <a title="Poseidon gardens"
-href="http://www.ajka-andrej.com/2008/07/23/poseidon-gardens/?lang=SK">bazéne</a>. Navyše sme
+href="{{< ref "/post/2008/07/poseidon-gardens" >}}">bazéne</a>. Navyše sme
 prišli na to, ako narábať so žalúziami, ktoré zdobia každé talianske okno. Cez deň sme ich
 zavierali, aby do izby nešlo teplo a udržal sa v nej chlad a na večer sme ich rozostreli, aby sa
 dnu dostal chladný vánok z vonku. Areál hotela bol veľmi pekný a príjemný. Všade mali zelené
@@ -40,11 +41,11 @@ sošky. Boli tu dva bazény, jeden termálny v takom skleníku s 33 stupňovou v
 nezastrešený s lehátkami okolo.
 
 {{< gallery
-    "/wp-content/gallery/italy/ischia/forio/img-108.jpg"
-    "/wp-content/gallery/italy/ischia/forio/img-106.jpg"
-    "/wp-content/gallery/italy/ischia/forio/img-105.jpg"
-    "/wp-content/gallery/italy/ischia/forio/img-104.jpg"
-    "/wp-content/gallery/italy/ischia/forio/img-103.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/Picture_162.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/Picture_163.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/Picture_164.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/Picture_179.jpg"
+    "/wp-content/uploads/gallery/italy/ischia/forio/Picture_273.jpg"
 >}}
 
 No a čo sa stravy týka, hladný sme teda rozhodne neboli :) Raňajky sme mali na spôsob švédskych
