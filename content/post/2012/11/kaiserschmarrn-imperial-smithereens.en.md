@@ -8,7 +8,7 @@ date = "2012-11-07T21:51:31"
 banner = "/wp-content/uploads/2012/11/IMG_0246t.jpg"
 +++
 
-We discovered this sweet meal at <a title="Wallberg" href="{{< ref "post/2010/08/wallberg" >}}" target="_blank">Wallberg</a>. First time, we ordered it just to try what it tastes like  (since then only on purpose :)). Then I looked for some good recipe and how to prepare it and now I use this slightly modified recipe from the LandLeben magazine.
+We discovered this sweet meal at <a title="Wallberg" href="{{< ref "/post/2010/08/wallberg" >}}" target="_blank">Wallberg</a>. First time, we ordered it just to try what it tastes like  (since then only on purpose :)). Then I looked for some good recipe and how to prepare it and now I use this slightly modified recipe from the LandLeben magazine.
 
 {{< gallery
     "/wp-content/uploads/2012/11/IMG_0237.jpg"
