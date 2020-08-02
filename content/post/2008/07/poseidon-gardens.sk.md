@@ -5,13 +5,14 @@ description = ""
 tags = ["island","beach","italy","sea"]
 categories = ["travelling"]
 date = "2008-07-23T11:24:04"
+banner = "/wp-content/uploads/gallery/italy/ischia/poseidongardens/img-43t.jpg"
 +++
 
 Uprostred týždňa sme sa vybrali na výlet do Poseidonových záhrad. Trošku sme sa obávali horúcej
 termálnej vody v bazénoch v tom teple a mali sme aj mierne viac opalené nohy, ako je do horúcej
 vody vhodné :) Trochu s úzkosťou sme sa ráno pozerali na sivé mráčiky, ktoré prvýkrát zahalili náš <a title="Trips
 through the Ischia"
-href="http://www.ajka-andrej.com/2008/07/23/trips-through-the-ischia/?lang=SK">jediný kopec</a>,
+href="{{< ref "/post/2008/07/trips-through-the-ischia" >}}">jediný kopec</a>,
 ale po raňajkách, zaplávaní v bazéne a krátkom čítaní na lehátkach sme sa vydali na pláž Citara
 smerom k Poseidonovým záhradam. Kúpili sme si lístok do záhrad a keďže sme mali vstup až o jednej a
 more vytváralo perfektné veľké vlny, zakotvili sme na pláži. Hojdali sme sa na vlnách, niekoľkokrát
@@ -33,7 +34,7 @@ nás vyplavili aj na breh a oplieskali o zem, ale inak to bolo super :)
 >}}
 
 Keďže baterky vo foťáku vypovedali a druhé sme nechali na hoteli, urobili sme si vychádzku <a
-title="Hotel Corona***" href="http://www.ajka-andrej.com/2008/06/30/hotel-corona/?lang=SK">do
+title="Hotel Corona***" href="{{< ref "/post/2008/06/hotel-corona" >}}">do
 hotela</a> a späť k záhradam. V areáli záhrad bolo úžasne. Celé sme ich pobehali, pofotili,
 vyskúšali, čo sa dalo, aj keď občas s problémami vzhľadom na naše opálené nožičky. Striedali sme
 lehátka a bazény a odskočili sme si aj do vyhradenej pláže záhrad pri mori. Dali sme si niečo pod
@@ -41,8 +42,9 @@ zub (obrovský červený melón, bruschettu s cesnakom a espresso) a vychutnali 
 siedmej.
 
 {{< gallery
-    "/wp-content/uploads/2008/07/poseidon_mapka_vekt.png"
+    "/wp-content/uploads/2008/07/poseidon_mapka_vekt.jpg"
 >}}
+
 Areál Poseidonových záhrad je pomerne veľký a veľmi pekne zakomponovaný do prírody. Pri návšteve
 treba počítať s tým, že len prezretím a prípadným krátkym vyskúšaním bazénov sa dajú minúť tak dve
 - tri hodinky. V pokladni s lístkami vás privíta s úsmevom dobre anglicky hovoriaci chlapík, môžete
@@ -59,7 +61,6 @@ je prechádzať z jedného do druhého. No Andrejkovi sa podarilo namočiť sa v
 
 
 {{< video src="/wp-content/uploads/2008/07/movie16.mp4" height="240" width="320" >}}
-
 
 
 Podobný prechod medzi teplotami využívala tiež Japonská liečba, ktorú predstavoval oválny bazénik, v
@@ -111,5 +112,5 @@ na miernu radioaktivitu termálnych prameňov, majú deti do termálnych bazéno
 počet bazénov, v ktorých sa môžu vyblázniť je dosť a dva sú určené dokonca len pre ne.Urobili sme
 si aj krásnu prechádzku pozdĺž tzv. panoramatickej cesty, až kým sme neprišli k tabuľke ďalej len
 na vlastné nebezpečie. Určite sa oplatí vidieť každé zákutie, minimálne kvôli <a title="Evergreen
-island – Ischia" href="http://www.ajka-andrej.com/2008/06/28/evergreen-island/?lang=SK">nádhernej
+island – Ischia" href="{{< ref "/post/2008/06/evergreen-island" >}}">nádhernej
 prírode</a>, ktorá bola všade navôkol.

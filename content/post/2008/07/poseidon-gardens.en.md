@@ -5,12 +5,13 @@ description = ""
 tags = ["island","beach","italy","sea"]
 categories = ["travelling"]
 date = "2008-07-23T11:24:04"
+banner = "/wp-content/uploads/gallery/italy/ischia/poseidongardens/img-43t.jpg"
 +++
 
 We went out on a day trip to Poseidon gardens in the middle of the week. We were little bit afraid
 of the hot termal water in the swimming pools in such a warm weather and we had also sunburn more
 than it's appropriate in the hot water :) We had concern about the weather when we saw first time <a title="Trips through the Ischia"
-href="http://www.ajka-andrej.com/2008/07/23/trips-through-the-ischia/">the only hill </a>on the
+href="{{< ref "/post/2008/07/trips-through-the-ischia" >}}">the only hill </a>on the
 island covered with the grey clouds in the morning, but after breakfast, swimming in the pool and
 reading on the sun beds we set off for the trip towards the Citara beach and Poseidon gardens. We
 bought the tickets with entrance in the afternoon and decided to spent free time before it on the
@@ -33,7 +34,7 @@ was brilliant :)
 >}}
 
 Unfortunatelly, the batteries in our camera died and we didn't have new one, so we had to walk back
-to <a title="Hotel Corona***" href="http://www.ajka-andrej.com/2008/06/30/hotel-corona/">the
+to <a title="Hotel Corona***" href="{{< ref "/post/2008/06/hotel-corona" >}}">the
 hotel</a>. In the area of gardens everything was wonderful. We walked everywhere, took pictures and
 tried everything we could with regard to our sunburn. We were changing the sun beds and swimming
 pools and we also spent some time on the beach which was set aside for visitors of gardens. We had
@@ -41,8 +42,9 @@ a nice lunch ( huge red melon, bruschetta with garlic and espresso) and we relis
 the evening.
 
 {{< gallery
-    "/wp-content/uploads/2008/07/poseidon_mapka_vekt.png"
+    "/wp-content/uploads/2008/07/poseidon_mapka_vekt.jpg"
 >}}
+
 Area of Poseidon gardens is quite big and build in the nature carefully. When you visit this place
 you need to take into account that you will spent three hours just with short review of the
 swimming pools. Cashier welcomed us cheerfully with very good english. It is possible to buy
@@ -61,8 +63,6 @@ hot and cold water and Andrej was able to dip himself up to his waist :)
 
 
 {{< video src="/wp-content/uploads/2008/07/movie16.mp4" height="240" width="320" >}}
-
-
 
 Similar change between temperatures was used by Japanese cure. It was oval shaped pool, in which you
 walked around the centre. In one half of the way there was warm water, in the second one cold
@@ -113,6 +113,6 @@ to be in the pools with this water, but there are many of swimming pools where t
 two of them are intended only for them.We also walked along the panorama path which offered us a
 wonderful view till we reached the sign - beyond this point only on your own risk. It's really
 worth to see every secluded place, at least because of <a title="Evergreen island – Ischia"
-href="http://www.ajka-andrej.com/2008/06/28/evergreen-island/">beautiful nature</a>, which was
+href="{{< ref "/post/2008/06/evergreen-island" >}}">beautiful nature</a>, which was
 everywhere around us.
 
