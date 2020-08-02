@@ -5,17 +5,18 @@ description = ""
 tags = ["panoramas","island","beach","italy","sea"]
 categories = ["travelling"]
 date = "2008-06-30T17:46:39"
+banner = "/wp-content/uploads/2011/04/soccorso1t.jpg"
 +++
 
 This is the town were we lived in a wonderful <a title="Hotel Corona***"
-href="http://www.ajka-andrej.com/2008/06/30/hotel-corona/">hotel Corona</a>, which we can only
+href="{{< ref "/post/2008/06/hotel-corona" >}}">hotel Corona</a>, which we can only
 recommend. It is said to be the most visited place by tourists <a title="Evergreen island – Ischia"
-href="http://www.ajka-andrej.com/2008/06/28/evergreen-island/">on the island</a>. It has several
+href="{{< ref "/post/2008/06/evergreen-island" >}}">on the island</a>. It has several
 beaches (we saw and tried all of them), nice centre, several churches and countless streets, which
 are <a title="Trips through the Ischia"
-href="http://www.ajka-andrej.com/2008/07/23/trips-through-the-ischia/">worth walking</a>. This town
+href="{{< ref "/post/2008/07/trips-through-the-ischia" >}}">worth walking</a>. This town
 is also famous by wine production and amazing thermal park <a title="Poseidon gardens"
-href="http://www.ajka-andrej.com/2008/07/23/poseidon-gardens/">Poseidon gardens</a>.The most famous church is Soccorso's church devoted to Santa Naria delle Neve, which can be seen in
+href="{{< ref "/post/2008/07/poseidon-gardens" >}}">Poseidon gardens</a>.The most famous church is Soccorso's church devoted to Santa Naria delle Neve, which can be seen in
 the movie Avanti! (1972) filmed at this place. We saw it during the travelling to Ischia in the bus
 and it's really nice light comedy. This church and its surroundings is considered as one of the
 most romantic places and you can see there a beautiful sunset. We took panorama picture from this

@@ -5,17 +5,18 @@ description = ""
 tags = ["panoramas","island","beach","italy","sea"]
 categories = ["travelling"]
 date = "2008-06-30T17:46:39"
+banner = "/wp-content/uploads/2011/04/soccorso1t.jpg"
 +++
 
 Tak v tomto mestečku sme bývali, v <a title="Hotel Corona***"
-href="http://www.ajka-andrej.com/2008/06/30/hotel-corona/?lang=SK">hoteli Corona</a>, ktorý môžeme
+href="{{< ref "/post/2008/06/hotel-corona" >}}">hoteli Corona</a>, ktorý môžeme
 len odporúčiť. Toto mesto je asi najviac navštevované turistami z <a title="Evergreen island –
-Ischia" href="http://www.ajka-andrej.com/2008/06/28/evergreen-island/?lang=SK">celého ostrova</a>.
+Ischia" href="{{< ref "/post/2008/06/evergreen-island" >}}">celého ostrova</a>.
 Má niekoľko pláži (všetky sme boli pozrieť a vyskúšať :)), príjemné obchodné centrum, niekoľko
 kostolíkov a nespočetne veľa rôznych uličiek, ktoré <a title="Trips through the Ischia"
-href="http://www.ajka-andrej.com/2008/07/23/trips-through-the-ischia/?lang=SK">stoja za
+href="{{< ref "/post/2008/07/trips-through-the-ischia" >}}">stoja za
 prechádzku</a>. Známe je tiež produkciou vína a úžasným termálnym parkom <a title="Poseidon
-gardens" href="http://www.ajka-andrej.com/2008/07/23/poseidon-gardens/?lang=SK">Poseidonove
+gardens" href="{{< ref "/post/2008/07/poseidon-gardens" >}}">Poseidonove
 záhrady</a>.Najznámejším kostolíkom je kostol Santa Maria delle Neve - Soccorso, ktorý sa dosť veľakrát objavil
 aj vo filme Nebožtíci prajú láske, ktorý bol celý nakrútený na ostrove Ischia a naši milí vodiči
 nám ho pustili v autobuse na ceste na dovolenku. Kostolík aj s námestím okolo sa považuje za jedno
