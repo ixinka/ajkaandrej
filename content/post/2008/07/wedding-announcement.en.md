@@ -5,9 +5,10 @@ description = ""
 tags = ["wedding"]
 categories = ["dailylife"]
 date = "2008-07-10T08:32:05"
+banner = "/wp-content/uploads/2008/07/oznamko_vpredu_pinkt.jpg"
 +++
 
-Here are <a title="Introduction" href="http://www.ajka-andrej.com/2008/06/20/introduction/">our
+Here are <a title="Married" href="{{< ref "/post/2008/06/married" >}}">our
 wedding</a> announcements. The green one for boys and the pink version for girls :)
 
 {{< gallery
@@ -17,6 +18,6 @@ wedding</a> announcements. The green one for boys and the pink version for girls
     "/wp-content/uploads/2008/07/oznamko_vnutri_pink.jpg"
 >}}
 
-Translation: We like each other, so we are getting married.
+Translation: We like each other, so we are simply getting married.
 
 16th of August 2008 at 4pm in Virgin Mary's roman catholic church in Senica (Slovakia).

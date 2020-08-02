@@ -5,10 +5,11 @@ description = ""
 tags = ["wedding"]
 categories = ["dailylife"]
 date = "2008-09-04T21:55:28"
+banner = "/wp-content/uploads/2008/09/201t.jpg"
 +++
 
-Keďže sme plánovali osláviť našu <a title="Introduction"
-href="http://www.ajka-andrej.com/2008/06/20/introduction/?lang=SK">svadbu </a>poriadne,
+Keďže sme plánovali osláviť našu <a title="Zosobášení"
+href="{{< ref "/post/2008/06/married" >}}">svadbu </a>poriadne,
 zorganizovali sme deň pred ňou ešte aj grilovačku. Pre istotu sme začali aj piť, aby sme sa udržali
 v dobrej kondícií pre nastávajúci deň (iba žartujem :) ). Moja skvelá tetuška sa podujala pripraviť mäso (v čom je skutočne dobrá), ale nemohli sme nájsť
 žiadne zápalky a tak jej Andrejov ocinko pomohol s ohňom (nie veľmi tradičným spôsobom, ako môžte

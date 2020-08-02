@@ -5,10 +5,11 @@ description = ""
 tags = ["wedding"]
 categories = ["dailylife"]
 date = "2008-09-04T21:55:28"
+banner = "/wp-content/uploads/2008/09/201t.jpg"
 +++
 
-Since we planned to celebrate our <a title="Introduction"
-href="http://www.ajka-andrej.com/2008/06/20/introduction/">wedding</a> properly, we oganized
+Since we planned to celebrate our <a title="Married"
+href="{{< ref "/post/2008/06/married" >}}">wedding</a> properly, we oganized
 barbecue one day before our big day. We started to drink as well to be in a good condition for the
 next day (i'm joking :) ). My lovely aunt took charge of preparing the meat (she is really good in it), but we couldn't find
 the matches so Andrej's father helped her with the fire (in not very traditional way, as you can

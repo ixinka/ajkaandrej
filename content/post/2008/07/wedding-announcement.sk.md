@@ -5,10 +5,11 @@ description = ""
 tags = ["wedding"]
 categories = ["dailylife"]
 date = "2008-07-10T08:32:05"
+banner = "/wp-content/uploads/2008/07/oznamko_vpredu_pinkt.jpg"
 +++
 
-Tak toto sú naše <a title="Introduction"
-href="http://www.ajka-andrej.com/2008/06/20/introduction/?lang=SK">svadobné</a> oznámenia. Zelené
+Tak toto sú naše <a title="Zosobášení"
+href="{{< ref "/post/2008/06/married" >}}">svadobné</a> oznámenia. Zelené
 pre chlapcov a ružové pre dievčatá :)
 
 {{< gallery
