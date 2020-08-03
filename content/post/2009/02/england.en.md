@@ -5,23 +5,16 @@ description = ""
 tags = ["england"]
 categories = ["dailylife"]
 date = "2009-02-16T22:28:40"
+banner = "/wp-content/uploads/gallery/england/IMG_0255t.jpg"
 +++
 
-I have already lived in <a title="England"
-href="http://www.ajka-andrej.com/gallery/england/">England</a> for one and half year and I haven't
+I have already lived in for one and half year and I haven't
 written anything about it yet. Well, I decided to write more about how it is to live in this
 country. First I need to say that it's quite nice evergreen country with temperature around 15 degrees almost
 all the year. What is really fascinating, the weather can be changed several times over the one
 day. I have one warning for summer lovers; you shouldn't come here :) But it will be a paradise for
 those who desperately love raining and clouds. Speaking of weather ... it's always good thing to
 talk about among friends here.
-
-{{< gallery
-    "/wp-content/gallery/england/campus/img-18.JPG"
-    "/wp-content/gallery/england/campus/img-21.JPG"
->}}</a>{{< gallery
-    "/wp-content/gallery/england/coventry/IMG_0150.jpg"
->}}
 
 When I first came here I was enchantment with the environment. There is beautiful green grass
 everywhere and every house has facade from typical bricks. Even Tesco looks nice not like ugly box
@@ -32,6 +25,7 @@ the common thing is that people are used to cold, they usually don't wear socks 
 of open shoes even in snowy weather. Hm ... I would like to be so hardy sometimes. Anyway, if you
 really want to know, what I'm talking about, just go for clubbing during the winter, sit down in
 the club with the glass of good wine, watch and enjoy :)You would need to be English to understand.
+
 After a while you will find out that most of the days during the year is cloudy weather, when
 everything is grey and it's really difficult to get up in the morning and you will need to learn
 many ways how to make yourself happy.The worst combination is cold day with drizzling, when you can
@@ -41,10 +35,17 @@ the sun is shining, you are perfectly happy and you relish that. I have never be
 the sun than here.
 
 {{< gallery
-    "/wp-content/gallery/england/york/IMG_0249.jpg"
-    "/wp-content/gallery/england/york/IMG_0255.jpg"
-    "/wp-content/gallery/england/leamingtonspa/IMG_0140.jpg"
-    "/wp-content/gallery/england/birmingham/IMG_0020.jpg"
+    "/wp-content/uploads/gallery/england/IMG_0001.jpg"
+    "/wp-content/uploads/gallery/england/IMG_0004.jpg"
+    "/wp-content/uploads/gallery/england/IMG_0017.jpg"
+    "/wp-content/uploads/gallery/england/IMG_0020.jpg"
+    "/wp-content/uploads/gallery/england/IMG_0140.jpg"
+    "/wp-content/uploads/gallery/england/IMG_0177.jpg"
+    "/wp-content/uploads/gallery/england/IMG_0189.jpg"
+    "/wp-content/uploads/gallery/england/IMG_0196.jpg"
+    "/wp-content/uploads/gallery/england/IMG_0200.jpg"
+    "/wp-content/uploads/gallery/england/IMG_0249.jpg"
+    "/wp-content/uploads/gallery/england/IMG_0255.jpg"
 >}}
 
 Another interesting thing is food. Typical english food is fish and chips with peas, what is
