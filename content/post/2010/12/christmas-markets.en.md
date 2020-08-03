@@ -5,6 +5,7 @@ description = ""
 tags = ["germany","munich"]
 categories = ["dailylife"]
 date = "2010-12-07T12:20:58"
+banner = "/wp-content/uploads/2010/12/IMG_00061t.jpg"
 +++
 
 During the weekend, we went to the Christmas markets. There are quite a lot of them in Munich.

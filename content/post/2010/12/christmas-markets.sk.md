@@ -5,6 +5,7 @@ description = ""
 tags = ["germany","munich"]
 categories = ["dailylife"]
 date = "2010-12-07T12:20:58"
+banner = "/wp-content/uploads/2010/12/IMG_00061t.jpg"
 +++
 
 Cez víkend sme sa boli pozrieť na vianočných trhoch. V Mníchove je ich celkom dosť, v podstate má
@@ -17,18 +18,18 @@ na krájanie, varešky a pod.), na ktoré vám ujo na želanie nakreslil rôzne 
 čo sa podobá na pizzu, na ktorej je niečo medzi smotanou a tvarohom, cibuľka a slaninka a chutí to
 neuveriteľne dobre (Flammkuchen).
 
-
 {{< gallery
     "/wp-content/uploads/2010/12/IMG_0004.jpg"
     "/wp-content/uploads/2010/12/IMG_00061.jpg"
     "/wp-content/uploads/2010/12/IMG_0007.jpg"
     "/wp-content/uploads/2010/12/IMG_00081.jpg"
 >}}
+
 Tieto trhy mali ale dva nedostatky. Nebol tu skoro žiadny sneh. Všetko  bolo poctivo odpratané a
 posypané kamienkami, takže sa strácala  atmosféra zimy. No a potom tu bolo strašne veľa ľudí,
 turistov a medzi  stánkami sme sa pohybovali tak nejako s davom. Tak sme si povedali, že  skúsime
 ísť na trhy do Englischer Garten, keď už pre nič iné <a title="Walking in the park"
-href="http://www.ajka-andrej.com/2010/12/07/walking-in-the-park/?lang=SK" target="_blank">aspoň sa 
+href="{{< ref "/post/2010/12/walking-in-the-park" >}}" target="_blank">aspoň sa 
 prejdeme</a>. Nejako sa nám podarilo pretlačiť sa do metra a vystúpiť.  Ocitli sme sa pred
 zasneženým parkom obklopení deckami so sánkami. Tieto  trhy stáli zato. Stánky s občerstvením
 mierne prevyšovali tie ostatné.  Všade kopa snehu, vianočná hudba a ľúdia zohrievajúci si ruky
