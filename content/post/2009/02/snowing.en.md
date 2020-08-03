@@ -5,6 +5,7 @@ description = ""
 tags = ["england"]
 categories = ["dailylife"]
 date = "2009-02-04T23:39:23"
+banner = "/wp-content/uploads/gallery/england/coventry/IMG_0006t.jpg"
 +++
 
 I love white winter especially white Christmas :) , but I couldn't see any snow even at home last
@@ -19,11 +20,8 @@ people who took pictures of their friends making snowy angels on the ground. Wel
 but it made me happy at least for a while :)
 
 {{< gallery
-    "/wp-content/gallery/england/coventry/IMG_0229.jpg"
-    "/wp-content/gallery/england/coventry/IMG_0240.jpg"
->}}<img class="ngg-singlepic ngg-left"
-src="http://www.ajka-andrej.com/wp-content/gallery/england/coventry/thumbs/thumbs_IMG_0229.jpg"
-alt="IMG_0229" /></a>{{< gallery
-    "/wp-content/gallery/england/coventry/IMG_0241.jpg"
-    "/wp-content/gallery/england/coventry/IMG_0006.JPG"
+    "/wp-content/uploads/gallery/england/coventry/IMG_0003.jpg"
+    "/wp-content/uploads/gallery/england/coventry/IMG_0004.jpg"
+    "/wp-content/uploads/gallery/england/coventry/IMG_0005.jpg"
+    "/wp-content/uploads/gallery/england/coventry/IMG_0006.jpg"
 >}}
