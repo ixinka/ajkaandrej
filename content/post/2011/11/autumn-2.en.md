@@ -5,12 +5,12 @@ description = ""
 tags = ["germany"]
 categories = ["dailylife"]
 date = "2011-11-21T21:59:30"
-banner = "/wp-content/uploads/2011/11/IMG_00102.jpg"
+banner = "/wp-content/uploads/2011/11/IMG_00102t.jpg"
 +++
 
 This season is actually already at the end, but it occurred to me that I still have some photos I didn't show you. We walked again to the local tower and on its top,
-because it seemed to me that an autumn view might be worth it and I was right. ( You can see<a
-href="http://www.ajka-andrej.com/2011/08/31/ebersberg/">the summer view here</a>.) Everything was
+because it seemed to me that an autumn view might be worth it and I was right. ( You can see <a
+href="{{< ref "/post/2011/08/ebersberg" >}}" target="_blank">the summer view here</a>.) Everything was
 so beautifully coloured. We just need to set off earlier because it becomes dark very quickly.  The
 tower was covered completely with ladybugs, they probably had there some kind of meeting and
 children flew the kites on the meadow. On the way home, we met a squad of hens and the label
