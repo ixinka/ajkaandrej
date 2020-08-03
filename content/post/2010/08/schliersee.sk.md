@@ -5,6 +5,7 @@ description = ""
 tags = ["panoramas","mountains","ruins","germany","lake"]
 categories = ["travelling"]
 date = "2010-08-15T20:58:24"
+banner = "/wp-content/uploads/gallery/germany/lakes/schliersee/IMG_0067t.JPG"
 +++
 
 Tak sa nám podarilo ísť na jeden z plánovaných výletov (v turistickej knižke ich mám ešte 37 :)). V
@@ -44,6 +45,3 @@ to nedalo a tak sme rozmýšlali ako prejsť nerušene okolo tých kráv. Bezrad
 oni na nás, keď Andrej našiel drevené palice pri plote. Tak jednu vzal a zahnal kravy nabok, aby
 sme mohli prejsť (môj hrdina :)). Onedlho sme ďalším prechodom vyšli z pastviny von a zišli sme
 späť k jazeru. Tomu sa povie maximálne splynutie s prírodou. :)
-
-<img alt="Schliersee_map"
-src="http://www.ajka-andrej.com/wp-content/uploads/2010/08/Schliersee_map.png" /></pre>

@@ -5,13 +5,13 @@ description = ""
 tags = ["panoramas","mountains","ruins","germany","lake"]
 categories = ["travelling"]
 date = "2010-08-15T20:58:24"
+banner = "/wp-content/uploads/gallery/germany/lakes/schliersee/IMG_0067t.JPG"
 +++
 
 So finally, we made one of our planned trips ( I have 37 more trips in my tourist guide :)).
 Although in Munich the weather was nice and sunny, 40 minutes southern by our car led to mountains
 covered by clouds. But it didn't discouraged us and we set off on the path leading us around the
 lake Schliersee.
-
 
 {{< panorama "/wp-content/uploads/2011/04/Schliersee.jpg"  >}}
 
@@ -32,8 +32,6 @@ and worth to come (I made the above panorama from there).
     "/wp-content/uploads/gallery/germany/lakes/schliersee/IMG_0069.JPG"
     "/wp-content/uploads/gallery/germany/lakes/schliersee/IMG_0044.jpg"
     "/wp-content/uploads/gallery/germany/lakes/schliersee/IMG_0021.JPG"
->}}
- {{< gallery
     "/wp-content/uploads/gallery/germany/lakes/schliersee/IMG_0038.jpg"
     "/wp-content/uploads/gallery/germany/lakes/schliersee/IMG_0022.JPG"
     "/wp-content/uploads/gallery/germany/lakes/schliersee/IMG_0028.JPG"
@@ -50,6 +48,3 @@ noticing. We looked helpless at them and they to us, but then Andrej found a woo
 fence. So he took one and chased the cows a bit away, hence we could walk (my hero :)). Soon we
 came out of the pasture through another transition and we came back to the lake. I would say that
 this was the maximum fusion with nature.
-
-<img alt="Schliersee_map"
-src="http://www.ajka-andrej.com/wp-content/uploads/2010/08/Schliersee_map.png" /></pre>
