@@ -5,10 +5,10 @@ description = ""
 tags = ["panoramas","mountains","germany"]
 categories = ["travelling","dailylife"]
 date = "2010-12-20T15:11:07"
+banner = "/wp-content/uploads/2010/12/wallbergSnowt.jpg"
 +++
 
-Cez víkend sme využili pekné počasie po dlhom týždni sneženia a vybrali sme sa sánkovať. Na kopčeku <a title="Wallberg" href="http://www.ajka-andrej.com/2010/08/24/wallberg/?lang=SK"
-target="_blank">Wallberg sme už boli vrámci turistiky</a>. Tentokrát sme lanovku využili smerom
+Cez víkend sme využili pekné počasie po dlhom týždni sneženia a vybrali sme sa sánkovať. Na kopčeku <a title="Wallberg" href="{{< ref "/post/2010/08/wallberg" >}}" target="_blank">Wallberg </a>sme už boli vrámci turistiky. Tentokrát sme lanovku využili smerom
 hore a dolu sme sa zviezli na sánkach.
 
 Sánky sme si požičali každý zvlášť, ale zhodli sme sa, že nabudúce už ideme iba spolu, lebo na

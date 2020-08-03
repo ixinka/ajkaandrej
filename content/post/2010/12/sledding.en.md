@@ -5,10 +5,11 @@ description = ""
 tags = ["panoramas","mountains","germany"]
 categories = ["travelling","dailylife"]
 date = "2010-12-20T15:11:07"
+banner = "/wp-content/uploads/2010/12/wallbergSnowt.jpg"
 +++
 
 Last weekend, we took advantage of a good weather after a long week of snowing and went sledding. We've already been on the <a title="Wallberg"
-href="http://www.ajka-andrej.com/2010/08/24/wallberg/" target="_blank">Wallberg hill for hiking</a>
+href="{{< ref "/post/2010/08/wallberg" >}}" target="_blank">Wallberg hill for hiking</a>
 before. This time we used the cable-car on the way up and we sledded down the hill.
 
 We borrowed sleds each separately, but later we agreed that next time we'll sled together as it
