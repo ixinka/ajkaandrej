@@ -5,10 +5,11 @@ description = ""
 tags = ["panoramas","island","portugal"]
 categories = ["travelling"]
 date = "2008-09-05T23:20:19"
+banner = "/wp-content/uploads/2011/04/FunchalCastle1t.jpg"
 +++
 
 Funchal je najväčšie mesto madeiry a jeho centrum bolo vzdialené od nášho <a title="Hotel Orca
-Praia" href="http://www.ajka-andrej.com/2008/09/05/hotel-orca-praia/?lang=SK">hotela</a> šesť
+Praia" href="{{< ref "/post/2008/09/hotel-orca-praia" >}}" target="_blank">hotela</a> šesť
 kilometrov, čo sa dalo zvládnuť aj peši. V meste nájdete veľa reštaurácií, nákupných centier,
 múzeií a parkov, kde sa dá skvele stráviť čas. Jednou nevýhodou Funchalu ale bolo, že je teraz dosť rušné, pretože všade stavajú nové hotely a
 byty. To bol aj jeden z dôvodov, prečo zostať v hoteli v tichom a pokojnom prostredí ďalej od
