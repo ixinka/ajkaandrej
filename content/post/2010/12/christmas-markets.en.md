@@ -25,11 +25,12 @@ a pizza but with cream, onion and bacon and tasted incredibly good (Flammkuchen)
     "/wp-content/uploads/2010/12/IMG_0007.jpg"
     "/wp-content/uploads/2010/12/IMG_00081.jpg"
 >}}
+
 These markets had but two imperfections. There was almost no snow. Everything was well cleaned and
 strewn with stones and somehow losing the atmosphere of winter. And then there were too many people
 and tourists, so among the stands we were moved by the crowd. Therefore we decided to go to markets
 in Englischer Garten or at least <a title="Walking in the park"
-href="http://www.ajka-andrej.com/2010/12/07/walking-in-the-park/" target="_blank">for a nice walk
+href="{{< ref "/post/2010/12/walking-in-the-park" >}}" target="_blank">for a nice walk
 in the park</a>. We somehow managed to squeeze into the subway and get off. We found ourselves in
 front of the snowy park surrounded by children with sledges. These markets were worth to come.
 There were slightly more stands with refreshments than others. Lots of snow everywhere, Christmas
