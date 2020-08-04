@@ -5,11 +5,12 @@ description = ""
 tags = ["portugal","sea"]
 categories = ["travelling"]
 date = "2010-04-13T09:12:27"
+banner = "/wp-content/uploads/gallery/portugal/porto/IMG_0060t.JPG"
 +++
 
 Chcela by som sa podeliť s vami o dojmy z ďalšej krajiny. Pred dvomi týždňami som navštívila
 Portugálsko. To, že je to krásna krajina som vedela už predtým, keďže sme strávili medové týždne
-na<a title="East Madeira" href="http://www.ajka-andrej.com/2008/09/05/eastmadeira/?lang=SK"
+na <a title="East Madeira" href="{{< ref "/post/2008/09/eastmadeira" >}}"
 target="_blank">Madeire</a>, ale zistila som, že v tejto krajine je stále čo objavovať. Môj
 portugálsky známy mi ešte doporučil ísť na juhozápadné pobrežie kvôli krásnym scenériam a relaxu,
 užiť si slniečko a Atlantický oceán. Tak som to zobrala ako skvelú inšpiráciu pre budúcu dovolenku.

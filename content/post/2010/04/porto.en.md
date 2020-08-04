@@ -5,11 +5,12 @@ description = ""
 tags = ["portugal","sea"]
 categories = ["travelling"]
 date = "2010-04-13T09:12:27"
+banner = "/wp-content/uploads/gallery/portugal/porto/IMG_0060t.JPG"
 +++
 
 I would like to share my impressions from another country with you. I visited Portugal two weeks
-ago. I already knew that it is the lovely country as we went to<a title="East Madeira"
-href="http://www.ajka-andrej.com/2008/09/05/eastmadeira/" target="_blank">Madeira</a> for our
+ago. I already knew that it is the lovely country as we went to <a title="East Madeira"
+href="{{< ref "/post/2008/09/eastmadeira" >}}" target="_blank">Madeira</a> for our
 honeymoon, but I found out that there is still so much to explore. My Portuguese friend also
 recommended me to go to south west coast for beautiful sceneries and relax, to relish sun and
 Atlantic ocean. So I consider it as a very nice inspiration for a future holiday This time I traveled to Braga for a Serious games conference and I spent several hours in Porto. It
