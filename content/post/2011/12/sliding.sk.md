@@ -5,10 +5,10 @@ description = ""
 tags = ["panoramas","mountains","germany"]
 categories = ["travelling","dailylife"]
 date = "2011-12-29T00:02:06"
-banner = "/wp-content/uploads/2011/12/IMG_00231.jpg"
+banner = "/wp-content/uploads/2011/12/IMG_00231t.jpg"
 +++
 
-V rámci vianočného oddychovania a dovolenky sme sa vybrali sánkovať. <a title="sánkovanie minulý rok" href="http://www.ajka-andrej.com/2010/12/20/sledding/"
+V rámci vianočného oddychovania a dovolenky sme sa vybrali sánkovať. <a title="sánkovanie minulý rok" href="{{< ref "/post/2010/12/sledding" >}}"
 target="_blank">Tu sú zábery</a> z minulého roku. Tentokrát sme ale išli na sánkach spolu a
 vyrazili sme skôr, takže sme prvú jazdu mali v podstate trať len pre seba. No a ja som sa pokúsila
 spraviť pár videií počas sánkovania (v strmších úsekoch je trochu viac roztrasené, lebo som musela
@@ -26,4 +26,4 @@ najrýchlejšie sme išli 30 km/h.
 
 {{< panorama "/wp-content/uploads/2011/12/Wallberg_winter_m.jpg"  >}}
 
-[youtube]http://www.youtube.com/watch?v=mg_FOzIktK4[/youtube]
+{{< youtube mg_FOzIktK4 >}}
