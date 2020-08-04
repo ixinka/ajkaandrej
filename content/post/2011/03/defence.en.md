@@ -5,7 +5,7 @@ description = ""
 tags = ["england"]
 categories = ["dailylife"]
 date = "2011-03-01T19:12:08"
-banner = "/wp-content/uploads/2011/03/praca.jpg"
+banner = "/wp-content/uploads/2011/03/pracat.jpg"
 +++
 
 Finally, I have an explanation, why I and my dear Andrej had disappeared from Skype since Friday. I
@@ -35,6 +35,7 @@ about communication and your skills to convince them about what you have done.
 {{< gallery
     "/wp-content/uploads/2011/03/praca.jpg"
 >}}
+
 On Monday morning I had such a strange mood and I couldn't stop smiling. I chatted with my
 supervisor about things like what is my contribution to knowledge, the main hypothesis and how
 could be my work applied in reality and extended to other applications. Then I fed myself with some

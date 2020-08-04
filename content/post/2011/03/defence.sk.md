@@ -5,7 +5,7 @@ description = ""
 tags = ["england"]
 categories = ["dailylife"]
 date = "2011-03-01T19:12:08"
-banner = "/wp-content/uploads/2011/03/praca.jpg"
+banner = "/wp-content/uploads/2011/03/pracat.jpg"
 +++
 
 Pre všetkých, ktorým som v piatok zmizla z dohľadu na skype a spolu so mnou aj môj drahý Andrej mám
@@ -32,7 +32,9 @@ vedúci, ale stáva sa aj také. Celé je to o komunikačných a presviedčacíc
 
 {{< gallery
     "/wp-content/uploads/2011/03/praca.jpg"
->}}<a> href="http://www.ajka-andrej.com/wp-content/uploads/2011/03/praca.jpg"></a>V pondelok ráno
+>}}
+
+V pondelok ráno
 som chytila takú zvláštnú náladu a nemohla som sa prestať usmievať. S vedúcim som ešte pokecala o
 veciach typu, čo je najväčším novým poznatkom mojej práce, aká je hlavná hypotéza, ako sa dajú
 aplikovať poznatky v realite a rozšíriť na iné aplikácie. Potom som do seba napchala niečo na
