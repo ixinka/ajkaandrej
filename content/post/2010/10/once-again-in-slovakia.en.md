@@ -5,11 +5,12 @@ description = ""
 tags = ["slovakia"]
 categories = ["dailylife"]
 date = "2010-10-12T09:01:14"
+banner = "/wp-content/uploads/2010/10/IMG_0045t.jpg"
 +++
 
 Once again, we travelled to Slovakia to see our friends and family, <a title="Mushrooms"
-href="http://www.ajka-andrej.com/2010/10/12/mushrooms/" target="_blank">to gather some
-mushrooms</a> and to enjoy a feast in Cerova, but especially to go to the Andrej's brother wedding. The wedding took place in <a title="Castel Pension" href="http://castel.sk/en_index.html"
+href="{{< ref "/post/2010/10/mushrooms" >}}" target="_blank">to gather some
+mushrooms</a> and to enjoy a feast in Cerova, but especially to go to the Andrej's brother wedding. The wedding took place in <a title="Castel Pension" href="https://castelmierovo.sk/"
 target="_blank">Castel Pension</a> in Mierovo. Although I don't know how the old manor house looked
 like before, I think its reconstruction was really successful. I was especially enchanted by a
 garden, which despite its relatively small dimension looked very spacious and thanks to various
