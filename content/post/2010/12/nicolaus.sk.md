@@ -4,6 +4,7 @@ slug = "svaty-mikulas"
 description = ""
 categories = ["dailylife"]
 date = "2010-12-10T10:31:08"
+banner = "/wp-content/uploads/2010/12/mikulast.jpg"
 +++
 
 Tento rok sme na deň sv. Mikuláša hrali večer zaujímavú hru aj s ďalšími asi 40 ľuďmi. Hra sa volá

@@ -4,6 +4,7 @@ slug = "advent"
 description = ""
 categories = ["dailylife"]
 date = "2010-12-01T13:24:15"
+banner = "/wp-content/uploads/2010/12/IMG_00211t.jpg"
 +++
 
 Po troch rokoch je tohtoročný advent pre nás výnimočný, lebo konečne neplánujeme vianoce ako
@@ -14,6 +15,7 @@ počasiu.
 {{< gallery
     "/wp-content/uploads/2010/12/IMG_00211.jpg"
 >}}
+
 Konečne som sa úspešne zbavila školy a písania práce (aj keď na obhajoby začnem určite myslieť
 budúci rok) a začala som si užívať zimu. Výsledkom je naplánovaná lyžovačka v januári (a po
 objavení ďalších stredísk v našom okolí asi aj kopa víkendových lyžovačiek). Na kratučkom videu je

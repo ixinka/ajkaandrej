@@ -5,6 +5,7 @@ description = ""
 tags = ["slovakia","cerova"]
 categories = ["dailylife"]
 date = "2010-08-06T16:00:20"
+banner = "/wp-content/uploads/2010/08/IMG_0037t.jpg"
 +++
 
 Odvtedy, čo sme v Mníchove, jeme viacej mäska, celozrnného pečiva, zeleniny a ovocia. V nedeľu je
@@ -19,6 +20,7 @@ chovu sliepok. Aby sme ale predsa mali na čo umrieť, občas sa napcháme pizzo
     "/wp-content/uploads/2010/08/IMG_0040.jpg"
     "/wp-content/uploads/2010/08/IMG_0044.jpg"
 >}}
+
 Celkovo sme si zvykli na taký nejaký stravovací štandard a tak nás veľmi potešil nedávný výlet na
 Cerovú. Medzi hriadkami zemiakov a zeleniny sme sa napchali ríbezľami a hruškami, nevynechali sme
 ani hrášok a skončili sme pri marhuli. Potom sa uvarí zeleninová polievka z práve vykopanej mrkvy,

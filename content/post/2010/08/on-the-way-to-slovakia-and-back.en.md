@@ -5,6 +5,7 @@ description = ""
 tags = ["panoramas","austria","lake"]
 categories = ["travelling","dailylife"]
 date = "2010-08-06T13:45:20"
+banner = "/wp-content/uploads/gallery/austria/mondsee/IMG_0046t.jpg"
 +++
 
 As a part of running in our new car we went to Slovakia. All the traffic jams somehow managed to
@@ -19,6 +20,7 @@ that we somehow forgot how many holes and patches are able to fit an average roa
 the travelling was comfortable and quite nice but little bit tedious.
 
 {{< panorama "/wp-content/uploads/2011/04/Mondsee.jpg"  >}}
+
 On the way back we set off around half eight in the morning in order to avoid the morning traffic
 jam in Bratislava. Since we had a whole day before us accompanied by the beautiful sunny weather,
 we did have two nice breaks in Austria. One of them was near Mondsee (moon lake), near the border

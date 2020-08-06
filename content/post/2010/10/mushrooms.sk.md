@@ -5,6 +5,7 @@ description = ""
 tags = ["slovakia","cerova"]
 categories = ["dailylife"]
 date = "2010-10-12T11:09:01"
+banner = "/wp-content/uploads/2010/10/IMG_0023t.jpg"
 +++
 
 Konečne sa nám podarilo ísť na huby, o čom sme snívali celé leto. Poriadne sme sa obliekli, nasadili
@@ -19,6 +20,7 @@ Andrejkom sme našli aj dva krásne veľké dubáky, takže o radosť bolo posta
     "/wp-content/uploads/2010/10/IMG_0003.jpg"
     "/wp-content/uploads/2010/10/IMG_0004.jpg"
 >}}
+
 Doma nás potom ešte čakala robota všetky huby vyčistiť a nakrájať. Tie menšie mladučké aj s
 kuriatkami skončili v praženici no a zvyšok sa vysušil. Výsledkom nášho snaženia boli nakoniec tri
 veľké flaše sušených húb, na ktoré sa doteraz spokojne pozerám.

@@ -5,6 +5,7 @@ description = ""
 tags = ["slovakia","cerova"]
 categories = ["dailylife"]
 date = "2010-08-06T16:00:20"
+banner = "/wp-content/uploads/2010/08/IMG_0037t.jpg"
 +++
 
 Since we have lived in Munich, we eat more meat, wholemeal bread, vegetables and fruit. On Sunday,
@@ -21,6 +22,7 @@ But as we still have to die on something, we sometimes tear into a pizza:)
     "/wp-content/uploads/2010/08/IMG_0040.jpg"
     "/wp-content/uploads/2010/08/IMG_0044.jpg"
 >}}
+
 Generally, we got used to a higher food standard, and so were delighted by recent trip to Cerová.
 Among seedbeds for potatoes and vegetables, we ate currants and pears, we didn't even miss peas and
 we ended up with apricots. Then a vegetable soup from just dug carrots, parsley, kale and potatoes

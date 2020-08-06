@@ -4,6 +4,7 @@ slug = "vosky"
 description = ""
 categories = ["dailylife"]
 date = "2010-08-20T12:34:31"
+banner = "/wp-content/uploads/2011/01/basilt.jpg"
 +++
 
 Ja viem, že aj tieto malé zvieratká sú súčasťou prírody, ale keď vám niekto začne požierať s láskou
@@ -12,9 +13,11 @@ nimi bola aj bazalka, moja veľmi oblúbená súčasť kuchyne. Darilo sa jej ab
 na jej lístkoch neobjavili vošky. Teoreticky som ju mohla postriekať nejakým prípravkom na vošky,
 ale kúpili sme ju ako bio rastlinu, tak mi to prišlo ako čudný nápad. A tak som začala hľadať na
 internete a skúšala som všeličo, ale žiaľ moja bazalka to neprežila.
+
 {{< gallery
     "/wp-content/uploads/2011/01/basil.jpg"
 >}}
+
 Potom som sa dočítala, že vošky nemajú rady levandulu a keďže sme dostali do daru vrecúško sušenej
 levandule z Chorvátska, povedala som si, že to s bazalkou skúsim znovu. Tentokrát som ale časť
 sušenej levandule nasypala na zeminu v kvetináči a samotné pootvorené vrecúško som nechala opreté o

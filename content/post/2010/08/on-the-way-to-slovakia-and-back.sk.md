@@ -5,6 +5,7 @@ description = ""
 tags = ["panoramas","austria","lake"]
 categories = ["travelling","dailylife"]
 date = "2010-08-06T13:45:20"
+banner = "/wp-content/uploads/gallery/austria/mondsee/IMG_0046t.jpg"
 +++
 
 Vrámci zabehávania nášho autíčka sme sa vybrali na Slovensko. Všetky zápchy sa nám nejako vyhli
@@ -18,6 +19,7 @@ akosi zabudli, koľko jám a záplat sa dokáže na takú priemernú cestu zmest
 bolo celkom príjemné akurát trochu únavné.
 
 {{< panorama "/wp-content/uploads/2011/04/Mondsee.jpg"  >}}
+
 Na cestu späť sme sa vybrali okolo pol deviatej ráno, čím sme sa vyhli ranným zápcham v Bratislave.
 Sprevádzalo nás krásne slnečné počasie a keďže sme mali celý deň pred sebou, spravili sme si dve
 príjemné prestávky v Rakúsku. Jednou z nich bolo Mondsee (mesačné jazero), blízko hraníc s
@@ -28,7 +30,6 @@ obklopených horami s množstvom plachetníc a jednoznačne patrí k miestam, od
 odtrháva pohľad. Nebyť toho, že nám myšlienky ťažila predstava posledného úseku domov, ktorý býva z
 pravidla najviac vyťažený, by sme tam ostali aj dlhšie.
 
-view=category|categoryid=119|imageid=4041|float=left}
 {{< gallery
     "/wp-content/uploads/gallery/austria/mondsee/IMG_0056.JPG"
     "/wp-content/uploads/gallery/austria/mondsee/IMG_0046.JPG"

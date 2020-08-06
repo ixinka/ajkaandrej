@@ -4,6 +4,7 @@ slug = "advent"
 description = ""
 categories = ["dailylife"]
 date = "2010-12-01T13:24:15"
+banner = "/wp-content/uploads/2010/12/IMG_00211t.jpg"
 +++
 
 After three years, this year's advent is special for us. Finally, we don't plan Christmas as a

@@ -5,6 +5,7 @@ description = ""
 tags = ["slovakia","cerova"]
 categories = ["dailylife"]
 date = "2010-10-12T11:09:01"
+banner = "/wp-content/uploads/2010/10/IMG_0023t.jpg"
 +++
 
 Finally, we managed to go to gather mushrooms, what we dreamed about all the summer. We dressed
@@ -20,6 +21,7 @@ satisfied. Together with Andrej we found two beautiful large mushrooms, so we we
     "/wp-content/uploads/2010/10/IMG_0003.jpg"
     "/wp-content/uploads/2010/10/IMG_0004.jpg"
 >}}
+
 At home, we needed to clean and slice all the mushrooms. Those smaller and younger together with
 yellow chanterelles ended up in scrambled eggs and the rest was dried. The result of our efforts
 were eventually three large bottles of dried mushrooms, at which I still look with great

@@ -4,6 +4,7 @@ slug = "saint-nicholas"
 description = ""
 categories = ["dailylife"]
 date = "2010-12-10T10:31:08"
+banner = "/wp-content/uploads/2010/12/mikulast.jpg"
 +++
 
 This year's St. Nicholas evening we played an interesting game called A white elephant gift exchange

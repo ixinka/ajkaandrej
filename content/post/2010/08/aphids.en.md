@@ -4,6 +4,7 @@ slug = "aphids"
 description = ""
 categories = ["dailylife"]
 date = "2010-08-20T12:34:31"
+banner = "/wp-content/uploads/2011/01/basilt.jpg"
 +++
 
 I know that these little critters are also part of nature, but when someone starts eating plants
@@ -17,6 +18,7 @@ basil didn't survive.
 {{< gallery
     "/wp-content/uploads/2011/01/basil.jpg"
 >}}
+
 Then I read that aphids hate lavender and since we got as a gift a bag of dried lavender from
 Croatia, I said to myself that it is time to try it again. But this time I put a little amount of
 dried lavender on the soil in the flowerpot and rested the slightly opened lavender bag next to it.
