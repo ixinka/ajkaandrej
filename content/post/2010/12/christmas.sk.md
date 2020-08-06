@@ -4,6 +4,7 @@ slug = "vianoce"
 description = ""
 categories = ["dailylife"]
 date = "2010-12-30T19:23:05"
+banner = "/wp-content/uploads/2010/12/IMG_0008t.jpg"
 +++
 
 Tento rok sme ozdobili náš prvý spoločný vianočný stromček. Zháňali sme svetlá, ozdoby a nakupovali

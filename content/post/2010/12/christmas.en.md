@@ -4,6 +4,7 @@ slug = "christams"
 description = ""
 categories = ["dailylife"]
 date = "2010-12-30T19:23:05"
+banner = "/wp-content/uploads/2010/12/IMG_0008t.jpg"
 +++
 
 This year we decorated our first common Christmas tree. We bought lights, decorations and gifts

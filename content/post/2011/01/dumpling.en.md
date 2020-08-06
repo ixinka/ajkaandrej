@@ -5,6 +5,7 @@ description = ""
 tags = ["cooking"]
 categories = ["dailylife"]
 date = "2011-01-17T11:08:45"
+banner = "/wp-content/uploads/2011/01/IMG_0013t.jpg"
 +++
 
 Generally, a man, who has lived abroad for longer time, usually finds out that he lacks some food or

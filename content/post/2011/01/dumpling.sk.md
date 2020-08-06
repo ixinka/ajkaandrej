@@ -5,6 +5,7 @@ description = ""
 tags = ["cooking"]
 categories = ["dailylife"]
 date = "2011-01-17T11:08:45"
+banner = "/wp-content/uploads/2011/01/IMG_0013t.jpg"
 +++
 
 Človek, ktorý žije dlhšie v zahraničí väčšinou po čase zistí, že mu chýba nejaké jedlo alebo
