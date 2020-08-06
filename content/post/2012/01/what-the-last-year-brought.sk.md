@@ -4,6 +4,7 @@ slug = "co-priniesol-minuly-rok"
 description = ""
 categories = ["dailylife"]
 date = "2012-01-17T22:20:08"
+banner = "/wp-content/uploads/2012/01/IMG_2963t.jpg"
 +++
 
 Začal sa lyžovačkou a dvomi dobrými pocitmi. Jedným bola vyhliadka na nový rok, v ktorom nám hrozilo, že budeme konečne bývať spolu (čo sa aj
@@ -21,4 +22,5 @@ fotky ďakujeme Ivke a Miškovi.
     "/wp-content/uploads/2012/01/IMG_2963.jpg"
     "/wp-content/uploads/2012/01/IMG_2951.jpg"
 >}}
+
 PS Tento rok nám dá asi zabrať, aby sme ten minulý prekonali.

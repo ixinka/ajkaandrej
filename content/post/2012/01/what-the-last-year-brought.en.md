@@ -4,6 +4,7 @@ slug = "what-the-last-year-brought"
 description = ""
 categories = ["dailylife"]
 date = "2012-01-17T22:20:08"
+banner = "/wp-content/uploads/2012/01/IMG_2963t.jpg"
 +++
 
 It started with skiing and two good feelings. One of them was the prospect of a new year that we could finally live together (this wish came true)
@@ -21,4 +22,5 @@ Ivka and Miško for the beautiful pictures.
     "/wp-content/uploads/2012/01/IMG_2963.jpg"
     "/wp-content/uploads/2012/01/IMG_2951.jpg"
 >}}
+
 PS It takes a lot of effort to overcome the past year.
