@@ -31,3 +31,5 @@ At the end of the holidays, we finally managed to travel to our family. Almost t
   "/images/2021/09/IMG_20210903_175958070_HDR.jpg"
   "/images/2021/09/IMG_20210906_095753629_HDR.jpg"
 >}}
+<br/>
+{{< video src="/video/2021/09/Traktor.m4v" height="480" width="720" >}}

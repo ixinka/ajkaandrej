@@ -32,6 +32,8 @@ Ku koncu prázdnin sa nám konečne podarilo vycestovať za rodinou. Už tak nej
   "/images/2021/09/IMG_20210906_095753629_HDR.jpg"
 >}}
 
+<br/>
+{{< video src="/video/2021/09/Traktor.m4v" height="480" width="720" >}}
 
 
 
