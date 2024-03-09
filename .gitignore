@@ -5,4 +5,5 @@
 latest.diff
 latest.hash
 /public
+.hugo_build.lock
 
