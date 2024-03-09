@@ -1,0 +1,75 @@
+  
+- id: category
+  translation: "Kategória"
+    
+- id: tag
+  translation: "Tag"
+  
+- id: categories
+  translation: "Kategórie"
+    
+- id: tags
+  translation: "Tagy"
+  
+- id: profile.location
+  translation: "Mníchov"
+  
+- id: profile.bio
+  translation: "ži - miluj - smej sa"
+  
+- id: profile.follow_button
+  translation: "Nasleduj" 
+  
+- id: profile.tags
+  translation: "Tagy"  
+  
+- id: profile.posts
+  translation: "Články"
+  
+- id: articles.read_more
+  translation: "Čítať ďalej" 
+  
+- id: articles.words
+  translation: "slov" 
+  
+- id: articles.readingtime
+  translation: "min čítania" 
+  
+- id: articles.share
+  translation: "Zdieľať"  
+    
+- id: articles.comments
+  translation: "Komenty"
+  
+- id: articles.linked_posts.older
+  translation: "Starší"
+  
+- id: articles.linked_posts.newer
+  translation: "Novší"
+  
+- id: pagination.previous
+  translation: "Predošlý" 
+  
+- id: pagination.next
+  translation: "Ďalší"
+  
+- id: widgets.categories
+  translation: "Kategórie"
+  
+- id: widgets.recent_articles
+  translation: "Najnovšie"
+
+- id: widgets.tag_cloud
+  translation: "Tagy"
+
+- id: widgets.tags
+  translation: "Tagy"
+  
+- id: search.placeholder
+  translation: "Hľadaj"
+  
+- id: page_not_found.title
+  translation: "404 - stránka nebola nájdená" 
+  
+- id: page_not_found.subtitle
+  translation: "Hľadaný článok neexistuje."

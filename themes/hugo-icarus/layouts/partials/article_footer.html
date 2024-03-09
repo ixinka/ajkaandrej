@@ -3,8 +3,8 @@
         <i class="fa fa-share"></i>
         {{ i18n "articles.share" }}
     </a>
-    {{ if not (eq .Site.DisqusShortname "") }}
-    <a href="{{ .Permalink }}/#disqus_thread" class="article-comment-link">
+    {{ if and (not (eq .Site.DisqusShortname "")) (not .Params.disable_comments) }}
+    <a href="{{ .Permalink }}#disqus_thread" class="article-comment-link">
         {{ i18n "articles.comments" }}
     </a>
     {{end}}

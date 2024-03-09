@@ -1,9 +1,8 @@
 {{ if .IsTranslated }}
 <div class="widget-wrap">
-	
-    {{ range $i, $e := .Translations }}
-        <a href="{{ .Permalink }}">{{ $e.Language.LanguageName }}</a>
-    {{ end}}
 
+    {{ range $.Site.Home.AllTranslations }}
+        <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+    {{ end }}
 </div>
 {{ end }}

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ with .Lang }}{{ . }}{{ else }}en-US{{ end }}">
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 <head>
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
     {{ hugo.Generator }}
@@ -11,22 +11,22 @@
     {{ else }}
       <meta name="description" content="{{ .Site.Params.site_description }}">
     {{ end }}
-      <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-      <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+    {{ with .OutputFormats.Get "RSS" }}
+      <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+      <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
+    {{ end }}
     <link rel="canonical" href="{{ .Permalink }}"/>
-    <link rel="icon" href="{{ .Site.BaseURL }}favicon.ico">
-    <link rel="apple-touch-icon" href="{{ .Site.BaseURL }}apple-touch-icon.png" />
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/font-awesome.min.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/monokai.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}fancybox/jquery.fancybox.css">
+    <link rel="icon" href="{{ "favicon.ico" | absURL }}">
+    <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | absURL }}"/>
+    <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "css/monokai.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "fancybox/jquery.fancybox.css" | absURL }}">
+    {{ range .Site.Params.custom_css }}
+    <link rel="stylesheet" href="{{ . | absURL }}">
+    {{ end }}
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
-	
-	<link rel="alternate" href="{{ .Site.BaseURL }}sk" hreflang="sk" />
-	<link rel="alternate" href="{{ .Site.BaseURL }}" hreflang="en" />
-	<link rel="alternate" href="{{ .Site.BaseURL }}" hreflang="x-default" />
-	
     {{ template "_internal/opengraph.html" . }}
 
     {{ template "_internal/schema.html" . }}
@@ -40,17 +40,9 @@
         }
     </style>
     {{ end }}
-	<script type="text/javascript">
-		var disqus_config = function () { 
-			this.language = {{ .Lang }};
-		};
-		if (window.location.pathname == "/" && window.navigator.language == 'sk') {
-			window.location.href = "/sk"
-		}
-	</script>	
+
     <!-- needs to be loaded first for following scripts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 </head>
 <body>
-
 <div class="container">

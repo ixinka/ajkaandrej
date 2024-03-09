@@ -1,0 +1,8 @@
+{{ if .IsTranslated }}
+<div class="widget-wrap">
+    {{ range $i, $e := .Translations }}
+        <a href="{{ .Permalink }}">{{ $e.Language.LanguageName }}</a>
+    {{ end}}
+
+</div>
+{{ end }}
